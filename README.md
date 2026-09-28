@@ -1,6 +1,6 @@
 # Universo Soda/Cerati
 
-Aplicacion fullstack con Next.js App Router para explorar el catalogo, leer las
+Aplicacion web con Next.js App Router para explorar el catalogo, leer las
 tablaturas desde archivos TXT y renderizar paginas indexables con metadata SEO.
 
 ## Ejecutar
@@ -44,3 +44,9 @@ La home se renderiza en servidor para soportar busqueda por URL. Las paginas de
 artista y las 204 fichas se generan desde el snapshot versionado. Los TXT no se
 guardan en `public/`: solo el contenido validado se incorpora al HTML de cada
 ficha.
+
+Los diagramas de acordes tambien funcionan sin servicios externos. Las
+posiciones proceden del paquete MIT `@tombatossals/chords-db`, se resuelven en
+el servidor durante el render y se dibujan como SVG en el navegador. Solo las
+posiciones utilizadas por cada cancion se envian al cliente; no existe una
+base de datos ni una API en tiempo de ejecucion.

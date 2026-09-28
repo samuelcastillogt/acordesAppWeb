@@ -598,6 +598,159 @@ h2 {
   font-weight: 600;
 }
 
+.chord-token {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  text-decoration: underline;
+  text-decoration-color: rgba(247, 204, 114, 0.42);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  cursor: pointer;
+}
+
+.chord-token::before {
+  position: absolute;
+  inset: -8px -3px;
+  content: "";
+}
+
+.chord-token:hover {
+  color: #fff1bf;
+  text-decoration-color: currentColor;
+}
+
+.chord-dialog-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+}
+
+.chord-popover {
+  position: fixed;
+  width: 288px;
+  max-height: calc(100dvh - 32px);
+  padding: 18px;
+  overflow-y: auto;
+  border: 1px solid #454b53;
+  border-radius: var(--radius-lg);
+  color: var(--text);
+  background: #181b1f;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.58);
+}
+
+.chord-popover-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.chord-popover-header .eyebrow {
+  margin: 0 0 3px;
+}
+
+.chord-popover-header h3 {
+  margin: 0;
+  font-family: var(--font-editorial), Georgia, serif;
+  font-size: 1.75rem;
+}
+
+.chord-close {
+  display: inline-grid;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  place-items: center;
+  color: var(--text);
+  background: var(--surface-soft);
+  cursor: pointer;
+}
+
+.chord-close:hover {
+  border-color: var(--accent);
+}
+
+.chord-close svg {
+  width: 19px;
+  height: 19px;
+}
+
+.chord-diagram {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 4px auto 0;
+}
+
+.chord-string,
+.chord-fret {
+  stroke: #92979e;
+  stroke-width: 2;
+}
+
+.chord-nut {
+  stroke: var(--text);
+  stroke-width: 7;
+}
+
+.chord-barre {
+  stroke: var(--accent);
+  stroke-width: 23;
+  stroke-linecap: round;
+}
+
+.chord-finger {
+  fill: var(--accent);
+}
+
+.chord-marker,
+.chord-fret-label,
+.chord-tuning,
+.chord-finger-label {
+  font-family: var(--font-mono), monospace;
+  text-anchor: middle;
+}
+
+.chord-marker {
+  fill: var(--muted);
+  font-size: 20px;
+}
+
+.chord-fret-label {
+  fill: var(--muted);
+  font-size: 12px;
+  text-anchor: start;
+}
+
+.chord-tuning {
+  fill: var(--muted);
+  font-size: 13px;
+}
+
+.chord-finger-label {
+  fill: var(--accent-ink);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.chord-help {
+  margin: -4px 0 0;
+  color: var(--muted);
+  font-family: var(--font-mono), monospace;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
 .sheet-line.tab {
   color: #90c8ff;
 }
@@ -688,6 +841,21 @@ h2 {
 
   .reader-toolbar {
     display: grid;
+  }
+
+  .chord-dialog-layer {
+    display: flex;
+    align-items: flex-end;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.62);
+  }
+
+  .chord-popover {
+    position: relative;
+    inset: auto !important;
+    width: 100%;
+    max-height: min(520px, calc(100dvh - 24px));
+    padding-bottom: max(18px, env(safe-area-inset-bottom));
   }
 }
 

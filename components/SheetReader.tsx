@@ -1,21 +1,14 @@
 import { BadgeCheck } from "lucide-react";
 
-type SheetLine =
-  | { type: "section"; value: string }
-  | { type: "tab"; value: string }
-  | { type: "chord"; value: string }
-  | { type: "instruction"; value: string }
-  | { type: "lyric"; value: string }
-  | { type: "blank"; value: "" };
+import { InteractiveSheet } from "@/components/InteractiveSheet";
+import type { InteractiveSheetLine } from "@/lib/chord-types";
+import { isChordSymbol, tokenizeChordLine } from "@/lib/chords";
 
 const SECTION_RE =
   /^(intro|estrofa|verso|coro|chorus|puente|bridge|solo|final|outro|interludio|riff|pre[- ]?coro)\b[:.]?$/i;
 const TAB_RE = /^\s*([eEbBgGdDaA][|:])|[-0-9hbp~/\\|]{6,}/;
 const INSTRUCTION_RE =
   /\b(afinaci[oó]n|capo|cejilla|tono|transportar|varias veces|arpegio|rasgueo|x\d+)\b/i;
-const CHORD_TOKEN_RE =
-  /^(\(?\[?)?(N\.C\.|[A-G](?:#|b)?(?:m|maj|min|dim|aug|sus|add)?\d*(?:maj\d+)?(?:[#b]\d+)?(?:\/[A-G](?:#|b)?)?)(\)?\]?)?$/;
-
 export function SheetReader({ content }: { content: string }) {
   const lines = classifyLines(content);
 
@@ -32,28 +25,20 @@ export function SheetReader({ content }: { content: string }) {
         </span>
       </div>
 
-      <div className="sheet-lines">
-        {lines.map((line, index) =>
-          line.type === "blank" ? (
-            <div className="sheet-blank" key={index} aria-hidden="true" />
-          ) : (
-            <pre className={`sheet-line ${line.type}`} key={index}>
-              {line.value}
-            </pre>
-          ),
-        )}
-      </div>
+      <InteractiveSheet lines={lines} />
     </section>
   );
 }
 
-function classifyLines(content: string): SheetLine[] {
+function classifyLines(content: string): InteractiveSheetLine[] {
   return content.split("\n").map((line) => {
     if (!line.trim()) return { type: "blank", value: "" };
     const trimmed = line.trim();
     if (SECTION_RE.test(trimmed)) return { type: "section", value: line };
     if (TAB_RE.test(line)) return { type: "tab", value: line };
-    if (isChordLine(line)) return { type: "chord", value: line };
+    if (isChordLine(line)) {
+      return { type: "chord", value: line, segments: tokenizeChordLine(line) };
+    }
     if (INSTRUCTION_RE.test(line)) return { type: "instruction", value: line };
     return { type: "lyric", value: line };
   });
@@ -65,5 +50,5 @@ function isChordLine(line: string): boolean {
     .split(/[\s-]+/)
     .filter(Boolean);
   if (!tokens.length) return false;
-  return tokens.filter((token) => CHORD_TOKEN_RE.test(token)).length / tokens.length >= 0.65;
+  return tokens.filter(isChordSymbol).length / tokens.length >= 0.65;
 }
