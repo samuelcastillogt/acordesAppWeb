@@ -4,14 +4,18 @@ import { notFound } from "next/navigation";
 import { ShieldCheck } from "lucide-react";
 import { SheetReader } from "@/components/SheetReader";
 import { SiteHeader } from "@/components/SiteHeader";
-import { getSong, getSongSheet } from "@/lib/catalog";
+import { getSong, getSongSheet, getStaticSongParams } from "@/lib/catalog";
 import { absoluteUrl, truncateDescription } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{ artistSlug: string; songSlug: string }>;
 };
 
-export const dynamic = "force-dynamic";
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return getStaticSongParams();
+}
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { artistSlug, songSlug } = await params;
@@ -25,7 +29,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const description = truncateDescription(
-    `${song.title} de ${song.artistName}: ficha del catalogo editorial publico.`
+    `${song.title} de ${song.artistName}: acordes y tablatura del catalogo integrado.`
   );
 
   return {
@@ -56,7 +60,7 @@ export default async function SongPage({ params }: PageProps) {
   const { artistSlug, songSlug } = await params;
   const [song, sheet] = await Promise.all([
     getSong(artistSlug, songSlug),
-    getSongSheet(songSlug),
+    getSongSheet(artistSlug, songSlug),
   ]);
 
   if (!song || !sheet) notFound();
@@ -76,14 +80,14 @@ export default async function SongPage({ params }: PageProps) {
 
           <div className="detail-hero">
             <div>
-               <p className="eyebrow">Obra publicada</p>
+               <p className="eyebrow">Cancion y tablatura</p>
                <h1>{song.title}</h1>
-               <p>{song.summary ?? "Ficha aprobada para el catalogo editorial publico."}</p>
+               <p>{song.summary ?? "Contenido leido desde la fuente TXT integrada."}</p>
             </div>
             <div className="privacy-card">
               <ShieldCheck aria-hidden="true" />
                <strong>Publicacion revisada</strong>
-               <p>Esta pagina solo usa datos aprobados por el backend editorial.</p>
+               <p>Esta pagina lee una fuente TXT incluida y validada durante el render.</p>
             </div>
           </div>
 

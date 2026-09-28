@@ -6,8 +6,7 @@ export default function robots(): MetadataRoute.Robots {
     rules: [
       {
         userAgent: "*",
-        allow: ["/", "/soda-stereo", "/gustavo-cerati"],
-        disallow: ["/canciones/"],
+        allow: ["/", "/soda-stereo", "/gustavo-cerati", "/canciones/"],
       },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,

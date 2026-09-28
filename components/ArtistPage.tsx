@@ -14,7 +14,7 @@ export async function ArtistPage({ artistSlug }: { artistSlug: string }) {
           <p className="eyebrow">Artista</p>
           <h1 id="artist-title">{artistName}</h1>
           <p className="section-copy">
-            {songs.length} obras disponibles en el catalogo editorial publico.
+            {songs.length} obras disponibles en el catalogo integrado.
           </p>
           <SongList songs={songs} />
         </section>

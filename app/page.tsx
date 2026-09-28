@@ -13,7 +13,7 @@ type PageProps = {
 export const metadata: Metadata = {
   title: "Catalogo de canciones, historia y acordes",
   description:
-    "Explora el catalogo editorial publico de Soda Stereo y Gustavo Cerati.",
+    "Explora el catalogo de canciones y tablaturas de Soda Stereo y Gustavo Cerati.",
 };
 
 export default async function HomePage({ searchParams }: PageProps) {
@@ -40,7 +40,7 @@ export default async function HomePage({ searchParams }: PageProps) {
             <h2 id="results-title">Canciones y tablaturas</h2>
             <p className="section-copy">
               {truncateDescription(
-                "Resultados renderizados en servidor desde el catalogo editorial aprobado. Los materiales privados nunca se sirven desde esta aplicacion."
+                 "Resultados renderizados en servidor desde el catalogo integrado. Cada tablatura se lee y valida directamente desde su archivo TXT."
               )}
             </p>
             <SongList songs={visibleSongs} />

@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: SITE_NAME,
     description:
-      "Catalogo editorial y lector musical para Soda Stereo y Gustavo Cerati.",
+      "Catalogo y lector musical para Soda Stereo y Gustavo Cerati.",
     type: "website",
     url: SITE_URL,
     images: [{ url: "/studio-catalog.png", width: 1680, height: 945, alt: "" }],

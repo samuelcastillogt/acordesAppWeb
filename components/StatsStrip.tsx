@@ -16,13 +16,13 @@ export function StatsStrip({ stats }: { stats: CatalogStats }) {
       </article>
       <article className="metric-card">
         <ShieldCheck aria-hidden="true" />
-        <span>Raw publico</span>
-        <strong>No</strong>
+        <span>Fuente</span>
+        <strong>TXT</strong>
       </article>
       <article className="metric-card">
         <Sparkles aria-hidden="true" />
-        <span>Rendering</span>
-        <strong>SSR</strong>
+        <span>Integridad</span>
+        <strong>SHA-256</strong>
       </article>
     </section>
   );

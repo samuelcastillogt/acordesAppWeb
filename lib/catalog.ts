@@ -1,38 +1,12 @@
 import "server-only";
 
+import { createHash } from "node:crypto";
+import { lstat, readFile, realpath } from "node:fs/promises";
+import path from "node:path";
+
 import { cache } from "react";
 
 export type ArtistSlug = "soda-stereo" | "gustavo-cerati" | string;
-
-export type ArtistSummary = {
-  slug: ArtistSlug;
-  name: string;
-  summary: string | null;
-  work_count: number;
-};
-
-type WorkSummary = {
-  slug: string;
-  title: string;
-  summary: string | null;
-  artists: ArtistSummary[];
-  updated_at: string;
-};
-
-type WorkListResponse = {
-  items: WorkSummary[];
-  pagination: {
-    limit: number;
-    offset: number;
-    total: number;
-    next_offset: number | null;
-  };
-};
-
-type WorkSheetResponse = {
-  work_slug: string;
-  content: string;
-};
 
 export type CatalogSong = {
   artist_slug: ArtistSlug;
@@ -51,7 +25,22 @@ export type CatalogStats = {
   last_public_update: string | null;
 };
 
-const API_URL = (process.env.SODA_API_URL ?? "http://127.0.0.1:8000").replace(/\/$/, "");
+type ManifestSong = {
+  artist_slug: string;
+  title: string;
+  captured_at: string;
+  content_hash: string;
+  file: string;
+};
+
+type CatalogManifest = {
+  generated_at: string;
+  artists: string[];
+  songs: ManifestSong[];
+};
+
+const SNAPSHOT_ROOT = path.join(process.cwd(), "data", "snapshot");
+const MANIFEST_PATH = path.join(SNAPSHOT_ROOT, "manifest.json");
 
 export function artistDisplayName(artistSlug: string): string {
   if (artistSlug === "soda-stereo") return "Soda Stereo";
@@ -71,23 +60,20 @@ export function titleCase(value: string): string {
 }
 
 export const getCatalogStats = cache(async (): Promise<CatalogStats> => {
-  return getApi<CatalogStats>("/api/v1/catalog/stats");
+  const manifest = await getManifest();
+
+  return {
+    public_artists: manifest.artists.length,
+    public_works: manifest.songs.length,
+    last_public_update: manifest.generated_at,
+  };
 });
 
 export const getSongs = cache(async (): Promise<CatalogSong[]> => {
-  const works: WorkSummary[] = [];
-  let offset: number | null = 0;
+  const manifest = await getManifest();
 
-  while (offset !== null) {
-    const response: WorkListResponse = await getApi<WorkListResponse>(
-      `/api/v1/works?limit=100&offset=${offset}`,
-    );
-    works.push(...response.items);
-    offset = response.pagination.next_offset;
-  }
-
-  return works
-    .flatMap((work) => work.artists.map((artist) => toCatalogSong(work, artist)))
+  return manifest.songs
+    .map(toCatalogSong)
     .sort((a, b) =>
       `${a.artistName} ${normalizeSearch(a.title)} ${a.slug}`.localeCompare(
         `${b.artistName} ${normalizeSearch(b.title)} ${b.slug}`,
@@ -98,56 +84,55 @@ export const getSongs = cache(async (): Promise<CatalogSong[]> => {
 
 export const getSong = cache(
   async (artistSlug: string, songSlug: string): Promise<CatalogSong | null> => {
-    const response = await fetch(`${API_URL}/api/v1/works/${encodeURIComponent(songSlug)}`, {
-      cache: "no-store",
-    });
-
-    if (response.status === 404) return null;
-    if (!response.ok) throw new Error(`Catalog API returned ${response.status}.`);
-
-    const work = (await response.json()) as WorkSummary;
-    const artist = work.artists.find((item) => item.slug === artistSlug);
-    return artist ? toCatalogSong(work, artist) : null;
+    const songs = await getSongs();
+    return (
+      songs.find(
+        (song) => song.artist_slug === artistSlug && song.slug === songSlug,
+      ) ?? null
+    );
   },
 );
 
-export const getSongSheet = cache(async (songSlug: string): Promise<string | null> => {
-  const response = await fetch(
-    `${API_URL}/api/v1/works/${encodeURIComponent(songSlug)}/sheet`,
-    { cache: "no-store" },
-  );
+export const getSongSheet = cache(
+  async (artistSlug: string, songSlug: string): Promise<string | null> => {
+    const manifest = await getManifest();
+    const entry = manifest.songs.find(
+      (song) =>
+        song.artist_slug === artistSlug && songSlugFromFile(song.file) === songSlug,
+    );
 
-  if (response.status === 404) return null;
-  if (!response.ok) throw new Error(`Catalog API returned ${response.status}.`);
-  const sheet = (await response.json()) as WorkSheetResponse;
-  return sheet.content;
-});
+    return entry ? readVerifiedSheet(entry) : null;
+  },
+);
 
-export const getArtistSongs = cache(async (artistSlug: string): Promise<CatalogSong[]> => {
-  const response = await getApi<WorkListResponse>(
-    `/api/v1/works?artist_slug=${encodeURIComponent(artistSlug)}&limit=100`,
-  );
-
-  return response.items.flatMap((work) =>
-    work.artists
-      .filter((artist) => artist.slug === artistSlug)
-      .map((artist) => toCatalogSong(work, artist)),
-  );
-});
+export const getArtistSongs = cache(
+  async (artistSlug: string): Promise<CatalogSong[]> => {
+    const songs = await getSongs();
+    return songs.filter((song) => song.artist_slug === artistSlug);
+  },
+);
 
 export const getArtistSummaries = cache(async () => {
-  const artists = await getApi<ArtistSummary[]>("/api/v1/artists");
+  const [manifest, songs] = await Promise.all([getManifest(), getSongs()]);
 
-  return artists.map((artist) => ({
-    artistSlug: artist.slug,
-    name: artist.name,
-    count: artist.work_count,
+  return manifest.artists.map((artistSlug) => ({
+    artistSlug,
+    name: artistDisplayName(artistSlug),
+    count: songs.filter((song) => song.artist_slug === artistSlug).length,
     route:
-      artist.slug === "soda-stereo" || artist.slug === "gustavo-cerati"
-        ? `/${artist.slug}`
-        : `/?artist=${artist.slug}`,
+      artistSlug === "soda-stereo" || artistSlug === "gustavo-cerati"
+        ? `/${artistSlug}`
+        : `/?artist=${artistSlug}`,
   }));
 });
+
+export async function getStaticSongParams() {
+  const songs = await getSongs();
+  return songs.map((song) => ({
+    artistSlug: song.artist_slug,
+    songSlug: song.slug,
+  }));
+}
 
 export function filterSongs(
   songs: CatalogSong[],
@@ -164,24 +149,108 @@ export function filterSongs(
     .slice(0, filters.limit ?? 80);
 }
 
-async function getApi<T>(pathname: string): Promise<T> {
-  const response = await fetch(`${API_URL}${pathname}`, {
-    cache: "no-store",
-  });
+const getManifest = cache(async (): Promise<CatalogManifest> => {
+  const rawManifest: unknown = JSON.parse(await readFile(MANIFEST_PATH, "utf8"));
+  if (!isCatalogManifest(rawManifest)) {
+    throw new Error("The bundled catalog manifest is invalid.");
+  }
+  return rawManifest;
+});
 
-  if (!response.ok) throw new Error(`Catalog API returned ${response.status}.`);
-  return (await response.json()) as T;
+function toCatalogSong(entry: ManifestSong): CatalogSong {
+  const slug = songSlugFromFile(entry.file);
+  const artistName = artistDisplayName(entry.artist_slug);
+
+  return {
+    artist_slug: entry.artist_slug,
+    artistName,
+    title: entry.title,
+    slug,
+    route: `/canciones/${entry.artist_slug}/${slug}`,
+    searchableText: normalizeSearch(
+      `${entry.title} ${slug} ${entry.artist_slug} ${artistName}`,
+    ),
+    summary: null,
+    updatedAt: entry.captured_at,
+  };
 }
 
-function toCatalogSong(work: WorkSummary, artist: ArtistSummary): CatalogSong {
-  return {
-    artist_slug: artist.slug,
-    artistName: artist.name,
-    title: work.title,
-    slug: work.slug,
-    route: `/canciones/${artist.slug}/${work.slug}`,
-    searchableText: normalizeSearch(`${work.title} ${work.slug} ${artist.slug} ${artist.name}`),
-    summary: work.summary,
-    updatedAt: work.updated_at,
-  };
+async function readVerifiedSheet(entry: ManifestSong): Promise<string | null> {
+  const relativePath = path.posix.normalize(entry.file);
+  const parts = relativePath.split("/");
+  if (
+    path.posix.isAbsolute(entry.file) ||
+    relativePath !== entry.file ||
+    parts.length !== 2 ||
+    parts.includes("..") ||
+    parts[0] !== entry.artist_slug ||
+    path.posix.extname(relativePath) !== ".txt"
+  ) {
+    return null;
+  }
+
+  try {
+    if ((await lstat(SNAPSHOT_ROOT)).isSymbolicLink()) return null;
+
+    let candidate = SNAPSHOT_ROOT;
+    for (const part of parts) {
+      candidate = path.join(/* turbopackIgnore: true */ candidate, part);
+      if ((await lstat(candidate)).isSymbolicLink()) return null;
+    }
+
+    const [resolvedRoot, resolvedFile] = await Promise.all([
+      realpath(SNAPSHOT_ROOT),
+      realpath(/* turbopackIgnore: true */ candidate),
+    ]);
+    const relativeResolvedPath = path.relative(resolvedRoot, resolvedFile);
+    if (
+      relativeResolvedPath.startsWith("..") ||
+      path.isAbsolute(relativeResolvedPath)
+    ) {
+      return null;
+    }
+
+    const source = await readFile(resolvedFile, "utf8");
+    const separatorIndex = source.indexOf("\n\n");
+    if (separatorIndex === -1) return null;
+
+    const bodyWithNewline = source.slice(separatorIndex + 2);
+    const body = bodyWithNewline.endsWith("\n")
+      ? bodyWithNewline.slice(0, -1)
+      : bodyWithNewline;
+    const digest = createHash("sha256").update(body, "utf8").digest("hex");
+    return digest === entry.content_hash ? body : null;
+  } catch {
+    return null;
+  }
+}
+
+function songSlugFromFile(file: string): string {
+  return path.posix.basename(file, ".txt");
+}
+
+function isCatalogManifest(value: unknown): value is CatalogManifest {
+  if (!value || typeof value !== "object") return false;
+  const candidate = value as Record<string, unknown>;
+
+  return (
+    typeof candidate.generated_at === "string" &&
+    Array.isArray(candidate.artists) &&
+    candidate.artists.every((artist) => typeof artist === "string") &&
+    Array.isArray(candidate.songs) &&
+    candidate.songs.every(isManifestSong)
+  );
+}
+
+function isManifestSong(value: unknown): value is ManifestSong {
+  if (!value || typeof value !== "object") return false;
+  const candidate = value as Record<string, unknown>;
+
+  return (
+    typeof candidate.artist_slug === "string" &&
+    typeof candidate.title === "string" &&
+    typeof candidate.captured_at === "string" &&
+    typeof candidate.content_hash === "string" &&
+    typeof candidate.file === "string"
+  );
 }
