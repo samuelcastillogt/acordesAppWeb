@@ -32,6 +32,10 @@ NEXT_PUBLIC_SITE_URL=http://127.0.0.1:3000
 En Vercel la variable es opcional: la aplicacion usa automaticamente
 `VERCEL_PROJECT_PRODUCTION_URL` como dominio canonico.
 
+El blog consume el feed publico de Blogger. `BLOGGER_BLOG_ID` permite cambiar
+el blog conectado y por defecto usa `953522655128278607`. Las entradas se
+revalidan cada hora y su HTML se sanea antes de renderizarse.
+
 ## Scripts
 
 - `npm run dev`: servidor local Next.js.

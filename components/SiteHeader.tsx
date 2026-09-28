@@ -1,8 +1,19 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Music2 } from "lucide-react";
+import { BookOpenText, Music2 } from "lucide-react";
 
-export function SiteHeader() {
+type SiteHeaderProps = {
+  eyebrow?: string;
+  title?: string;
+  description?: string;
+};
+
+export function SiteHeader({
+  eyebrow = "Archivo electrico",
+  title = "Soda Stereo y Gustavo Cerati",
+  description =
+    "Catalogo, procedencia y lector musical server-rendered para construir una web rapida, accesible y preparada para SEO.",
+}: SiteHeaderProps = {}) {
   return (
     <header className="site-header">
       <Image
@@ -22,15 +33,16 @@ export function SiteHeader() {
         <div className="nav-links">
           <Link href="/soda-stereo">Soda Stereo</Link>
           <Link href="/gustavo-cerati">Gustavo Cerati</Link>
+          <Link href="/blog">
+            <BookOpenText aria-hidden="true" />
+            Blog
+          </Link>
         </div>
       </nav>
       <div className="hero-copy">
-        <p className="eyebrow">Archivo electrico</p>
-        <h1>Soda Stereo y Gustavo Cerati</h1>
-        <p>
-          Catalogo, procedencia y lector musical server-rendered para construir una web
-          rapida, accesible y preparada para SEO.
-        </p>
+        <p className="eyebrow">{eyebrow}</p>
+        <h1>{title}</h1>
+        <p>{description}</p>
       </div>
     </header>
   );
