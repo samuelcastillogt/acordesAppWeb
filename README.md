@@ -29,6 +29,9 @@ cp .env.example .env
 NEXT_PUBLIC_SITE_URL=http://127.0.0.1:3000
 ```
 
+En Vercel la variable es opcional: la aplicacion usa automaticamente
+`VERCEL_PROJECT_PRODUCTION_URL` como dominio canonico.
+
 ## Scripts
 
 - `npm run dev`: servidor local Next.js.

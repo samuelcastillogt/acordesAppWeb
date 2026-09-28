@@ -1,4 +1,10 @@
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://127.0.0.1:3000";
+const vercelProductionDomain = process.env.VERCEL_PROJECT_PRODUCTION_URL;
+
+export const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (vercelProductionDomain
+    ? `https://${vercelProductionDomain}`
+    : "http://127.0.0.1:3000");
 export const SITE_NAME = "Universo Soda/Cerati";
 
 export function absoluteUrl(pathname: string): string {
