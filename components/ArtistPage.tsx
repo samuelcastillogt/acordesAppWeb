@@ -1,24 +1,29 @@
+import { ChordWeaverPromo } from "@/components/ChordWeaverPromo";
+import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SongList } from "@/components/SongList";
-import { getArtistSongs, artistDisplayName } from "@/lib/catalog";
+import { artistDisplayName, getArtistWorks } from "@/lib/catalog";
 
 export async function ArtistPage({ artistSlug }: { artistSlug: string }) {
-  const songs = await getArtistSongs(artistSlug);
+  const works = await getArtistWorks(artistSlug);
   const artistName = artistDisplayName(artistSlug);
 
   return (
     <>
-      <SiteHeader />
+      <SiteHeader variant="compact" />
       <main className="workspace single-column">
         <section className="results-panel" aria-labelledby="artist-title">
           <p className="eyebrow">Artista</p>
-          <h1 id="artist-title">{artistName}</h1>
+          <h1 id="artist-title">Acordes de {artistName}</h1>
           <p className="section-copy">
-            {songs.length} obras disponibles en el catalogo integrado.
+            {works.length} canciones con letra, acordes y tablatura. Algunas tienen varias
+            transcripciones: estudio, en vivo, unplugged o solos.
           </p>
-          <SongList songs={songs} />
+          <SongList works={works} showArtist={false} />
         </section>
+        <ChordWeaverPromo placement={`artist:${artistSlug}`} />
       </main>
+      <SiteFooter />
     </>
   );
 }

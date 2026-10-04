@@ -1,28 +1,28 @@
-import { Disc3, Guitar, ShieldCheck, Sparkles } from "lucide-react";
+import { Disc3, Guitar, Layers, MousePointerClick } from "lucide-react";
 import type { CatalogStats } from "@/lib/catalog";
 
 export function StatsStrip({ stats }: { stats: CatalogStats }) {
   return (
-    <section className="metrics-strip" aria-label="Metricas del catalogo">
+    <section className="metrics-strip" aria-label="El cancionero en números">
       <article className="metric-card">
         <Disc3 aria-hidden="true" />
-        <span>Obras publicas</span>
-        <strong>{stats.public_works}</strong>
+        <span>Canciones</span>
+        <strong>{stats.songs}</strong>
+      </article>
+      <article className="metric-card">
+        <Layers aria-hidden="true" />
+        <span>Transcripciones</span>
+        <strong>{stats.versions}</strong>
       </article>
       <article className="metric-card">
         <Guitar aria-hidden="true" />
         <span>Artistas</span>
-        <strong>{stats.public_artists}</strong>
+        <strong>{stats.artists}</strong>
       </article>
       <article className="metric-card">
-        <ShieldCheck aria-hidden="true" />
-        <span>Fuente</span>
-        <strong>TXT</strong>
-      </article>
-      <article className="metric-card">
-        <Sparkles aria-hidden="true" />
-        <span>Integridad</span>
-        <strong>SHA-256</strong>
+        <MousePointerClick aria-hidden="true" />
+        <span>Diagramas</span>
+        <strong>En cada acorde</strong>
       </article>
     </section>
   );

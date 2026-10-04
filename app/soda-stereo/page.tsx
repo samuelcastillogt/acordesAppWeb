@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import { ArtistPage } from "@/components/ArtistPage";
+import { absoluteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Soda Stereo: canciones, versiones y tablaturas",
+  title: "Acordes de Soda Stereo: letras, tablaturas y diagramas",
   description:
-    "Explora las canciones y tablaturas de Soda Stereo en el catalogo integrado.",
+    "Todas las canciones de Soda Stereo con acordes, letra y tablatura: De música ligera, Persiana americana, En la ciudad de la furia y más.",
+  alternates: { canonical: absoluteUrl("/soda-stereo") },
 };
 
 export default function SodaStereoPage() {

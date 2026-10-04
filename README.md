@@ -54,3 +54,21 @@ posiciones proceden del paquete MIT `@tombatossals/chords-db`, se resuelven en
 el servidor durante el render y se dibujan como SVG en el navegador. Solo las
 posiciones utilizadas por cada cancion se envian al cliente; no existe una
 base de datos ni una API en tiempo de ejecucion.
+
+## Curaduria del catalogo
+
+Los TXT del snapshot no se editan (su hash se verifica). Las correcciones
+editoriales viven en `lib/curation.ts`: titulos corregidos, versiones agrupadas
+bajo una misma cancion (estudio, en vivo, unplugged, solos), notas del
+transcriptor plegadas, entradas ocultas y redirecciones 308 de duplicados.
+
+## Lector
+
+El lector detecta acordes en cifrado americano y latino (DO, SOLm, RE/FA#),
+permite transponer, cambiar el tamano de letra y activar desplazamiento
+automatico. Los diagramas de las 12 transposiciones se resuelven en el servidor.
+
+## ChordWeaver
+
+Cada pagina enlaza a ChordWeaver con parametros UTM y los acordes de la cancion
+(`?chords=Bm,G,D,A`). La URL se configura con `NEXT_PUBLIC_CHORDWEAVER_URL`.

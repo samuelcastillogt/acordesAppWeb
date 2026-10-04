@@ -20,14 +20,14 @@ export function SearchPanel({
   return (
     <aside className="filters-panel" aria-labelledby="filters-title">
       <form className="search-form" role="search" action="/">
-        <label htmlFor="song-search">Buscar canciones</label>
+        <label htmlFor="song-search">Busca una canción</label>
         <div className="search-row">
           <Search aria-hidden="true" />
           <input
             id="song-search"
             name="q"
             type="search"
-            placeholder="musica ligera"
+            placeholder="Ej.: música ligera, Crimen…"
             defaultValue={query}
             autoComplete="off"
           />

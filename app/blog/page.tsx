@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { BookOpenText } from "lucide-react";
 
 import { BlogCard } from "@/components/BlogCard";
+import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { getBlogPosts } from "@/lib/blogger";
 import { absoluteUrl } from "@/lib/seo";
@@ -9,7 +10,7 @@ import { absoluteUrl } from "@/lib/seo";
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: "Blog de musica, canciones y acordes",
+  title: "Blog de música, canciones y acordes",
   description:
     "Historias, recursos y apuntes sobre Soda Stereo, Gustavo Cerati, guitarra y cultura musical.",
   alternates: { canonical: absoluteUrl("/blog") },
@@ -30,16 +31,16 @@ export default async function BlogPage() {
     <>
       <SiteHeader
         eyebrow="Cuaderno de escucha"
-        title="Historias detras de las canciones"
+        title="Historias detrás de las canciones"
         description="Notas sobre Soda Stereo, Gustavo Cerati, guitarra y todo lo que ocurre entre un acorde y el siguiente."
       />
       <main className="workspace blog-workspace">
         <section className="blog-intro" aria-labelledby="blog-title">
           <div>
             <p className="eyebrow">Archivo editorial</p>
-            <h1 id="blog-title">Blog</h1>
+            <h2 id="blog-title">Blog</h2>
             <p>
-              Lecturas para ampliar el catalogo: contexto, tecnica y hallazgos musicales.
+              Lecturas para ampliar el cancionero: contexto, técnica y hallazgos musicales.
             </p>
           </div>
           <BookOpenText aria-hidden="true" />
@@ -55,13 +56,14 @@ export default async function BlogPage() {
         ) : (
           <section className="blog-empty">
             <p className="eyebrow">Proximamente</p>
-            <h2>El cuaderno esta listo.</h2>
+            <h2>El cuaderno está listo.</h2>
             <p>
-              Las nuevas entradas publicadas en Blogger apareceran aqui automaticamente.
+              Muy pronto publicaremos las primeras historias.
             </p>
           </section>
         )}
       </main>
+      <SiteFooter />
     </>
   );
 }

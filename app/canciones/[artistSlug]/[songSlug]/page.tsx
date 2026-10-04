@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ShieldCheck } from "lucide-react";
-import { SheetReader } from "@/components/SheetReader";
+import { ChordWeaverPromo } from "@/components/ChordWeaverPromo";
+import { SheetReader, classifyLines, uniqueChords } from "@/components/SheetReader";
+import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
-import { getSong, getSongSheet, getStaticSongParams } from "@/lib/catalog";
-import { absoluteUrl, truncateDescription } from "@/lib/seo";
+import { getSong, getSongSheet, getSongVersions, getStaticSongParams } from "@/lib/catalog";
+import { toAmericanSymbol } from "@/lib/notation";
+import { SITE_NAME, absoluteUrl, truncateDescription } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{ artistSlug: string; songSlug: string }>;
@@ -23,32 +25,24 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   if (!song) {
     return {
-      title: "Cancion no encontrada",
+      title: "Canción no encontrada",
       robots: { index: false, follow: false },
     };
   }
 
+  const versionSuffix = song.versionOrder > 0 && song.versionLabel ? ` (${song.versionLabel})` : "";
   const description = truncateDescription(
-    `${song.title} de ${song.artistName}: acordes y tablatura del catalogo integrado.`
+    `Acordes de ${song.title}${versionSuffix} de ${song.artistName}: letra con acordes, tablatura y diagramas de guitarra. Transpórtala al tono que necesites.`,
   );
 
   return {
-    title: song.title,
+    title: `${song.title}${versionSuffix}: acordes de ${song.artistName}`,
     description,
     alternates: {
       canonical: absoluteUrl(song.route),
     },
-    robots: {
-      index: true,
-      follow: true,
-      googleBot: {
-        index: true,
-        follow: true,
-        "max-snippet": 0,
-      },
-    },
     openGraph: {
-      title: `${song.title} | ${song.artistName}`,
+      title: `${song.title} – ${song.artistName} | Acordes`,
       description,
       type: "music.song",
       url: absoluteUrl(song.route),
@@ -65,46 +59,90 @@ export default async function SongPage({ params }: PageProps) {
 
   if (!song || !sheet) notFound();
 
+  const versions = await getSongVersions(song.artist_slug, song.workSlug);
+  const progression = uniqueChords(classifyLines(sheet.body))
+    .map((chord) => toAmericanSymbol(chord))
+    .filter((chord): chord is string => Boolean(chord))
+    .slice(0, 8);
+
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "MusicComposition",
+      name: song.title,
+      url: absoluteUrl(song.route),
+      inLanguage: "es",
+      isPartOf: { "@type": "WebSite", name: SITE_NAME, url: absoluteUrl("/") },
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Canciones", item: absoluteUrl("/") },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: song.artistName,
+          item: absoluteUrl(`/${song.artist_slug}`),
+        },
+        { "@type": "ListItem", position: 3, name: song.title, item: absoluteUrl(song.route) },
+      ],
+    },
+  ];
+
   return (
     <>
-      <SiteHeader />
+      <SiteHeader variant="compact" />
       <main className="workspace single-column">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
+        />
         <article className="song-detail">
           <nav className="breadcrumbs" aria-label="Breadcrumb">
-            <Link href="/">Catalogo</Link>
+            <Link href="/">Canciones</Link>
             <span>/</span>
-             <Link href={`/${song.artist_slug}`}>{song.artistName}</Link>
+            <Link href={`/${song.artist_slug}`}>{song.artistName}</Link>
             <span>/</span>
-             <span>{song.title}</span>
+            <span>{song.title}</span>
           </nav>
 
-          <div className="detail-hero">
-            <div>
-               <p className="eyebrow">Cancion y tablatura</p>
-               <h1>{song.title}</h1>
-               <p>{song.summary ?? "Contenido leido desde la fuente TXT integrada."}</p>
-            </div>
-            <div className="privacy-card">
-              <ShieldCheck aria-hidden="true" />
-               <strong>Publicacion revisada</strong>
-               <p>Esta pagina lee una fuente TXT incluida y validada durante el render.</p>
-            </div>
-          </div>
+          <header className="detail-hero">
+            <p className="eyebrow">Acordes · {song.artistName}</p>
+            <h1>{song.title}</h1>
+            <p>
+              Toca cualquier acorde para ver cómo se pone en la guitarra. Si no te queda cómodo el
+              tono, usa el transpositor.
+            </p>
+          </header>
 
-          <dl className="metadata-grid">
-            <div>
-              <dt>Artista</dt>
-              <dd>{song.artistName}</dd>
-            </div>
-            <div>
-              <dt>Actualizado</dt>
-              <dd>{new Intl.DateTimeFormat("es", { dateStyle: "medium" }).format(new Date(song.updatedAt))}</dd>
-            </div>
-          </dl>
+          {versions.length > 1 ? (
+            <nav className="version-tabs" aria-label="Versiones de esta canción">
+              {versions.map((version) => (
+                <Link
+                  key={version.slug}
+                  href={version.route}
+                  className={version.slug === song.slug ? "version-tab active" : "version-tab"}
+                  aria-current={version.slug === song.slug ? "page" : undefined}
+                >
+                  {version.versionLabel ?? version.title}
+                </Link>
+              ))}
+            </nav>
+          ) : null}
 
-          <SheetReader content={sheet} />
+          <SheetReader content={sheet.body} note={sheet.note} />
         </article>
+
+        <ChordWeaverPromo
+          placement="song"
+          song={`${song.artist_slug}/${song.slug}`}
+          chords={progression}
+          title={`Explora la armonía de ${song.title}`}
+          description="Lleva estos acordes a ChordWeaver: mira en el mapa armónico qué otros acordes conectan con ellos, escucha la progresión y arma tu propia versión."
+        />
       </main>
+      <SiteFooter />
     </>
   );
 }

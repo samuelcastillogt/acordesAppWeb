@@ -1,36 +1,42 @@
-import { BadgeCheck } from "lucide-react";
-
 import { InteractiveSheet } from "@/components/InteractiveSheet";
 import type { InteractiveSheetLine } from "@/lib/chord-types";
-import { isChordSymbol, tokenizeChordLine } from "@/lib/chords";
+import { buildChordBook, isChordSymbol, tokenizeChordLine } from "@/lib/chords";
+import { cleanChordToken } from "@/lib/notation";
 
 const SECTION_RE =
-  /^(intro|estrofa|verso|coro|chorus|puente|bridge|solo|final|outro|interludio|riff|pre[- ]?coro)\b[:.]?$/i;
+  /^(intro(ducci[oó]n)?|estrofa|verso|coro|chorus|puente|bridge|solo|final|outro|interludio|riff|pre[- ]?coro)\b[\s\d]*[:.]?$/i;
 const TAB_RE = /^\s*([eEbBgGdDaA][|:])|[-0-9hbp~/\\|]{6,}/;
 const INSTRUCTION_RE =
   /\b(afinaci[oó]n|capo|cejilla|tono|transportar|varias veces|arpegio|rasgueo|x\d+)\b/i;
-export function SheetReader({ content }: { content: string }) {
+
+export function SheetReader({
+  content,
+  note,
+}: {
+  content: string;
+  note: string | null;
+}) {
   const lines = classifyLines(content);
+  const chords = uniqueChords(lines);
+  const chordBook = buildChordBook(chords);
 
-  return (
-    <section className="reader-panel" aria-labelledby="reader-title">
-      <div className="reader-toolbar">
-        <div>
-          <p className="eyebrow">Lector musical</p>
-          <h2 id="reader-title">Acordes y tablatura</h2>
-        </div>
-        <span className="hash-pill ok">
-          <BadgeCheck aria-hidden="true" />
-          Fuente validada
-        </span>
-      </div>
-
-      <InteractiveSheet lines={lines} />
-    </section>
-  );
+  return <InteractiveSheet lines={lines} chords={chords} chordBook={chordBook} note={note} />;
 }
 
-function classifyLines(content: string): InteractiveSheetLine[] {
+/** Chord symbols in order of first appearance. */
+export function uniqueChords(lines: InteractiveSheetLine[]): string[] {
+  const seen = new Set<string>();
+  for (const line of lines) {
+    for (const segment of line.segments ?? []) {
+      if (segment.type !== "chord") continue;
+      const symbol = cleanChordToken(segment.value);
+      if (symbol) seen.add(symbol);
+    }
+  }
+  return [...seen];
+}
+
+export function classifyLines(content: string): InteractiveSheetLine[] {
   return content.split("\n").map((line) => {
     if (!line.trim()) return { type: "blank", value: "" };
     const trimmed = line.trim();

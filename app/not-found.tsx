@@ -3,10 +3,10 @@ import Link from "next/link";
 export default function NotFound() {
   return (
     <main className="not-found">
-      <h1>No encontre esa pagina</h1>
-      <p>La ruta puede haber cambiado o estar fuera del catalogo local.</p>
+      <h1>No encontré esa página</h1>
+      <p>Puede que la canción haya cambiado de dirección. Búscala en el cancionero.</p>
       <Link className="primary-button" href="/">
-        Volver al catalogo
+        Ir a las canciones
       </Link>
     </main>
   );

@@ -2,7 +2,8 @@ import "server-only";
 
 import guitarData from "@tombatossals/chords-db/lib/guitar.json";
 
-import type { ChordShape, SheetSegment } from "@/lib/chord-types";
+import type { ChordBook, ChordShape, SheetSegment } from "@/lib/chord-types";
+import { isChordSymbol, parseChord, toAmericanSymbol } from "@/lib/notation";
 
 type ChordPosition = {
   frets: number[];
@@ -22,59 +23,67 @@ type GuitarData = {
 
 const guitar = guitarData as GuitarData;
 const CHORD_SEPARATOR_RE = /(\s+|-)/;
-const CHORD_SYMBOL_RE =
-  /^[A-G](?:#|b)?(?:(?:m(?:aj)?|maj|min|dim|aug|sus|add)|[0-9#b+°()]|(?:\/[A-G](?:#|b)?))*$/;
 
-const ROOT_ALIASES: Record<string, string> = {
-  "A#": "Bb",
-  Cb: "B",
-  Db: "C#",
-  "D#": "Eb",
-  "E#": "F",
-  Fb: "E",
-  Gb: "F#",
-  "G#": "Ab",
-};
+// chords-db keys: C Csharp D Eb E F Fsharp G Ab A Bb B
+const DB_KEYS = ["C", "Csharp", "D", "Eb", "E", "F", "Fsharp", "G", "Ab", "A", "Bb", "B"];
+const NOTE_NAMES = ["C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"];
+const SHARP_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 
-const BASS_ALIASES: Record<string, string> = {
-  Ab: "G#",
-  Db: "C#",
-  Eb: "D#",
-  Gb: "F#",
-};
-
-export function isChordSymbol(value: string): boolean {
-  const symbol = extractChordSymbol(value);
-  return symbol === "N.C." || CHORD_SYMBOL_RE.test(symbol);
-}
+export { isChordSymbol };
 
 export function tokenizeChordLine(line: string): SheetSegment[] {
   return line
     .split(CHORD_SEPARATOR_RE)
     .filter(Boolean)
-    .map((value): SheetSegment => {
-      const symbol = extractChordSymbol(value);
-      const shape = getChordShape(symbol);
-      return shape ? { type: "chord", value, shape } : { type: "text", value };
-    });
+    .map((value): SheetSegment =>
+      parseChord(value) ? { type: "chord", value } : { type: "text", value },
+    );
 }
 
-function getChordShape(symbol: string): ChordShape | null {
-  if (!CHORD_SYMBOL_RE.test(symbol)) return null;
+/** Builds diagrams for every chord in the sheet in all 12 transpositions. */
+export function buildChordBook(tokens: Iterable<string>): ChordBook {
+  const book: ChordBook = {};
+  for (const token of tokens) {
+    for (let semitones = 0; semitones < 12; semitones += 1) {
+      const symbol = toAmericanSymbol(token, semitones);
+      if (symbol && !(symbol in book)) book[symbol] = getChordShape(symbol);
+    }
+  }
+  return book;
+}
 
-  const match = symbol.match(/^([A-G](?:#|b)?)(.*)$/);
-  if (!match) return null;
+export function getChordShape(symbol: string): ChordShape | null {
+  const chord = parseChord(symbol);
+  if (!chord) return null;
 
-  const [, rawRoot, rawSuffix] = match;
-  const root = ROOT_ALIASES[rawRoot] ?? rawRoot;
-  const suffix = normalizeSuffix(rawSuffix);
-  const definition = guitar.chords[root]?.find((item) => item.suffix === suffix);
-  const position = definition?.positions[0];
+  const suffix = normalizeSuffix(chord.suffix);
+  const definitions = guitar.chords[DB_KEYS[chord.root]] ?? [];
 
+  if (chord.bass !== null) {
+    const base = suffix === "major" ? "" : suffix === "minor" ? "m" : suffix;
+    const bassNames = [NOTE_NAMES[chord.bass], SHARP_NAMES[chord.bass]];
+    const slash = definitions.find((item) =>
+      bassNames.some((bass) => item.suffix === `${base}/${bass}`),
+    );
+    const slashShape = toShape(symbol, slash?.positions[0]);
+    if (slashShape) return slashShape;
+  }
+
+  const shape =
+    suffix === "5"
+      ? powerChord(symbol, chord.root)
+      : toShape(symbol, definitions.find((item) => item.suffix === suffix)?.positions[0]);
+
+  if (shape && chord.bass !== null) {
+    return { ...shape, bassNote: NOTE_NAMES[chord.bass] };
+  }
+  return shape;
+}
+
+function toShape(name: string, position: ChordPosition | undefined): ChordShape | null {
   if (!position || position.frets.length !== 6) return null;
-
   return {
-    name: symbol,
+    name,
     frets: position.frets,
     fingers: position.fingers,
     baseFret: position.baseFret ?? 1,
@@ -82,34 +91,39 @@ function getChordShape(symbol: string): ChordShape | null {
   };
 }
 
-function extractChordSymbol(value: string): string {
-  let symbol = value
-    .trim()
-    .replace(/^[\[]+|[\],;:*]+$/g, "")
-    .replace(/[♯]/g, "#")
-    .replace(/[♭]/g, "b");
-
-  if (symbol.startsWith("(")) symbol = symbol.slice(1);
-  if (symbol.endsWith(")") && !symbol.includes("(")) symbol = symbol.slice(0, -1);
-
-  return symbol;
+function powerChord(name: string, root: number): ChordShape {
+  const onLowE = (root - 4 + 12) % 12;
+  const onA = (root - 9 + 12) % 12;
+  const useLowE = onLowE <= 7;
+  const fret = useLowE ? onLowE : onA;
+  const open = fret === 0;
+  const baseFret = open ? 1 : fret;
+  const first = open ? 0 : 1;
+  const frets = useLowE
+    ? [first, first + 2, first + 2, -1, -1, -1]
+    : [-1, first, first + 2, first + 2, -1, -1];
+  const fingers = useLowE
+    ? [open ? 0 : 1, open ? 1 : 3, open ? 2 : 4, 0, 0, 0]
+    : [0, open ? 0 : 1, open ? 1 : 3, open ? 2 : 4, 0, 0];
+  return { name, frets, fingers, baseFret, barres: [] };
 }
 
 function normalizeSuffix(rawSuffix: string): string {
-  let suffix = rawSuffix.replaceAll("(", "").replaceAll(")", "");
-
-  const slashIndex = suffix.indexOf("/");
-  if (slashIndex !== -1) {
-    const bass = suffix.slice(slashIndex + 1);
-    suffix = `${suffix.slice(0, slashIndex)}/${BASS_ALIASES[bass] ?? bass}`;
-  }
+  const suffix = rawSuffix.replaceAll("(", "").replaceAll(")", "");
 
   if (!suffix) return "major";
   if (suffix === "m" || suffix === "min") return "minor";
-  if (suffix === "°") return "dim";
-  if (suffix === "°7") return "dim7";
+  if (suffix === "°" || suffix === "dim") return "dim";
+  if (suffix === "°7" || suffix === "dim7") return "dim7";
   if (suffix === "+") return "aug";
   if (suffix === "+7") return "aug7";
+  if (suffix === "2") return "sus2";
+  if (suffix === "4" || suffix === "sus") return "sus4";
+  if (suffix === "7sus") return "7sus4";
+  if (suffix === "m7b5" || suffix === "ø") return "m7b5";
+  if (suffix === "add2") return "add9";
+  if (suffix === "madd2") return "madd9";
+  if (suffix === "maj" || suffix === "M") return "major";
   if (suffix.startsWith("min")) return `m${suffix.slice(3)}`;
   if (suffix.startsWith("M")) return `maj${suffix.slice(1)}`;
   return suffix;

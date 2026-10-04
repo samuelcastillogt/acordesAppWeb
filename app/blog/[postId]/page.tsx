@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ArrowUpRight } from "lucide-react";
 
 import { formatBlogDate } from "@/components/BlogCard";
+import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { getBlogPost, getBlogPosts } from "@/lib/blogger";
 import { absoluteUrl, SITE_NAME, truncateDescription } from "@/lib/seo";
@@ -70,15 +71,11 @@ export default async function BlogPostPage({ params }: PageProps) {
 
   return (
     <>
-      <SiteHeader
-        eyebrow="Cuaderno de escucha"
-        title="Historias detras de las canciones"
-        description="Notas sobre Soda Stereo, Gustavo Cerati, guitarra y cultura musical."
-      />
+      <SiteHeader variant="compact" />
       <main className="workspace single-column">
         <article className="blog-post">
           <nav className="breadcrumbs" aria-label="Breadcrumb">
-            <Link href="/">Catalogo</Link>
+            <Link href="/">Canciones</Link>
             <span>/</span>
             <Link href="/blog">Blog</Link>
             <span>/</span>
@@ -113,6 +110,7 @@ export default async function BlogPostPage({ params }: PageProps) {
           ) : null}
         </article>
       </main>
+      <SiteFooter />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
