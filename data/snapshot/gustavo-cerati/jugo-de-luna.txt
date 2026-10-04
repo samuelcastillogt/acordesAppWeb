@@ -3,12 +3,11 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/jugo-de-luna
 ID fuente: 18048
 Capturado: 2026-09-24T17:58:55.297106+00:00
-SHA-256: fc1f7a29ee8df9f6cefaf4046ba1b0cc71b0914a05e48cea6ec1c084202a36fe
+SHA-256: 7777788872d2367f9cf1492ece1c9f748afbbbd9b7c79f8a930dbe9c01f4bcd0
 
 TODOS LOS ACORDES EN LA FORMA DE BARRA
 
 Intro(D#m-G#-Cm-G#-C7-Bb) (G#*-Bb)x2
-
 
 Cm
 Alud plateado
@@ -29,7 +28,6 @@ Bb
 
 Dm                       Bbm
 Y perderme en un zigzag frenético...
-
 
 D#m            Cm
 En una gota cabe el universo,
@@ -59,8 +57,6 @@ G#*
 Jugo de luna me diste
 Bb
 voy por más.
-
-
 
 G#** 6    -4-
      5    -6-

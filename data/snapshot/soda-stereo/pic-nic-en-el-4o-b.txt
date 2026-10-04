@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/pic-nic-en-el-4o-b
 ID fuente: 35547
 Capturado: 2026-09-24T17:55:51.871887+00:00
-SHA-256: 2b42db384a52b031636330fd842b654effd066186c7e7c261a4b2fa66d9eae64
+SHA-256: 8a6e7022714aceecb6a3b57d5c08bdc4fbc681ea05d0a2f1d6e7bff241e6c25b
 
 Intro
 
@@ -25,7 +25,6 @@ mi majestad se ha perdido en una multitud
                               C#5            E A
 mojando la alfombra con sus sueños de divas
 
-
     D        A   E  E A
 Picnic en el 4º B
             D          A  E  E A
@@ -34,7 +33,6 @@ es una cuestion de voltaje
 picnic en el 4º B
  D             A    E
 ya me acostumbraste
-
 
                        B         D
 Golpean la puerta por decima vez
@@ -45,7 +43,6 @@ cuando me suba esta cara de gaste y me baje el alcohol
                         C#5                            E A
 entre el alud podre asomar mi nariz y salir a la calle
 
-
     D        A   E  E A
 Picnic en el 4º B
             D          A  E  E A
@@ -54,7 +51,6 @@ es una cuestion de voltaje
 picnic en el 4º B
  D             A    C#5
 ya me acostumbraste
-
 
             Am             C#5
 Prefiero vagar sin sentido
@@ -67,12 +63,5 @@ y aqui estoy... bailando esta maldita canción
                     [ E A D A E ] (4)  E A
 Esta no es mi noche
 
-
     D A E  E A D A E
 Picnic..
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

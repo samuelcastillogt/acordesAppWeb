@@ -3,21 +3,13 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/la-cuerda-planetaria
 ID fuente: 476014
 Capturado: 2026-09-24T17:59:02.725227+00:00
-SHA-256: 815f496c9311d271c46bd25fd5c09bc1a2cec8f8b6bf18d2a5fd809dfc9d1fa7
+SHA-256: 6ef9a1b3a9cd17e0dac713efc837648a6db3b9743310dc054e82974cca180b2b
 
 Intro
 
 C#
 
-
-
 B   C#
-
-
-
-
-
-
 
 B                C#
 

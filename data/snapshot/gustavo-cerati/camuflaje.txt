@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/camuflaje
 ID fuente: 18030
 Capturado: 2026-09-24T17:58:07.675700+00:00
-SHA-256: 685d8886ef17e99ddd5bf410a522a932a86bcf10acf476ab2bc8d90a663bda85
+SHA-256: 02bdc526ca9886aaa7081660538589cd1b4dbd9b919e036b3a5955cdaae9c428
 
 estos son los acordes que se usan en la cancion:
 
@@ -15,7 +15,6 @@ estos son los acordes que se usan en la cancion:
 5--x-------x-------x----x---x---3--0
 6--x-------x-------x----x---x---x--x
  las x son las cuerdas que no se tocan
-ojala les sirva:
 
 Intro: (E5, Esus2, E5*, E5)x2
 
@@ -29,7 +28,6 @@ E5         Esus2          E5*     E5
 
 D            Dm                E5, Esus2, E5*, E5
 Todo lo profundo ama el disfraz
-
 
 E5      Esus2    E5*        E5
   Separemos         el amor

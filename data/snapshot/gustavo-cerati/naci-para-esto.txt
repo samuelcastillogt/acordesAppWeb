@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/naci-para-esto
 ID fuente: 18059
 Capturado: 2026-09-24T17:59:26.421606+00:00
-SHA-256: f3d582ce34fc1dc228477ec760296f0e65b9656c8dea743c83c9f6357e973592
+SHA-256: 78d43da5aa4177b91e5728df629353a41444574d0031ce494326b82df428baca
 
 Nota: al Lam de la primera y tercera estrofa lo toca haciendo
 un efecto en la  primera cuerda, en el tercer traste;  el
@@ -12,7 +12,6 @@ primera cuerda, en el segundo traste
 
 INTRO:    MI - LA - SOL - RE (repite 3 veces, y la ultima
 vez termina en un Re con efecto)
-
 
        RE con efecto
 e----2--------2---2-------2---2-----------------------------
@@ -31,14 +30,12 @@ me pasé la vida imaginándote
 RE            REsus4     LAm
 no es momento para ser cobarde
 
-
 SIm        LAm
 Pasaré mis manos
     SIm           LAm
 sanaré toda llaga de distancia
 SIm                LAm             RE
   lo terrible del mar es morir de sed
-
 
 LAm
 La lluvia cae
@@ -49,12 +46,10 @@ borro el viejo mapa de catástrofes
 RE                        LAm
 Nuestros besos suenan verdaderos
 
-
 LA         MIm   LA                 MIm
 Aún te sorprende,     el ruido del mundo
 LA       MIm  LA             MIm     RE(con efecto)
   Desaparece,     ya no hay vacío.
-
 
 Solo de guitarra (repite 3 veces)
 
@@ -64,7 +59,6 @@ G-------------------------------------------
 D-------------------------------------------
 A-------------------------------------------
 E-------------------------------------------
-
 
 MI   LA          SOL    RE    MI
 Yo seguí a la estrella más voraz

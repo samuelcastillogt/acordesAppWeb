@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/casa
 ID fuente: 504821
 Capturado: 2026-09-24T17:58:13.230667+00:00
-SHA-256: 7f51a72b64421b9a28e9f8f5921ffdbe769589f54b30c74ec63259a030a64729
+SHA-256: 699e343811e57619291bcd6b4bd9771b01d29e5818b1f578c4d497b3a81ccb2e
 
 Intro: Cm6 C7 Cm6 C7 Cm6 C7 Cm6
 
@@ -23,7 +23,6 @@ A lo mejor tener sed
 enloquece al desierto
                        Fm6     Cm
 Sera la locura que nos hace bailar
-
 
 Ya limpiaste la casa
 
@@ -55,6 +54,3 @@ Musica: Cm ... C7 ...
         Cm ... Cm6 ...
         Cm ...
         Cm ...
-
-
-https://www.youtube.com/watch?v=bx4NoCIUBMM

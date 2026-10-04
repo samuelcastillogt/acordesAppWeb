@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/lisa
 ID fuente: 18052
 Capturado: 2026-09-24T17:59:11.680816+00:00
-SHA-256: a586605aeabeae09544d5ba1cf968d32db5f8ac92ecee89456adb99b218d1a6d
-
-Acá está tal como la tocaba Cerati
+SHA-256: 83fd404dd458b4d2a99d46cab2cce908d9cccad62b8d95ff61e711b8cb2028dc
 
 Bm - D - E7 - G      Bm - E7 - A7 - A7/Bb
 

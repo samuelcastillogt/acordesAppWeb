@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/profugos
 ID fuente: 35551
 Capturado: 2026-09-24T17:56:01.215008+00:00
-SHA-256: a9d586455365e556088b9b95a490edf3484d79eb93d98487467d6bccedc58ca7
+SHA-256: c79a2785f9d99059a12c7d16f3bc51819b60d7ba35421a66035e9532786f5948
 
 INTRO [ E A ] (4)  G
 
@@ -16,7 +16,6 @@ necesito distinción
                    F#m                           [ E A ] (2)  G
 estar asi despierto   es un delirio de condenados
 
-
                       D  Em
 Como un efecto residual
                            Bm  G
@@ -25,7 +24,6 @@ yo siempre tomare el desviro
 tus ojos nunca mentiran
                      F#m                          D
 pero ese ruido blanco   es una alarma en mis oidos
-
 
          Am       Em
 No seas tan cruel
@@ -36,7 +34,6 @@ no seas tan cruel
                   G   C       Em F#m D Bm  [ E A ] (2)  G
 siempre seremos profugos los dos
 
-
                  D  Em
 No tenemos donde ir
                              Bm  G
@@ -45,7 +42,6 @@ somos como un area desvastada
 carreteras sin sentido
                      F#m
 religiones sin motivo,  como podremos sobrevivir
-
 
 D        Am       Em
 No seas tan cruel
@@ -58,9 +54,7 @@ siempre seremos
                   C           Em F#m D Bm  [ E A ] (2)
 siempre seremos profugos los dos
 
-
 SOLO [ G ] [ E A ] (2)
-
 
 D             Am       Em
 Ven, no seas tan cruel
@@ -76,9 +70,3 @@ siempre seremos profugos...
 
                 Em D C  G
 siempre seremos...
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

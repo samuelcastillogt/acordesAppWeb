@@ -1,6 +1,5 @@
-// Editorial layer over the captured snapshot. The TXT files stay untouched (they
-// are hash-verified); this file fixes titles, groups alternative transcriptions
-// of the same song and folds transcriber notes away from the sheet.
+// Editorial layer over the captured snapshot: fixes titles, groups alternative
+// transcriptions of the same song and hides entries that do not belong.
 
 export type SongCuration = {
   /** Corrected display title. */
@@ -11,10 +10,6 @@ export type SongCuration = {
   version?: string;
   /** Sort position inside the work; the lowest one is the main version. */
   order?: number;
-  /** Leading lines of the sheet that are a note from the transcriber. */
-  noteLines?: number;
-  /** Leading lines that should not be published at all (personal data). */
-  omitLines?: number;
   /** Excluded from the catalog (wrong artist, broken capture). */
   hidden?: boolean;
 };
@@ -23,11 +18,9 @@ type Key = `${string}/${string}`;
 
 export const SONG_CURATION: Record<Key, SongCuration> = {
   // Soda Stereo
-  "soda-stereo/1990": { noteLines: 2 },
-  "soda-stereo/afrodisiacos": { title: "Afrodisíacos", noteLines: 4 },
+  "soda-stereo/afrodisiacos": { title: "Afrodisíacos" },
   "soda-stereo/algun-dia": { title: "Algún día" },
   "soda-stereo/angel-electrico": { title: "Ángel eléctrico" },
-  "soda-stereo/cae-el-sol": { noteLines: 3 },
   "soda-stereo/cuando-pase-el-temblor": { version: "Acordes", order: 0 },
   "soda-stereo/cuando-pase-el-temblor-unplugged": {
     title: "Cuando pase el temblor",
@@ -41,7 +34,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     work: "de-musica-ligera",
     version: "Tablatura completa",
     order: 1,
-    noteLines: 10,
   },
   "soda-stereo/musica-ligera": {
     title: "De música ligera",
@@ -54,7 +46,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     work: "de-musica-ligera",
     version: "Solo",
     order: 3,
-    noteLines: 1,
   },
   "soda-stereo/musica-ligera-solo": {
     title: "De música ligera",
@@ -110,8 +101,7 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     version: "Unplugged",
     order: 1,
   },
-  "soda-stereo/el-tiempo-es-dinero": { noteLines: 6 },
-  "soda-stereo/imagenes-retro": { title: "Imágenes retro", noteLines: 14 },
+  "soda-stereo/imagenes-retro": { title: "Imágenes retro" },
   "soda-stereo/juego-de-seduccion": {
     title: "Juegos de seducción",
     work: "juegos-de-seduccion",
@@ -147,7 +137,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     work: "persiana-americana",
     version: "Solo",
     order: 1,
-    noteLines: 1,
   },
   "soda-stereo/pic-nic-en-el-4o-b": { title: "Pic-nic en el 4º B" },
   "soda-stereo/puente-lado-b": { hidden: true },
@@ -180,7 +169,7 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     version: "Solo",
     order: 3,
   },
-  "soda-stereo/tele-k": { version: "Me verás volver (2007)", order: 0, noteLines: 2 },
+  "soda-stereo/tele-k": { version: "Me verás volver (2007)", order: 0 },
   "soda-stereo/tele-ka": { title: "Tele-K", work: "tele-k", version: "Versión alternativa", order: 1 },
   "soda-stereo/tratame-suavemente": { title: "Trátame suavemente" },
   "soda-stereo/un-millon-de-anos-luz": { title: "Un millón de años luz" },
@@ -188,7 +177,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     title: "Un misil en mi placard",
     version: "Estudio",
     order: 0,
-    omitLines: 4,
   },
   "soda-stereo/un-misil-en-mi-placard-unplugged": {
     title: "Un misil en mi placard",
@@ -201,7 +189,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
 
   // Gustavo Cerati
   "gustavo-cerati/adios": { title: "Adiós" },
-  "gustavo-cerati/ahora-es-nunca": { noteLines: 2 },
   "gustavo-cerati/amo-dejarte-asi": { title: "Amo dejarte así" },
   "gustavo-cerati/av-alcorta": { hidden: true },
   "gustavo-cerati/beautiful": { version: "Acordes", order: 0 },
@@ -211,7 +198,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     version: "Tablatura completa",
     order: 1,
   },
-  "gustavo-cerati/bomba-de-tiempo": { noteLines: 3 },
   "gustavo-cerati/cabeza-de-medusa": { title: "Cabeza de medusa", version: "Acordes", order: 0 },
   "gustavo-cerati/cabeza-de-mudusa": {
     title: "Cabeza de medusa",
@@ -219,7 +205,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     version: "Tablatura completa",
     order: 1,
   },
-  "gustavo-cerati/colores-santos": { noteLines: 9 },
   "gustavo-cerati/engana": { version: "Acordes", order: 0 },
   "gustavo-cerati/engaca": {
     title: "Engaña",
@@ -227,7 +212,6 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     version: "Tablatura completa",
     order: 1,
   },
-  "gustavo-cerati/hablando-de-vos": { noteLines: 4 },
   "gustavo-cerati/la-excepcion": { title: "La excepción", version: "Acordes", order: 0 },
   "gustavo-cerati/la-exepcion": {
     title: "La excepción",
@@ -236,14 +220,10 @@ export const SONG_CURATION: Record<Key, SongCuration> = {
     order: 1,
   },
   "gustavo-cerati/naci-para-esto": { title: "Nací para esto" },
-  "gustavo-cerati/profugos": { title: "Prófugos", noteLines: 5 },
-  "gustavo-cerati/puente": { noteLines: 5 },
+  "gustavo-cerati/profugos": { title: "Prófugos" },
   "gustavo-cerati/raiz": { title: "Raíz" },
   "gustavo-cerati/tabu": { title: "Tabú" },
   "gustavo-cerati/traeme-la-noche": { title: "Tráeme la noche" },
-  "gustavo-cerati/tu-cicatriz-en-mi": { noteLines: 10 },
-  "gustavo-cerati/vuelta-por-el-universo": { noteLines: 2 },
-  "gustavo-cerati/zona-de-promesas": { noteLines: 2 },
 };
 
 /** Old URLs that now live elsewhere (identical duplicates). */

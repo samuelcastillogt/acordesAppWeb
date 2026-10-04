@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/aqui-y-ahora
 ID fuente: 18020
 Capturado: 2026-09-24T17:57:41.300653+00:00
-SHA-256: 894660b3e776046074eae57266eb83e41ffc5b25e14373a6e7827dcc9ba831b0
-
-Así es como la tocaba Gustavo Cerati
+SHA-256: be7dcabe8b104c7e9e62b6c371eab32cc9b5ea4d8da2c1c72362b575f7ce1b43
 
 C9 F9 Bb9 x4
 

@@ -3,12 +3,8 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/lago-en-el-cielo
 ID fuente: 18051
 Capturado: 2026-09-24T17:59:07.869070+00:00
-SHA-256: 71d5667cd7d93bf19cc9a703bcd8d674b8dbfe752dde2348891704c9de00a8d3
+SHA-256: fe234ac5883cb7327b49c6ebec2caea3c48b2468487e9e9a60e91ffdff1dabad
 
-Esta es una transcripción corregida de: [email protected]
-(deverdad tenía que poner eso :S ? )
-Bueno una rola del master Cerati.
-=================================================
 INTRO
 E ------------------------------------------
 B ---10--10------8--8------7--7-------7--7--
@@ -16,8 +12,6 @@ G ------------------------------------------
 D -10--10--10---9--9--9---7--7--7--(7)--7--7
 A ------------------------------------------
 E ------------------------------------------
-
-
 
 Em D Em
 D Em x3
@@ -77,7 +71,6 @@ Sos el paisaje más soñado
 y sacudiste las más sólidas tristezas
           F        C                 G
 y respondiste cada vez que te he llamado
-
 
 Bm        C       D
 Vamos despacio

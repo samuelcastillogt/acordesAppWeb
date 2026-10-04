@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/sweet-sahumerio
 ID fuente: 18080
 Capturado: 2026-09-24T18:00:15.204106+00:00
-SHA-256: 3de3e5e4bef9d461d0894ef320be5c257288ce6d5418851e1fb284c93f36141e
+SHA-256: 60d13247cc92879cf12e16e00eafe4df57a3042ee22c8c56dc7a518dfbe40152
 
 Empieza sobre acordes D C D C rep...
 
@@ -43,7 +43,3 @@ D     C           D    C
 Como algas en el mar.
 D     C           D    C
 Como algas en el mar.
-
-Esta es una de las mejores rolas del disco Dynamo de Soda
-Stereo, y una de las favoritas de Cerati, forma parte de
-Bocanada 1999-2000.

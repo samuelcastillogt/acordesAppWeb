@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/perdonar-es-divino
 ID fuente: 18066
 Capturado: 2026-09-24T17:59:40.363890+00:00
-SHA-256: 26b960542e07692339bd9f7221a2ff74fc7d493f1b9d436590b7e8e41cb411a3
+SHA-256: 004dd7974962a1a8e27b7956a5700f1412dba878a309684d41a8072f600a7931
 
 ¡¡¡¡CAPO EN EL 4TO TRASTE !!!!
 
@@ -30,7 +30,6 @@ Am         Em        Bm              Dm
 A mí me es fácil olvidar (a mi me es fácil olvidar)
 Am         F#m        Dm          Em
 A mi me es facil olvidar
-
 
 Por la ruta despistado
 Fue oportuna tu señal

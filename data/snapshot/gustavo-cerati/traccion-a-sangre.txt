@@ -3,11 +3,10 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/traccion-a-sangre
 ID fuente: 18084
 Capturado: 2026-09-24T18:00:25.135155+00:00
-SHA-256: eaffaf16d23023bf1ef1f5c47826428ee52efb993dc63d285b94ac2503a921c6
+SHA-256: 75178a4b5b305e29deff9a95e09dc872d124ea5bd930fc17a21e818ca0d1eb5c
 
 Intro:
 F#  E  C#  F#
-
 
 El sol no tiene oidos pero su lengua me atrapó
       E            C#               B           F#
@@ -16,7 +15,6 @@ crece la escacez y hasta la palabra vacio me llenó.
 Otra ruta, otro pueblo, otro cuarto de hotel
      E           C#        B                F#
 vida nómade y un santuario de desechos me dejó.
-
 
        E
 Cae la tarde
@@ -32,7 +30,6 @@ Llega la noche
    C#                              E
 respiro libertad, respiro libertad y no miento.
 
-
 A                    B
 Siento que pasan los dias
           F#
@@ -44,16 +41,13 @@ Creo, que te hice tan mia
         C#          B
 que por un instante te olvidé.
 
-
 F#  C#  F#
-
 
            E
 Y un nuevo dia
   C#                                   E
 y la respuesta está, la respuesta está en el viento.
 
-
 A                    B
 Siento que pasan los dias
           F#
@@ -64,6 +58,5 @@ A                     B
 Creo, que te hice tan mia
         C#          B
 que por un instante te olvidé.
-
 
 F#

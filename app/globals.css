@@ -1203,26 +1203,8 @@ h2 {
   color: inherit;
 }
 
-.transcriber-note {
-  margin: 0;
-  padding: 12px 18px;
-  border-bottom: 1px solid var(--line);
-  color: var(--muted);
-}
 
-.transcriber-note summary {
-  cursor: pointer;
-  font-size: 0.9rem;
-  font-weight: 700;
-}
 
-.transcriber-note pre {
-  margin: 10px 0 0;
-  font-family: var(--font-ui), sans-serif;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  white-space: pre-wrap;
-}
 
 .chordweaver-promo {
   display: grid;

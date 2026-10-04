@@ -22,12 +22,10 @@ export function InteractiveSheet({
   lines,
   chords,
   chordBook,
-  note,
 }: {
   lines: InteractiveSheetLine[];
   chords: string[];
   chordBook: ChordBook;
-  note: string | null;
 }) {
   const [selected, setSelected] = useState<SelectedChord | null>(null);
   const [semitones, setSemitones] = useState(0);
@@ -228,13 +226,6 @@ export function InteractiveSheet({
             )}
           </div>
         </div>
-      ) : null}
-
-      {note ? (
-        <details className="transcriber-note">
-          <summary>Nota del transcriptor</summary>
-          <pre>{note}</pre>
-        </details>
       ) : null}
 
       <div className="sheet-lines" style={{ fontSize: `calc(${FONT_SCALES[fontIndex]} * var(--sheet-font))` }}>

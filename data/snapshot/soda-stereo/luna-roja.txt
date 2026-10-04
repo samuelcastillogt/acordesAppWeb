@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/luna-roja
 ID fuente: 35533
 Capturado: 2026-09-24T17:55:10.555767+00:00
-SHA-256: 35af993c40e264c001f8bf54a00283e17985e118f3039612226bdbce0762fe42
+SHA-256: 822e8b0f39b0fee1cbea53cf9c864096ea32174b5b010484f66bc906055c2249
 
 INTRO [ A A2 A3 A4 A5 ] (4)
 
@@ -63,9 +63,3 @@ Es peligrosa, es peligrosa
 y te hace mortal, y te hace mortal,
            A7  A8  A7 A8
 y te hace mortal...
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

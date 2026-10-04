@@ -3,11 +3,10 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/cuando-pase-el-temblor-unplugged
 ID fuente: 35500
 Capturado: 2026-09-24T17:53:37.922686+00:00
-SHA-256: a5bd16e893aabb669526db210de881a992f9037ab9aa4ddb814af7eb01bae9b8
+SHA-256: 64d3f60b5f97dd37e37d8431f1538eb6b076f6464aea3de78d5f1d83bfb22cfd
 
    Versión MTV Unplugged
    Armonizado en Do Mayor
-
 
 Ritmo, el compás se compone de 8 rasgueos. El primero es hacia abajo
        (de graves a agudas), el segundo hacia arriba (de agudas a
@@ -33,11 +32,9 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
 
       Al final se encuentra un glosario de acordes.
 
-
   INTRODUCCIÓN GUITARRA.
 
   [Am(V), G(III), F(I), Em(VII)]X2
-
 
   VERSO 1.
 
@@ -51,7 +48,6 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
             D7(V)   F(V)            B7(II)
  A veces vergüenza, oooooooooooooh, oooooooooooooh.
 
-
   VERSO 2.
 
  Am(V) G(III)                  F(I)
@@ -64,7 +60,6 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
             D7(V) F(V)            B7(II)
  Nadie me espera, oooooooooooooh, oooooooooooooh.
 
-
  CORO 1.
 
  Esus2/Eb  C#5/G  Dmadd9  Dm6
@@ -73,7 +68,6 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
      Un planeta,          con desilusión
 
  Bm/A  Cmaj7/A  Bm/A Cmaj13/F
-
 
  VERSO 3.
 
@@ -87,7 +81,6 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
          D7(V)         F(V) B7(II)
  Será un buen momento
 
-
  CORO 2.
 
  Esus2/Eb  C#5/G  Dmadd9  Dm6
@@ -97,14 +90,12 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
  Bm/A  Cmaj7/A  Bm/A  Cmaj13/F
        Con desilusión...
 
-
  PUENTE.
 
  Am(V) G(III)                  F(I)
        Oh, oh, oh, oh, oh, oh, oh
  Em(VII)               C(VIII)
  Oh, oh, oh, oh, el temblor. Despiér-
-
 
  CORO FINAL.
 
@@ -117,7 +108,6 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
  C(VIII)  Dm(X) A#(VI)
    Despiértameeeeeeeeeeeeiiii...
 
-
  FINAL.
 
   C/E (con wah y delay)
@@ -125,8 +115,6 @@ Nota: Los acordes acompañados por un paréntesis tienen un número
   Am(V) (aumentan wah y delay)
 
   D7(V), Am(V)
-
-
 
  GLOSARIO DE ACORDES.
 

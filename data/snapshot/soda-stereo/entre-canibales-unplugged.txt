@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/entre-canibales-unplugged
 ID fuente: 35519
 Capturado: 2026-09-24T17:54:31.593934+00:00
-SHA-256: 74dad6cb1483c150b6d216fdcb38b2e9cdd948f810407a4a905f18b447f3cbad
+SHA-256: b1341097518740e100d16ff712ea1217278491adc66785d199c344c44ca56f39
 
 INTRO
 e|-------------------|
@@ -33,7 +33,6 @@ D|---2---4------------------------------6-|
 A|---3---5------------------------------7-|
 E|---0---0------------------------------0-|
 
-
 Coro:
 
 Am G  D       Am     Em    G     D  Am7
@@ -44,7 +43,6 @@ Em C/G D         Am7          Em  C/G  D  Am7
 Ah.....tómate el tiempo en desmenuzarme
 Em C/G D Am7         (C   D)x4
 Ah..........entre caníbales.
-
 
         Em     C/G  D  Am7
 Entre caníbales

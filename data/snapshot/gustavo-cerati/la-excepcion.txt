@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/la-excepcion
 ID fuente: 18050
 Capturado: 2026-09-24T17:59:04.356464+00:00
-SHA-256: 5a6a1bb4b14a9b7a76d008ca8558e006e5ce7da268f15ef6c8b5cb0fd53ca6a5
-
-La excepción - Gustavo Cerati - Ahi vamos - 2006
+SHA-256: 3c6ac46e48c27ee6e3e3533f0366f65848a2bfe9c94c9bfb2b1f474251694117
 
 B-E-D x 4
 
@@ -35,7 +33,6 @@ G                   D
 un espacio para celebrar
                     E
 sé que esto es grande
-
 
 B-E-D x 4
 

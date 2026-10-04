@@ -3,11 +3,10 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/numeral
 ID fuente: 18062
 Capturado: 2026-09-24T17:59:33.184841+00:00
-SHA-256: 4fd5ad4392ad3d75a1760bc0cee582cae1ddb55a0ed67a7930f0e4b3fa24b678
+SHA-256: 515429c0ecc4162434545c43184ac07acb25e5e13e35853c9c129b9cd25d6a4b
 
 Intro:
 D  Am  C  A#  G#  G
-
 
 D                   Am
 1 esta solo, y se entera,
@@ -18,7 +17,6 @@ C
   A#     G#        G
 y suena, suena el acorde.
 
-
 D                   Am
 4 elementos, más el viento,
 D                      Am
@@ -28,14 +26,12 @@ C
       A#          G#       G
 en el lido, en el lido del tiempo.
 
-
 A#  D#  C      G
 7 rayos misteriosos,
 A#    D#       C
 8 horizontes infinitos,
 A#   D#    C       G#       D
 9 es real, casi disfruto chocar.
-
 
 A#        C      G
 Cuento hasta 10,
@@ -48,7 +44,6 @@ Alfa y Omega,
 D#       F         G
 Todo principio y final.
 
-
 D        Am
 11 cumpleaños,
 D                   Am
@@ -57,7 +52,6 @@ C
 13 no existe la suerte,
     A#           G#         G
 los números, los números no mienten.
-
 
 A#    D#
 1 es así,

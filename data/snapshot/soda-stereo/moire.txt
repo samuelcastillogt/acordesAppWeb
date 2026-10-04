@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/moire
 ID fuente: 35535
 Capturado: 2026-09-24T17:55:15.879812+00:00
-SHA-256: 0d3f6b03903095c6da4cc921ddd45efb640a80fc73a507dc70193b89a45b3b16
+SHA-256: 976d74af52fc36a2fa5aa17df4ee627f4f74df777f91a09c5ad50f7135b514f8
 
      E         F#m  G
 Me siento tan laxo
@@ -35,7 +35,6 @@ Y el mundo al reves
 Oh Dios
    E-A-G  F#m
 Te a....mo
-
 
      E  A-D-C#m
 Oh Dios

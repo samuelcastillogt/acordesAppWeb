@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/sweet-sahumerio
 ID fuente: 35559
 Capturado: 2026-09-24T17:56:32.779708+00:00
-SHA-256: 3483c417a656e04e605701e09cf505cd58043a44feb762e7cb1c9b3d4ff42570
+SHA-256: 38e1404c7bba10fad9e88b7f1f911c94a79ed4b9b8330ba8290704407afaecfd
 
 Intro
 
@@ -53,20 +53,8 @@ Como algas en el mar
 Dsus2 Am7         Dsus2   Am7-Dsus2  Am7-Dsus2  Am7
 Como algas en el mar
 
-
-========
 Acordes
 
        E A D G B E
 Dsus2  x x 0 2 3 0
 Am7    x 0 2 0 1 0
-========
-
-Hola gente.
-Como vi que la transcripción existente de este tema
-no me cerraba completamente, lo modifiqué y agregué
-los dos riffs que hay en la intro y se repiten por todo el tema.
-Estoy abierto a escuchar opiniones y críticas
-sobre la tablatura. Por favor, cualquier cosa me escriben al mail.
-Saludos y escuchen ´Dynamo´, un discaso.
-Diego.

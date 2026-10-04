@@ -3,12 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/te-para-tres
 ID fuente: 378347
 Capturado: 2026-09-24T17:56:38.675126+00:00
-SHA-256: 177c88010482451f85c303333521686d0eb64fd813456140fb374294267624b2
+SHA-256: b8387d72fbeb2da7c786006ba4db9de9ae04b75bf35451b6c0c136ea28be5138
 
-Letra y acordes de Te para tres
-
-(Letra y música de Gustavo Cerati)
-Transcripción x  para
 RE/FA# (200232) o (xx4232)
 MIm9 (022002)
 Si lo quieren mas fácil hacen el RE y MIm común.

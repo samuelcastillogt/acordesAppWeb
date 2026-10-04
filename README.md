@@ -57,10 +57,14 @@ base de datos ni una API en tiempo de ejecucion.
 
 ## Curaduria del catalogo
 
-Los TXT del snapshot no se editan (su hash se verifica). Las correcciones
-editoriales viven en `lib/curation.ts`: titulos corregidos, versiones agrupadas
-bajo una misma cancion (estudio, en vivo, unplugged, solos), notas del
-transcriptor plegadas, entradas ocultas y redirecciones 308 de duplicados.
+Los TXT del snapshot estan limpios: solo contienen letra, acordes, tablaturas e
+indicaciones musicales (se quitaron saludos, dedicatorias, creditos y
+comentarios). Si editas un TXT, actualiza su `content_hash` en `manifest.json`
+(SHA-256 del cuerpo, sin el salto de linea final) o la ficha no se mostrara.
+
+Las correcciones editoriales viven en `lib/curation.ts`: titulos corregidos,
+versiones agrupadas bajo una misma cancion (estudio, en vivo, unplugged, solos),
+entradas ocultas y redirecciones 308 de duplicados.
 
 ## Lector
 

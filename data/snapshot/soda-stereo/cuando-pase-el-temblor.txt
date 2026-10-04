@@ -3,17 +3,12 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/cuando-pase-el-temblor
 ID fuente: 35499
 Capturado: 2026-09-24T17:53:33.812933+00:00
-SHA-256: a4f73d467c5c17f2068b90cd47a6e348ff1bd9ad4044091fb21915edc2b799ff
+SHA-256: 6777f7fce92886ee025b1961ace4ca1b2e008669a539e944ff9fb4ed3b1115a9
 
 ACORDES:
-Varios acordes tienen nombres difíciles... pero no lo son!
 Esta canción utiliza los acordes en forma de triadas, lo que justamente
 le da ese sonido particular, aunque también puede tocarse con
 los acordes "completos".
-
-Cualquier consulta... mail a [email protected]
-
-
 
 Am:   XXX555    Gm:   XXX333     B7/b9:   XXX878
 G9:   XXX435    C7:   XXX353     Am7/9:   X05557
@@ -35,14 +30,12 @@ a veces tengo temor (lo se)
             D7     F   B7/4
 a veces verguenza oooooooooh
 
-
 Estoy
 sentado en un crater desierto
 sigo aguardando el temblor
 en mi cuerpo
 nadie me vio partir (lo se)
 nadie me espera ooooooooh
-
 
 Em          Em7/4   B7  B7/b9      Em
 Hay una grieta        en mi corazon
@@ -62,7 +55,6 @@ ser  un buen momento ooooooooh
 Hay una grieta en mi corazon
 un planeta con desilusion
 
-
 Am     G9      F
 oh oh oh oh oh oh oh oh oooooh
 
@@ -77,5 +69,3 @@ cuando pase el temblor (Despiertame)
 
                    C    C        Gm*
 cuando pase el temblor (Despiertame)...
-
-==========CORREGIDO X BANZAI=============

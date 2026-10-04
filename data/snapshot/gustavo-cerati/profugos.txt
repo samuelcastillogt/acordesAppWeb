@@ -3,13 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/profugos
 ID fuente: 18068
 Capturado: 2026-09-24T17:59:45.356086+00:00
-SHA-256: 812f6ab6775df2c27664eeec64872f1a5a922f371162f94bb9fce522fd09ede6
-
-HOLA ESTA ES MI PRIMERA TAB ESPERO QUE ME HAYA QUEDADO BIEN Y QUE LES AYUDE.
-
-Esta es la version de el album ahi vamos espero que les salga
-tambien esta tab la encuentran en el repertorio de cerati de esta misma
-pagina
+SHA-256: a33a6e7afdf6fade1fc7c7203db38384b53911745169a480640f8ae74e9bd399
 
 (TODA LA CANCION VA CON DISTORCION Y REVERB)
 
@@ -19,7 +13,6 @@ Vibrato:~
 Slide:/
 Bend: )
 Pua alternada: PA ( así es mas corto en ves de poner los otros signos)
-
 
 INTRO
 
@@ -46,7 +39,6 @@ E:-------------------------------------------
 
                         VERSO I
 
-
 e:-5-5-5-5-5-5----------------------x-x-x-x--7-7-
 B:-7-7-5-8-8-7------10---10-10------x-x-x-x--7-7-
 G:-7-7-7-7-7-7------11---11-11------x-x-x-x--7-7-
@@ -55,7 +47,6 @@ A:-5-5-5-5-5-5------10---10-10------x-x-x-x--9-9-
 E:-5-5-5-5-5-5----------------------x-x-x-x--7-7-
 
 SOMOS COMPLICES LOS DOS
-
 
 e:-10-7--------------
 B:-----10-7----------
@@ -91,7 +82,6 @@ E:-2-2-2-2-2-2--------0-0-0-0-0--O-O-O-O--4-5--------------------
 
 ES UN DELIRIO DE CONDENADOS
 
-
 e:---------
 B:---------
 G:---------  aquí se repite el verso pero en ves de volver a hacer el
@@ -100,8 +90,6 @@ A:-0-0-0-0-
 E:---------
 
 CORO:
-
-
 
  e:-5------5------------7-------------7
  B:-7------5------------8-------------7
@@ -127,7 +115,6 @@ D:-----------9-------------9------------7----------------
 A:-----------------------------------------2-2-4-5-4-----
 E:-----------------------------------------0-0-0-0-0-----
 
-
 e:-------------------------------------------------
 B:-------------------------------------------------
 G:-------------------------------------------------
@@ -142,10 +129,8 @@ D:-14----------7-----------
 A:-------------------------
 E:-------------------------
 
-
 ahora cerati dice "no tenemos donde ir"
 esta parte es con pua alternada
-
 
 e:-10-10-10-10-10-10---
 B:-10--8--7--x--x--7--- se repite 5 veces
@@ -155,9 +140,7 @@ A:---------------------
 E:---------------------
 NO TENEMOS DONDE IR
 
-
 ahora se repite el coro y despues de eso viene el solo que es asi
-
 
 e:-------------------------------------------------
 B:-------------------------------------------------
@@ -194,7 +177,4 @@ D:----------------
 A:----------------
 E:----------------
 
-
 ahora hace el riff y despues finaliza con los acordes del coro
-yo me guie por el cover de ricardo faundez y algunos conciertos
-de cerati como el pepsi music.

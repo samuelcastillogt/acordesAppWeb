@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/danza-rota
 ID fuente: 35501
 Capturado: 2026-09-24T17:53:39.143883+00:00
-SHA-256: 03bcd60c1f8edd5abe83e857fdb5f1be1324d94bc41caaaffd8bffbad7a526f8
+SHA-256: 8fa6c081836b6a5bfb995214a4aa9876b55b868b4d946734b4bd854c0e61a2d3
 
 1)
 F              C
@@ -28,7 +28,6 @@ PARA HALLARTE
 B                   F#            B         F#
 ESTOY BAILANDO UNA DANZA ROTA QUISIERA ESCAPARME
 
-
 3)
 F#             C#
 LAS LUCES ME QUEMAN LAS MANOS
@@ -43,5 +42,3 @@ SOY UNA MUECA ABSURDA FINGIENDO DIVERSION DESEANDOTE.
 DANZA ROTA...
 B A B
 2)DAME..
-
-================================================

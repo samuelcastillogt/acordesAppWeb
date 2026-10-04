@@ -3,9 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/la-cuidad-de-la-furia
 ID fuente: 391868
 Capturado: 2026-09-24T17:54:59.652138+00:00
-SHA-256: 9e94786989cc49c0e70f1ec9c97e90cbbe9c6fc7261fc0f378e8cef55e39dfc9
+SHA-256: cb6e36170e94a7d56387a1be2b681568aa537ca428e2ca3cc86b2d4da86786a6
 
-Acá va el intro
+Intro
  e|--3------|
  B|--3------|
  G|--0------|
@@ -84,7 +84,6 @@ D|----------------|
 A|----------------|
 E|----------------|
 
-
 Intro y riff1
 
 Me verás volar
@@ -108,7 +107,6 @@ me verás caer sobre terrazas desiertas.
 Te desnudaré por las calles azules,
 me refugiaré antes que todos despierten.
 
-
 Bm     D       G      Bm     D
 Me dejarás dormir al amanecer
 G          A
@@ -116,11 +114,9 @@ entre tus piernas
 G          A      F#m7
 entre tus piernas       (sobre estos acordes se hace el riff3)
 
-
 Sabrás ocultarme bien y desaparecer
 entre la niebla
 entre la niebla
-
 
 (se repite Intro)
 Un hombre alado extraña la tierra.
@@ -137,7 +133,6 @@ Riff1
 Con la luz del sol se derriten mis alas
 sólo encuentro en la oscuridad lo que me une
 con la ciudad de la furia.
-
 
 Me verás caer como una flecha salvaje
 me verás caer entre vuelos fugaces.

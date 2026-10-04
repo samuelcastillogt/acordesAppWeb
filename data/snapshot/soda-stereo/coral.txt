@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/coral
 ID fuente: 35496
 Capturado: 2026-09-24T17:53:26.549689+00:00
-SHA-256: e96a15b297752063bf591da5b316be22bf9e04f354f12a8724c3037275e97146
+SHA-256: 59ed112fa8b3e184088b4ee5b4cb4230aab6842b5a7e5dcd2f1167d1ebe38aed
 
 INTRO Acordes:  B  C#m  F#  A,   B  C#m  F#  A,  B  C#m   D  A
 
@@ -18,7 +18,6 @@ El paisaje alrededor..... siente que la abraza.........
 B    C#m       F#               A              B  C#m  D  A
 Una brisa tropical....... fortalezas de agua.........
 
-
 Em           A                  Em    A    Em   A
 Y esas formas de coral......................................
 G#m     G         Bm                        C#m           C  Bm   C#m       C        Bm          E
@@ -30,7 +29,6 @@ Corre extraña bajo el sol, siente que la alcanza..............
 Liberada del temor, de volver a casa............
 
 Son las formas de coral............................. SOLO GUITARRA....
-
 
 CORO (Mismos acordes del INTRO)
 

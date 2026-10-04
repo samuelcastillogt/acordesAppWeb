@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/cosas-imposibles
 ID fuente: 18034
 Capturado: 2026-09-24T17:58:19.521350+00:00
-SHA-256: 2f2b875078002206d12fd72a4fda076b10a1c7f88a1a84cdc2eb7c9519cc14f7
+SHA-256: 76adfe2266efe3f5aa663cda1a5b1a7664539dd3dc7dfe49773875746669e712
 
 MI
 Si un amor cayó del cielo
@@ -14,10 +14,8 @@ en mis sueños nunca pierdo
             LA
 la oportunidad
 
-
 MI MIm7 MI MIm7 MI LA
 Ah,  ah,   ah,    ah
-
 
 MI
 Aunque a veces se equivoquen
@@ -28,12 +26,10 @@ voy a hacer que mis cenizas
               LA
 vuelvan al papel
 
-
 MI MIm7 MI MIm7 MI LA
 Ah,  ah,   ah,    ah
 MI MIm7 MI MIm7 MI LA
 Ah,  ah,   ah,    ah
-
 
             SOLm
 Siempre es hoy
@@ -53,7 +49,6 @@ Quiero hacer
 cosas imposibles
 SOLm           REm
 cosas imposibles
-
 
 Ah...
 ah, ah, ah, ah

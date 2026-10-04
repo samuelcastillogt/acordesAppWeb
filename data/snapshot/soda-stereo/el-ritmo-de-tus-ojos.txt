@@ -3,9 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/el-ritmo-de-tus-ojos
 ID fuente: 35509
 Capturado: 2026-09-24T17:54:05.462006+00:00
-SHA-256: e267d859a1c49520e4a775662883a570787fc4e1f1b5d659a0f58919bfffd6f6
-
-No se ustedes dirán que diablos quiere decir  esta canción
+SHA-256: 98138173a198e3c1a66fcff27d0365cd554eae96124c0cc2b4f54cd66d23e297
 
 G7
    Muéstrame tu cruz
@@ -43,7 +41,6 @@ F-G7        A#    C
 A7
    Aquí no queda nada en pie
    como un castigo.
-
 
 F-G7                A#
          Tienes el cóctel que envenenara

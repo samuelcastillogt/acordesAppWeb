@@ -3,10 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/nuestra-fe
 ID fuente: 35541
 Capturado: 2026-09-24T17:55:34.262938+00:00
-SHA-256: cdbc5525956a0f5c3796064c0b0a03bc871a41e2be5b02abad095530c77ab8b1
+SHA-256: 233e7da5b3142625f05a8d580e67f43459e7903c757e7969a7df16de6a76cc42
 
 Base [Bbm-Cm-Gm]
-
 
 Bajo esta piel
 Que estoy mudando

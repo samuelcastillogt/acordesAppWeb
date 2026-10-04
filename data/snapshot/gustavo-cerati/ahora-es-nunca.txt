@@ -3,10 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/ahora-es-nunca
 ID fuente: 18012
 Capturado: 2026-09-24T17:57:23.305432+00:00
-SHA-256: dcf27c75f827b5bbd9788f487db0c3b5b2841371674e34b15cece4033f2a5f5c
-
-Este es un temaso y yo lo tocaba con una banda que tenia y tiene algunos
-errores en los acordes... lo voy a transcribir como lo tocabamos...
+SHA-256: 5430dbbd3b29a55ed9b8c5b56c4c9644e1e9561dab3add0ad1aea16640294549
 
 Intro: [Asus4/E A/E - Asus2/E Asus4/E A/E] x8
 
@@ -65,7 +62,3 @@ Em C5 B5
    si no descanso en tu mirada.
 
 [Asus4/E A/E - Asus2/E Asus4/E A/E] x4
-
-Espero que levante un poco la calificación....
-saludos para Laureano que subió los acordes y para todos los que le seguimos
-haciendo el aguante al "Mas Grande", a Gustavo Cerati!!!!

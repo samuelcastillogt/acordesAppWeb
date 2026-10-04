@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/otra-piel
 ID fuente: 18064
 Capturado: 2026-09-24T17:59:36.257925+00:00
-SHA-256: b20912e7d38abdf6087c444a61d6540494e6ed07290d4dc529c3af681987940a
+SHA-256: 05f5bd1922f19c6903851afd64a54823a5b7f1aeaada4192bd7435a8091a6615
 
 Intro:
 F# - E - B - C#
@@ -74,7 +74,3 @@ Toquémonos más
 Con mensajes del deseo
 D
 Deseo
-
-
-
-Por: Juan Pablo Casati

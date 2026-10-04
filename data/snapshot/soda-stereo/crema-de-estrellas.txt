@@ -3,10 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/crema-de-estrellas
 ID fuente: 35498
 Capturado: 2026-09-24T17:53:31.525814+00:00
-SHA-256: 3978e503ea402196922beef3db83c21c6fde4381c04579ac564266b8fdc5e03c
+SHA-256: 591f46cc19b864c7a9a04f3c0fd562be548fea1ea44790e878773d53fea7e81d
 
 CAPO EN EL PRIMER TRASTE!!
-
 
 INTRO [D Bm] x 4
 

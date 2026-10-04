@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/fantasma
 ID fuente: 18044
 Capturado: 2026-09-24T17:58:43.959544+00:00
-SHA-256: 4d499330ef8b495e811bb81aeffd7ecd0ec7543a1ab631802db1bf8afd461465
+SHA-256: 80c5e8f6a4c5cb08dabdbde2f058ec27ae787ea5a6dff11613f74b448ab6e169
 
 *Capo en el 1er traste
 
@@ -51,7 +51,6 @@ Intro:
 5 |-------------------------------------------------|
 6 |-------------------------------------------------|
                Nubazón         nubazón,
-
 
      SIm  DO#m
 pasará

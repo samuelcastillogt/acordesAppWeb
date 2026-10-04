@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/pasos
 ID fuente: 35545
 Capturado: 2026-09-24T17:55:43.708085+00:00
-SHA-256: 6b6202ca0e1cdb8937dbde7d8e36c729ee1c290502978038cbc11cc0cec5937b
+SHA-256: cbd8138932007de67bbcd520dcb4a61ffd1dc703e20af0bdf7c2163f4eed1f53
 
 C  Am         A#sus2
 ... Suena el mar                               ACORDES EXTRANIOS
@@ -47,9 +47,3 @@ C  Am   A#sus2       Am     C
 ... prefiero seguir tus pasos
 C  Am   A#sus2       Am     C
 ... prefiero seguir tus pasos
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

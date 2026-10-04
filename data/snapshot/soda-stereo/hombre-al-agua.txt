@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/hombre-al-agua
 ID fuente: 35524
 Capturado: 2026-09-24T17:54:44.103892+00:00
-SHA-256: 889e01a57a5d441a62bb5c291ca5e37e060fbcd2843de89af0020c6a3dab3061
+SHA-256: 5dc5a29d9cd30709c95589520a009875d741587d43caf53b9d24b49d97f29c96
 
 INTRO [ E Em A ] (2)  E
  Em             A                  E
@@ -66,9 +66,3 @@ E             G  A C    E G A C
 barco a la deriva
 E              G  A C   E G A C
 voces que se agitan...
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

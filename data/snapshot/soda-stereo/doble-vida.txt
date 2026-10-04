@@ -3,9 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/doble-vida
 ID fuente: 35505
 Capturado: 2026-09-24T17:53:57.001778+00:00
-SHA-256: 2c2e558789acd2ffaa914fd1b7b202fb56bed5244da808f830f6d7c0dc42c38c
+SHA-256: b7a63f6746ebae4aed4ad6d824350e704a2f166c307d9a2d4a082f9939eb248e
 
-DOBLE VIDA
              F#m         A    G
 Levantaras el pulgar
              F#m          A    G
@@ -36,7 +35,6 @@ solo tenemos una doble vida
 sonrie por mi
 A
 doble vida
-
 
 ¿Donde esta ese pase especial
 para salir del subsuelo

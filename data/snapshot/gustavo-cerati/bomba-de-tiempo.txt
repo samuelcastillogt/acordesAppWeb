@@ -3,11 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/bomba-de-tiempo
 ID fuente: 18027
 Capturado: 2026-09-24T17:57:58.988617+00:00
-SHA-256: 98ef1ab6bb24631de48841c21cc396f984029c2f5925388a8021abc7b6dd14eb
-
-Ha bueno esta es mi primera aparición aquí en
-la cuerda y aquí les va el comienzo de una bonísima
-rola del maestro Cerati ..
+SHA-256: 1c8da1ab3f59e8ec37bbd37da24b9b4fe1b5dc953d68ee9a42bb7842ff90b242
 
 Comienza guitarra con distorsión
 
@@ -55,8 +51,3 @@ Tierra
 (con distorsión)                     (las veces necesarias
 A------3-----------3-------          al igual que el bajo)
 E-55-5---0-33-55-5---0-33-5
-
-espero qu ele entiendan y que les guste esta cancion
-esta muy buen ay prendida!! dedicada a todos los amigos queme
-apoyan!! cualquier duda,comentario o peticion escriban
-a [email protected]

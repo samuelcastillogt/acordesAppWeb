@@ -3,12 +3,8 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/te-llevo-para-que-me-lleves
 ID fuente: 383481
 Capturado: 2026-09-24T18:00:19.134052+00:00
-SHA-256: a5d091bc217d9965bc93396bcda5b91c1cd9981da0ee5ae3ef683d4044ef0c9a
+SHA-256: f800a00f22d1d398d991df8bdf314dd5aefb07e02d0ecaea5d6e35ccf1d88c46
 
-Letra y acordes de Te llevo para que me lleves
-
-(Letra y música de Gustavo Cerati)
-Transcripción x javi 29 para
 Intro
 MI     SOL  DO
 
@@ -44,6 +40,5 @@ La tinta no secó y en palabras dije muchas cosas
 MIm                SIm
 pero en mi corazón
 MIm                FA          LAm
-truchada para los chorros de acordes
 FA             LAm FA            DO
 tanto por decir, tanto por decir.

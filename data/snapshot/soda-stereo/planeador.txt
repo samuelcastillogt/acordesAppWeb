@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/planeador
 ID fuente: 35548
 Capturado: 2026-09-24T17:55:53.903417+00:00
-SHA-256: 44f71991a02384e905ef1b59c91207b1e447f5c9467a3ded3166ffa17101bc82
+SHA-256: c128971ba9de8b09595b31bf4c58a6a8ca34323a3c4eb9b5e14df3f86c229fa4
 
 |   Am   |   Am   |   D   |   D   |
 |   Am   |   Am   |   D   |   D   |
@@ -27,7 +27,6 @@ en mi frágil
        G   C   D
 planeador
        G   C   D
-
 
 Am      D     Am     D
 La ternura de tu duda

@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/ni-un-segundo
 ID fuente: 35538
 Capturado: 2026-09-24T17:55:27.706671+00:00
-SHA-256: 9d9fccc43675d5d6adb424577e6d664f09f0998f81e57dc0e344995eaa4d28bf
+SHA-256: 7dac67584c4bd67a8250496a9c47cccac858a99b170995fe66232bcca82b6860
 
 Nota: en el primer disco de Soda Stereo baria mucho el apagado de cuerdas,
 recuerden que cuando un acorde tiene este simbolo (*) tienen que apagarlas
@@ -82,5 +82,3 @@ SOL I--0--2--1--3--0--2--I
  RE I--2--3--2--3--0--2--I
  LA I--3--3--2--1--2--0--I
  MI I-----1--0-----3-----I
-
-[email protected]

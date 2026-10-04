@@ -3,16 +3,9 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/pulsar
 ID fuente: 18070
 Capturado: 2026-09-24T17:59:52.654282+00:00
-SHA-256: b8c19b073a734964c33e99b86ae7c0ee19c726d5bc8d23bcb1ca017873172999
-
-Para todos los viciosos (me incluyo), les dejo aca
-la canción tan pedida...
-Espero q les salga, sigan el ritmo.
-
-
+SHA-256: dfbf4c975f432311295da0dcac7ea11ccf4526c7ce3a0d24737f169282a278ff
 
 Intro:  G G7 (X2) Gm F C
-
 
 G G7  Gm                       F   C     G G7
        En viaje hacia la redención
@@ -27,7 +20,6 @@ Gm F  C              G G7 (X2)
 llega justo a tiempo
 Gm F  C              G G7 (X2)
 llega justo a tiempo
-
 
 Allí donde quisiste estar
 tan cerca de desesperar
@@ -60,5 +52,3 @@ los vicios no son del cuerpo...
 
 ...y llegas justo a tiempo
 ahora estoy seguro...
-
--=//*FIN*//=-

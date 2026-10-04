@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/engana
 ID fuente: 18042
 Capturado: 2026-09-24T17:58:40.114511+00:00
-SHA-256: ed3861ada9c91d226302afcf3cc855e988963a1ec3dc40862bb935e9e0500449
+SHA-256: 5eba634e2522da957badea68490f6a10219005c49af6cd3d3a07fb67b60fb01c
 
 Intro [A B A B A B A B D G A] x 2 E
 
@@ -51,7 +51,6 @@ Intro [A B A B A B A B D G A] x 2 E
 
  Final como intro
 
-
 Acordes
     A(La)  B(Si)   D(Re)  G(Sol)   Em(Mi menor) B7/D#(AlteraDO)
 E   5      7       5      3        x
@@ -61,10 +60,7 @@ G   6      8       7      4        9
 B   5      7       7      3        8
 E   5      7       5      3        7
 
-
 Nota: Es fundamental hacer los acordes en la posicion que se marca.
 De otra forma, solo se podra seguir la ritmica; los arpegios estan
 hechos en base a los acordes en la posicion dada, solamente es practicar
 hasta encontrar la forma de que suene igual.
-
- Cualquier duda a [email protected]

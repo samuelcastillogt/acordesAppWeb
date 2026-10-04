@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/tu-medicina
 ID fuente: 18088
 Capturado: 2026-09-24T18:00:39.735904+00:00
-SHA-256: c225a2d0636835e67b34374d0acd13fdb17628eeec081a3eeef924aef0983498
+SHA-256: 710dc91683998a4a42759df8b67c404d6ccb6ecdc6266d29ea30a5658973c405
 
  E       D     A    G          E   D    A
   Despertar mojado luego de sufrir...palizas
@@ -18,7 +18,6 @@ SHA-256: c225a2d0636835e67b34374d0acd13fdb17628eeec081a3eeef924aef0983498
       G           E  D      A   G
   es fruto del dolor...la du-da
 
-
   E    D       E-D
   Una luz sin fin,
   E             B     A     G
@@ -27,7 +26,6 @@ SHA-256: c225a2d0636835e67b34374d0acd13fdb17628eeec081a3eeef924aef0983498
   tu medici-na
   B A   G      A
   a-a-amar la medicina.
-
 
   E    D      A      G            E   D     A
   Abrazar lo tierno hasta prescindir...del miedo
@@ -68,7 +66,6 @@ E7    D7        A   G            E7  D7     A
  E - D - A - B
  E - D - A - B
  E - D - A - B
-
 
   E - D - A - G
   E - D - A - G

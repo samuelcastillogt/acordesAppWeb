@@ -3,14 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/ailee
 ID fuente: 18013
 Capturado: 2026-09-24T17:57:25.467934+00:00
-SHA-256: 89f8e163aa0321af74ded3b77335dcf6793f35b05d333d10bc2fd5db9b6e8263
-
-Ailee  ( Torre De Marfil - Siempre Es Hoy )
-La Version Original de Ailee es instrumental  pero Gustavo
-en Su  ultimo material ( Siempre Es Hoy )  uso la melodia
-de esta cancion  agregandole  letra .. bueno lo q yo
-hice fue sacar una mezcla de  estas dos versiones .. q por
-cierto suena muy bien ...
+SHA-256: abe685261a4e8c7f82a153273ef1dbd5fcbf631926f6d0d4eb918e753df19d4e
 
 Intro : Am D/F#*  C* G F Em B7 C
 Am   D/F#*     C*
@@ -42,14 +35,5 @@ Am      D/F#*         C*
 hoy marqué tu número
   Em           B7            C
 tan sólo para oir tu voz.. mm mm
---------------------------------
 C* =032033
 D/F#* =200232
---------------------------------
-Cualquier  pregunta .. no  duden en contactarse conmigo
-Dedicado especialmente a Cuqui (Maria Josefina) ..
-Todavia hay muchas cosas q podemos hacer juntos ..
-claro si vos queres .. te adoro !!!
-´Un Reemplazo de Mi No Podra Hermosearte Mas´
-Daniel
-http://rocknacionalcomu.cjb.net

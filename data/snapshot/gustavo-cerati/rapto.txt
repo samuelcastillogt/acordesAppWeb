@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/rapto
 ID fuente: 18072
 Capturado: 2026-09-24T17:59:57.190131+00:00
-SHA-256: 87d5703575c3b0c4588038f74937f2955a05ebd7e6ee06f836aa4d4fac2813b6
+SHA-256: e7d256020fa0c948aa75abe6ba0d19b46e6db1c22c3944e04d451c8b26d3f2e9
 
 Capo en 4
 
@@ -41,7 +41,6 @@ Es un rapto de inconsciencia nena
         D   BbM7add9    G
 No te suelto más
 
-
 Cierro el puño tal vez para no ver mi mano vacía
 Si pudiera decírtelo de alguna otra manera lo haría
 
@@ -49,7 +48,6 @@ No te suelto más
 Yo no te suelto más
 Es un rapto de inconsciencia nena
 No te suelto más
-
 
 D          Bm         F#m    A
     Somos hijos del rigor
@@ -63,7 +61,6 @@ Bm                           Am
     Crece y crece hasta el cielo
       C
 Quédate
-
 
 No te suelto más
 Yo no te suelto más

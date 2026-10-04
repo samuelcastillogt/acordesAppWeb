@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/planta
 ID fuente: 35549
 Capturado: 2026-09-24T17:55:56.904225+00:00
-SHA-256: 92bfdb6c8a2a3ded4e272fc7db282180a40955a5eb96204fc5ee727e0a833686
+SHA-256: 92b605e523a11942054f1ba0ca8aa66e6fe7266198ee8402dccfb086c87c7748
 
 Em    G              C     Am
 Sabia sabia por mi cuerpo
@@ -34,7 +34,6 @@ Que ya no puedo volver
 Al oir, al oir
     Bm     C#m
 Al oir, al oir
-
 
 C#m     F#7      B7
      Mi voz vegetal,

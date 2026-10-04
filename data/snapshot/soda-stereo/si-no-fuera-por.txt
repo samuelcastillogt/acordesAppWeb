@@ -3,11 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/si-no-fuera-por
 ID fuente: 35553
 Capturado: 2026-09-24T17:56:16.691769+00:00
-SHA-256: 19e09d40507b0ffbb9dc9c87b19e5587b9f36b152aba9fbc0a7d9c8ce502578c
-
-bueno esta es mi primera cancón asi es que si no es como
-ustedes se la saben por favor enviar corrección
-cualquier comentario a [email protected]
+SHA-256: 1ce8ae88e42b0aa89762d6c7fd97c3b796865551c75167e1b789f00c4d5fe9e8
 
 LAm               MI
 Podrias acercarte, un poco mas

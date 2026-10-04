@@ -3,9 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/el-rito-live
 ID fuente: 391867
 Capturado: 2026-09-24T17:54:10.863857+00:00
-SHA-256: 0096d365516ee4d7cf153252cb68ed77ed531288e821d3d9a669f64e5cffeb22
+SHA-256: 501fa3577b05072a9b1b1938074a8c248f8dc23d65b460cb901a96e9a6a38063
 
-transcrito por: carlos ramirez
 afinacion: EADGBe
 
 INTRO:
@@ -33,7 +32,6 @@ E|-x----------------------------------------------------------------------|
                   soy un profanador          estoy desafiando al tiempo
     el cielo entiende que mi obsesion       esta llegando a un limite
 
-
 e|------8-----------------------------------------------------------------|
 B|------8-----------------------------------------------------------------|
 G|-----10-----------------------------------------------------------------|
@@ -43,7 +41,6 @@ E|------x-----------------------------------------------------------------|
                  ya ves mi transgresion     es procurar tenerte
             y el desierto al menos hoy     no parece no parece tan..
 
-
 CORO:(la guitarra toca la introduccion)
 
    Dm7                        G         Bbm7                       F
@@ -52,7 +49,6 @@ CORO:(la guitarra toca la introduccion)
    tu misteriosa forma me lastimara  pero a cada segundo estare mas cerca
 
  mas mas..
-
 
  (I)
 e|----------------------------8-8-8-8-------------------------------------|
@@ -82,7 +78,6 @@ E|------------------------------------------------------------------------|
                           destruyendo mitos
 
  (I),instrumental(las mismas notas del verso) (II)....
-
 
 e|---------------------------------------------------------|
 B|-------------------------------------6-4-3-4-3-----------|

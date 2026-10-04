@@ -21,8 +21,6 @@ export type CatalogSong = {
   workSlug: string;
   versionLabel: string | null;
   versionOrder: number;
-  noteLines: number;
-  omitLines: number;
 };
 
 export type CatalogWork = {
@@ -33,11 +31,6 @@ export type CatalogWork = {
   route: string;
   versions: CatalogSong[];
   searchableText: string;
-};
-
-export type SongSheet = {
-  note: string | null;
-  body: string;
 };
 
 export type CatalogStats = {
@@ -116,21 +109,14 @@ export const getSong = cache(
 );
 
 export const getSongSheet = cache(
-  async (artistSlug: string, songSlug: string): Promise<SongSheet | null> => {
+  async (artistSlug: string, songSlug: string): Promise<string | null> => {
     const [manifest, song] = await Promise.all([getManifest(), getSong(artistSlug, songSlug)]);
     const entry = manifest.songs.find(
       (item) =>
         item.artist_slug === artistSlug && songSlugFromFile(item.file) === songSlug,
     );
-    if (!entry || !song) return null;
 
-    const source = await readVerifiedSheet(entry);
-    if (source === null) return null;
-
-    const lines = source.split("\n").slice(song.omitLines);
-    const note = lines.slice(0, song.noteLines).join("\n").trim();
-    const body = lines.slice(song.noteLines).join("\n").replace(/^\s*\n/, "");
-    return { note: note || null, body };
+    return entry && song ? readVerifiedSheet(entry) : null;
   },
 );
 
@@ -252,8 +238,6 @@ function toCatalogSong(entry: ManifestSong): CatalogSong {
     workSlug: curation.work ?? slug,
     versionLabel: curation.version ?? null,
     versionOrder: curation.order ?? 0,
-    noteLines: curation.noteLines ?? 0,
-    omitLines: curation.omitLines ?? 0,
   };
 }
 

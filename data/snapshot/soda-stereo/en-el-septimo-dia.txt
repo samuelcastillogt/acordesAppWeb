@@ -3,14 +3,13 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/en-el-septimo-dia
 ID fuente: 35516
 Capturado: 2026-09-24T17:54:24.026161+00:00
-SHA-256: 47f402d35844bae7be44ce1d6612660f7529195a8155f342c0fbe3b746d84c5e
+SHA-256: 2471085539b07b0148169097d3fbbb9beffe85cd0b0b614b92500bb4387b1da3
 
 intro:  SI5 FA#5 LA5 SI5 FA#5 LA5 (x7)
         SI5 FA#5 LA5
         RE5 DO#5 SI5 SOL5 MI (x3)
         RE
         SI5 FA#5 LA5 (x4)
-
 
 SI5 FA#5 LA5 SI5        FA#5  LA5
 odio             este domin- go

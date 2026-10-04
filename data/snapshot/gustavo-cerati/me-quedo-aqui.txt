@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/me-quedo-aqui
 ID fuente: 18056
 Capturado: 2026-09-24T17:59:19.139060+00:00
-SHA-256: 2ff83d2f908bf142b730f12771d6075d0617fab5154028e9391d28d3d7254d0a
+SHA-256: 8611018de5876e8eb71d92e77c9cd54d0738f4969c07c2dbd919969fb9c79ab7
 
 Versión estudio
 
@@ -26,7 +26,6 @@ Acordes:
 | C7      | [x32310] |
 | D*      | [x57775] |
 +---------+----------+
-
 
 D         F#m
     Espera
@@ -123,7 +122,6 @@ DI-----------------------------------------------------------I
 AI-----------------------------------------------------------I
 EI-----------------------------------------------------------I
 
-
 D         F#m
     Y si no,
 C            Em
@@ -134,7 +132,3 @@ C            Em
     no aprendimos la lección
 
 A  Bm  G  C  (Bm) como final
-
-***************************************************************************
-
-nico.stereo ([email protected])

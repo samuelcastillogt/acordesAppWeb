@@ -60,7 +60,7 @@ export default async function SongPage({ params }: PageProps) {
   if (!song || !sheet) notFound();
 
   const versions = await getSongVersions(song.artist_slug, song.workSlug);
-  const progression = uniqueChords(classifyLines(sheet.body))
+  const progression = uniqueChords(classifyLines(sheet))
     .map((chord) => toAmericanSymbol(chord))
     .filter((chord): chord is string => Boolean(chord))
     .slice(0, 8);
@@ -131,7 +131,7 @@ export default async function SongPage({ params }: PageProps) {
             </nav>
           ) : null}
 
-          <SheetReader content={sheet.body} note={sheet.note} />
+          <SheetReader content={sheet} />
         </article>
 
         <ChordWeaverPromo

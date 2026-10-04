@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/desastre
 ID fuente: 18038
 Capturado: 2026-09-24T17:58:27.820965+00:00
-SHA-256: 75dd357dc12c631c2d6d4b22676ebb0c15bceb971276bff5bdd8b234b3e1a7df
+SHA-256: 414fbeec3df738f9384c093092f5fec23849e567619c384fa4755c0f21f7330f
 
     F   Fsus4 Dm D9 C G6 Cmaj7 F9
 e|--1---1-----1--0--0-0--0-----3-
@@ -12,7 +12,6 @@ G|--2---2-----2--2--0-4--0-----2-
 D|--3---3-----0-----2-5--2-----3-
 A|------------------3----3-------
 E|-------------------------------
-
 
 Intro: F-Fsus4-Dm-D9
                         (x2)

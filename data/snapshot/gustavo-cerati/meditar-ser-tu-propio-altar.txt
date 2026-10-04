@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/meditar-ser-tu-propio-altar
 ID fuente: 18057
 Capturado: 2026-09-24T17:59:21.439424+00:00
-SHA-256: 1d747480f67e59ae9bbc2a5f210b1f632cbab9a4b2dbdd5d2f5a734e12685daa
+SHA-256: 4653df9cc393a20d9cf5b9d36537d5ed70240ce6b93de602aebcf607ea4c4195
 
 Intro: (RE SOL) x 8
 
@@ -14,7 +14,6 @@ SOL   RE   SOL      RE    SOL      RE     SOL - RE
 SOL   FA                            FAm
       Dura lo que dura la ficción
 
-----------------
       RE   SOL      RE     SOL      RE SOL - RE
       Descubrir los miedos que te ciegan
 SOL   RE     SOL   RE   SOL     RE     SOL - RE
@@ -24,7 +23,6 @@ SOL  RE     SOL     RE    SOL      RE     SOL - RE
 SOL   FA                        FAm
       Derrumbar la personalidad
 
-----------------
       SOLm                              LA#
       Descubrir lo que hay de individual
                        SOLm
@@ -32,7 +30,6 @@ SOL   FA                        FAm
                         RE  (SOL - RE) varias veces
       Ser tu propio altar
 
-----------------
       FA                         FAm
       Mírame yo sigo estando aquí
           SOLm                         LA#
@@ -42,7 +39,6 @@ SOL   FA                        FAm
 
       Ya no hablar
 
-----------------
       SOLm         LA#          FA
       Reconoces cuando es la verdad
       SOLm          LA#            RE#
@@ -52,9 +48,6 @@ SOL   FA                        FAm
                       RE#
       Sé tu propio altar
 
-
 Estrofa 1 y 2 queda bien con arpegio
 Estrofa 3 Rasguido suave
 Estrofa 4 y 5 combinando arpegio con rasguido
-
-Saludos!

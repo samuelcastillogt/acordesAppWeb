@@ -3,23 +3,9 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/engaca
 ID fuente: 288038
 Capturado: 2026-09-24T17:58:37.283045+00:00
-SHA-256: fb71c055a7565269f4d9e4112f8e21261e18965b393a67545a0c0bcbc8c6a2ce
-
-* Gustavo Cerati                                  *
-
-* ENGAÃA                                          *
-
-* G. Cerati                                       *
-
-* Bocanada ()                                     *
-
-===================================================
-
-
+SHA-256: 6b54cb5addf5402b86b6b6c347eb18c7243efdbf356d890b675ac4dcde3bed84
 
 Intro [A B A B A B A B D G A] x 2 E
-
-
 
  E          B
 
@@ -37,11 +23,7 @@ Intro [A B A B A B A B D G A] x 2 E
 
  la despertaba
 
-
-
  A B A B A B A B D G A E
-
-
 
  E            B
 
@@ -63,8 +45,6 @@ Intro [A B A B A B A B D G A] x 2 E
 
  saber
 
-
-
  Est:
 
  Em         B7/D#
@@ -79,8 +59,6 @@ Intro [A B A B A B A B D G A] x 2 E
 
  y no recuerdo despertar
 
-
-
  Empieza bien
 
  y no hay retorno a aquel furor
@@ -88,8 +66,6 @@ Intro [A B A B A B A B D G A] x 2 E
  se rompe la cancion
 
  apenas duele
-
-
 
  Tal vez me engaÃ±e
 
@@ -99,17 +75,9 @@ Intro [A B A B A B A B D G A] x 2 E
 
  con la real locura
 
-
-
  Est x 2
 
-
-
  Final como intro
-
-
-
-
 
 Acordes
 

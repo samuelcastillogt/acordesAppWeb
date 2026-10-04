@@ -3,10 +3,9 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/paseo-inmoral
 ID fuente: 18065
 Capturado: 2026-09-24T17:59:38.177649+00:00
-SHA-256: e70f64635ed22fbb627509ff775fe88b1150c6e9353f6f3d89f772f7f0ebc508
+SHA-256: fb068178728906b6906eec53f4b353a75ff3151920da3c932e6cbd11837f2ce7
 
 Esta es la tablatura del riff de paseo inmoral, no esta hecho con la guitarra pero bueno...
-
 
 E-----------------
 B-----------------
@@ -39,7 +38,6 @@ B
 Sigo detras del corazon
                       E
 moviendolo lentamente
-
 
 Hablame...
 

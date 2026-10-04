@@ -3,16 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/amor-amarillo
 ID fuente: 18018
 Capturado: 2026-09-24T17:57:37.677621+00:00
-SHA-256: 6f0ea05e05c481d8c14e9db0f84c3cb62cce70ab6658a74db8e1e264e52b46bd
-
-===============LAS PISADAS===================
-+-------------------------------------------+
-| Gustavo Cerati                            |
-| AMOR AMARILLO                             |
-| Gustavo Cerati                            |
-| Amor Amarillo [1993]                      |
-+-------------------------------------------+
-===========DEL ROCK EN ESPA~OL===============
+SHA-256: 02d059a059e152d11acc68f35d5dfd4d12204dfed57f039f9ee4017ffc09931f
 
 Bm F#   Bm  F#
 Adentro tuyo
@@ -59,10 +50,6 @@ Bm F#   Bm  F#
 Adentro tuyo
          E            F#-E-D#-E
 y es unico, es unico
-
-===========================================
-Transcripcion de Ulises Alejandro Dominguez
-([email protected])
 
 Esta cancion es muy dificil de tocar con
 puros acordes estandar, mas bien que se oiga

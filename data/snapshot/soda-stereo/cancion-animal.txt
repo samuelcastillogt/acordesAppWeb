@@ -3,9 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/cancion-animal
 ID fuente: 35493
 Capturado: 2026-09-24T17:53:20.238356+00:00
-SHA-256: e069b78ec69a810f511a6645217d2836d3d39c4d9db896171237caea38aa5a17
-
-Acordes correctos
+SHA-256: e08879a313c5c8824f21b4b433826a945f71380f612cf1dc39b32272608ba120
 
 Introducción: Em
 

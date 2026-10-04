@@ -3,14 +3,9 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/oscura-intencion
 ID fuente: 18063
 Capturado: 2026-09-24T17:59:34.573577+00:00
-SHA-256: 559f27443281d6164cc4e9ad2d4c4b3bf0c5bebbc2f393899b2d0f7e79c32aaa
+SHA-256: 90b642793eab511865b6261a91b5e6a00c2e10ad0f152d16ac801978f76ef2b3
 
-Esta es mi transcripción del solo de guitarra que hace Cerati en
-el minuto 2:32 y del mini-solo del final que viene a ser el cierre
-de la canción, creo que esta bastante correcta y precisa.
-El resto de la canción tiene un riff genial, pero lo toca
-demasiado rapido y aún no lo transcribo, disfruten tocando
-el solo de este tema increible del genio Gustavo Cerati.
+Solo
 
 l = ligado
 b = estirar la cuerda
@@ -45,7 +40,6 @@ A|-------------------------------------------|
 E|-------------------------------------------|
  termina 2:47
 
-
 Cierre de la canción
 empieza 2:58
 E|-------------------------------------------|
@@ -55,9 +49,3 @@ D|------------------------------17r----------|
 A|-------------------------------------------|
 E|-------------------------------------------|
   termina 3:00
-
-Espero que la disfruten!
-
-
-si encuentran errores o tienen preguntas, envien mail a
-[email protected]

@@ -3,11 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/juegos-de-seduccion
 ID fuente: 276096
 Capturado: 2026-09-24T17:54:54.861136+00:00
-SHA-256: 6157e74614be6e4ee99479494f02e5750b98a68ef7e68b6f7fe46e8070c64b9f
+SHA-256: ee98acb2c013c67b71b4bb738bccba33f7b376d92a6038c3e334b8675a93d262
 
-Letra y acordes de Juegos de seduccion
-
-(Letra y música de Gustavo Cerati)
 Intro
 SIsus4
 SI   FA#m7   LA   MI
@@ -75,8 +72,6 @@ RE          DO#m   RE       DO#m
 me hace mover, me hace mover
            FA#
 en extremos.
-
-
 
 SOLmaj7  FA#        SOLmaj7  SOL#m
 

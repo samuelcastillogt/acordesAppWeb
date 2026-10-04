@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/zona-de-promesas
 ID fuente: 35572
 Capturado: 2026-09-24T17:57:14.373520+00:00
-SHA-256: 3e629c28c104ec7b36e9526b2e23fa3d65b781982a5560fb046425ad94d17a00
+SHA-256: 8fed88fae248da53e2554f608cd476e0ff764c29571bc6254feb0e102d1d2b10
 
 (G)   C         G
 Mamá sabe bien
@@ -32,7 +32,6 @@ Hay recompensa
 
 G  C  G  C  Em  Em  D  C
 
-
 Mamá sabe bien
 Pequeña princesa
 Cuando regresé
@@ -53,9 +52,6 @@ Hay recompensa
 G  C  G  C  Em  Em
 D*
 En la zona de promesas
-
-----------------------------
-
 
 G:
   EADGBe

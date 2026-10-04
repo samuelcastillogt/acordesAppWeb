@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/sequencia-inicial
 ID fuente: 35552
 Capturado: 2026-09-24T17:56:12.346758+00:00
-SHA-256: 58a2058eae81e3b7aca86b7c4359dc51bef1f65ef79759293053ecc6e6bf75ab
+SHA-256: 22255bdab2e1dd2bc867849b6aefc7165c884fd137f5293ab36d83f1a5a6409e
 
 INTRO [ A-A2-A3-A4 Fmaj7 Em ] (4)  Adim
 
@@ -21,7 +21,6 @@ nunca fuiste una canción.                            B2  --> XX2230
 Te oigo entrar                                       Fmaj7-> X33210
      F#2                    D C [ B2 B3 ] (4)
 y deseo darte un nombre nuevo.
-
 
 Adim                   Bm2
 Busco algún lugar neutral

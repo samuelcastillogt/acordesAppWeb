@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/el-cuerpo-del-delito
 ID fuente: 35508
 Capturado: 2026-09-24T17:54:03.292905+00:00
-SHA-256: a612f2fdf51d2737a646fd0c7fb3330c9947199130cb68e762434f49cf1bbab7
+SHA-256: 738f896286b00cb4d92c8e1bed8493bad0085292a836472cebe6a78c5afa7b93
 
 B
 En un instante
@@ -13,7 +13,6 @@ el grito estalló
 detrás de mí
   E           A A7  B
 detrás de vos
-
 
 Sombras,
 implacables detectives,

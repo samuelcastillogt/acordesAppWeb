@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/cibersirena
 ID fuente: 35494
 Capturado: 2026-09-24T17:53:23.075226+00:00
-SHA-256: 35e8f4033f55443a9a220ab2a49ac5978ac2b59456e5344d1d128524486300e6
+SHA-256: 018e74aa9700b72cb777c5dd84405a505d85f85ef2e99d4c388975495fcc1072
 
 (El cambio de D-D4-D-D2 es muy rapido, lo mismo que el cambio A-A2)
 
@@ -57,7 +57,3 @@ Cibersirena...
 Cibersirena...
 Cibersirena...
 Cibersirena...
-
-N.C./2004
-errores y comentarios, por favor, a: [email protected]
-Aguante Soda!

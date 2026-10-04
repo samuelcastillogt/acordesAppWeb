@@ -3,11 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/tele-ka
 ID fuente: 293277
 Capturado: 2026-09-24T17:56:50.357144+00:00
-SHA-256: d537f6afdfb9292824609cec4d6174f8caefd7ead5b71d9a162feee9cb5ab8fc
+SHA-256: 2308b1c7d67209d207d235b55ddcdb5f4d7c4d69a057c63d5091b2fc10a1fc31
 
-Banda: Soda Stereo
-Cancion: Tele-K
-Transcrito por:Carlos Ramirez
 Afinacion:EADGBe
 
 INTRO Y VERSO:
@@ -32,9 +29,7 @@ A|-------9-----------7-----------9------------7--------|
 E|-------7-----------5-----------7------------5--------|
          tele telekinesis        moveras tus pies
 
-
   verso, coro
-
 
    C  F#    Bm      D     C   F#       Bm      D      C
 e|-8--6------7-----10-----8---6---------7-----10------8-------------|
@@ -55,7 +50,6 @@ E|----x------7-----10-----8----x-----x-------------|
         no esperes mas de mi     de mi
 
    verso,coro...
-
 
 FINAL:
 

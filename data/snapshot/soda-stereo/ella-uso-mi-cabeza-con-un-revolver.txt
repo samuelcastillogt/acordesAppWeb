@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/ella-uso-mi-cabeza-con-un-revolver
 ID fuente: 35513
 Capturado: 2026-09-24T17:54:17.552031+00:00
-SHA-256: 7814886b90385613d6aff98f22b4b4462c4fe9a6937aa53475839bd8f735707c
+SHA-256: bdb3a3e1a0b8f9dbc043d12c34514b0ef4ade2c1212ab600198c4d9b6be347a8
 
 A)
 DO   SOL  SIb     REm           DO        RE# REm DO#
@@ -12,7 +12,6 @@ DO   SOL  SIb     REm                 DO        RE# REm DO#
 e incendio mi conciencia con sus demonios
 DO   SOL  SIb      REm          SOL
 me vi llegando tarde, tarde a todo
-
 
 SIb                   LAm
 despues de un baño cerebral
@@ -23,7 +22,6 @@ SOL#                     SOL
 pasa el tiempo y ahora creo que
 SOL#                    SOL
 el vacio es un lugar normal
-
 
 A)Ella uso...
 
@@ -42,7 +40,3 @@ SOL#                         SOL
 fui tan docil como un guante gris
 SOL#             SOL
 y tan sincero como pude
-
-=================================================
-Copiado de la Biblioteca de Zero Musica
-(http://www.zero.org/musica/biblioteca/)

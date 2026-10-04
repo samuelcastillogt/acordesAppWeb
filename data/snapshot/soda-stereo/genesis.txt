@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/genesis
 ID fuente: 35523
 Capturado: 2026-09-24T17:54:42.065483+00:00
-SHA-256: 132fd324f3e1e30172739f1cb7230a6ad8d9dfba6e1893e38f4ee0770f8b03b9
+SHA-256: 0d857ef5b192cdb5ef27be6f930f18a9df238feb2a9cd90b08f7381c526f6d53
 
 A|------2----/10------10/2---------
 E|--0---------------------------------
@@ -15,7 +15,6 @@ Em                                        Em
 
 C                  B7                             Em
 y fue el cielo y esto que está aquí.
-
 
 Em                                        Em
 Hubo tierra, agua, sangre, flores,

@@ -3,11 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/vuelta-por-el-universo
 ID fuente: 18092
 Capturado: 2026-09-24T18:00:50.914321+00:00
-SHA-256: ef2dd397009051f717c1a54b3083dbc96504fdce70ac6f125ad11b049e31c304
-
-Esta es otra de mis pequeñas participaciones en la
-cuerda así que va dedicada mi tan apreciada Chichí!!
-
+SHA-256: e5e416b75c78c34a8385d23e342304e73f4f729bfb33dd4fceeb4fb59e616d95
 
 E
 Hoy que estas esplendida
@@ -21,7 +17,6 @@ G             A        E
 Vuelta por el universo
 G             A        E
 Pide algún deseo
-
 
 E
 Nuestras almas al flotar
@@ -68,8 +63,6 @@ Alto, cada vez más alto
 G            A          E
 Alto, cada vez más alto
 
-
-
 E
 G             A        E
 Vuelta por el universo
@@ -83,5 +76,3 @@ Vuelta por el universo
 E (cada vez más lejos)
 G             A        E
 Vuelta por el universo
-
-Espero y no tengan problemas es muy fácil esta canción.

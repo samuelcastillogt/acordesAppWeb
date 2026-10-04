@@ -3,10 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/toma-la-ruta
 ID fuente: 35566
 Capturado: 2026-09-24T17:56:58.445383+00:00
-SHA-256: 5e70e8353b0fbeca7f775eb9422e33f5810f98f4bbc22aa728d3c60e1af71a30
-
-Correción a los acordes de Toma la Ruta envíados por Sorel Báez
-
+SHA-256: 7294751c058287002c947a5d1a516e29e55fc9e9a9d4c93e42a9bbef459818aa
 
 Intro:
 [ A F(a) D(r) ] x2
@@ -91,10 +88,6 @@ Final:
 
 [Em  D(I) C(I) Em  D(II) C(II)] (Hasta desaparecer)
 
-
-
------------------------------------------------------------------
-
 Acordes:
 
         E  A  D  G  B  E
@@ -117,8 +110,6 @@ B(8a)   x  2  x  4  x  x
 C#      x  4  x  6  x  x
 D#      x  6  x  8  x  x
 
-
-
 Punteos:
 
 F(a)                 D(r)
@@ -129,7 +120,6 @@ D-|-3-----------3--  D-|----------------------------
 A-|----------------  A-|----------------------------
 E-|----------------  E-|----------------------------
 
-
 Riff A
 e-|--------------------------
 B-|-7b9--7b9--7b9--7b9--7b9--
@@ -137,7 +127,6 @@ G-|--------------------------
 D-|--------------------------
 A-|--------------------------
 E-|--------------------------
-
 
 Riff B                               Bend
 e-|-7-----7-----7-----7------------  e-|------

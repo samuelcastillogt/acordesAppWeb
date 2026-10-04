@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/disco-eterno
 ID fuente: 35504
 Capturado: 2026-09-24T17:53:51.535743+00:00
-SHA-256: ec473ea2844fb6cb1ccb794ac851459ae3336c4c8a1248069e4d534c6eb680a8
+SHA-256: 04386283f99ebeaf6ebf2e26e4fdc86d05f7ae959baf18624ae7cc76796133ee
 
 INTRO [D9 Fmaj7 C9 G6] x 4
 
@@ -65,9 +65,3 @@ A5             C9
 vengo a descubrir
       A5             C9    [D9 G6 Fmaj7 G6] x MUCHAS VECES
 por que este deseo crece...
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

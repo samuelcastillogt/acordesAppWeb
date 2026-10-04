@@ -3,16 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/a-merced
 ID fuente: 18010
 Capturado: 2026-09-24T17:57:18.032323+00:00
-SHA-256: 10d3a2ad509948241ee369c26478252d93164a157f339cc1796eab6ee3b36ca0
-
-===============LAS PISADAS===================
-+-------------------------------------------+
-| Gustavo Cerati                            |
-| A MERCED                                  |
-| Gustavo Cerati                            |
-| Amor Amarillo [1993]                      |
-+-------------------------------------------+
-===========DEL ROCK EN ESPA~OL===============
+SHA-256: 6c6dae143b87eebb66f290010e2f3c1c078eff13bf9bc84d9877092f06dcb23b
 
 Intro: D-G
 
@@ -69,10 +60,6 @@ Ey ey ey a merced
 mi amor es real
     Bm          E   (C#m-F#m-Bm-E) Repetir desvaneciendo
 me vuelvo a quedar
-
-==========================================
-Transcripcion de Ulises Alejandro Dominguez
-([email protected])
 
 La transcripcion fue hecha con la guitarra
 afinada en 440 Hz.

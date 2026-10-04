@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/uno-entre-mil
 ID fuente: 18089
 Capturado: 2026-09-24T18:00:40.422365+00:00
-SHA-256: 8e4e8575216d5243059421899805a1a13a035a24a6004a9ac81d0667161cda64
-
-Uno entre 1000 - Ahí vamos - Gustavo Cerati & Richard Coleman - 2006
+SHA-256: b133a7a77d910a64f4571d82455686b6f1e09698a33310e3e3807972a23e2875
 
 Linea de bajo Nalè:
 

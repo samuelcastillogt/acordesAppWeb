@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/los-languis
 ID fuente: 35532
 Capturado: 2026-09-24T17:55:08.357219+00:00
-SHA-256: 143e8922a4f338ecdb3f01bbd434f166f763be851636f95c1d688461f4fb49e7
+SHA-256: d698e9acf116fd2117838958d504f11dc9f3bda2b2b06f10cdab8ace8336ee18
 
 LA        SIm           RE
 SOLO UNA HORA MAS EN SILENCIO
@@ -30,7 +30,6 @@ SERA EL MOMENTO DEL BAILE
            FA#m   SI    F#m   RE   SIm
 DE LOS LANGUIS.....
 
-
 LA            SIm                RE
 HAY SOLO UNA HORA PARA ALGO PROHIBIDO
 
@@ -42,7 +41,6 @@ KISIERA ENCONTRAR EL GOLPE  PRECISO
 
 F#m      RE                  SI
 EL LUGAR EN TU PIEL PARA HINCAR MIS COLMILLOS
-
 
 SE REPITE CORO..
 

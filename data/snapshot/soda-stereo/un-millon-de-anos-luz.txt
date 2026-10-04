@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/un-millon-de-anos-luz
 ID fuente: 35568
 Capturado: 2026-09-24T17:57:03.736469+00:00
-SHA-256: ff0be71db07066e90b1b1502ae99404e8556d2b2fa546cc564aa4cb4aeb2692e
+SHA-256: 190c7e7609190dd586927b7fbdd9e4d0053eb1fc6a5b0dba3a58da0897c5f266
 
 INTRO [ B  A  E/G#  E ] (4)
 
@@ -11,7 +11,6 @@ INTRO [ B  A  E/G#  E ] (4)
 No vuelvas........ no vuelvas sin razón
     B     A E/G# E         B          A     E/G#  E   B
 no vuelvas........ yo estaré a un millón de años luz
-
 
              D         E  D  B
 Y cuando el mundo oscurece
@@ -22,7 +21,6 @@ nos revolcamos en el jardín
            B     D  E   B
 por donde nadie pasa
 
-
            D         E   D   B
 Del fuego vino el diluvio
          D           E G-A   B
@@ -32,12 +30,10 @@ y mi alimento son las cenizas
         B     D   E
 de una noche larga
 
-
     B     A E/G# E     B       A     E/G#  E
 No vuelvas........ no vuelvas sin razón
     B     A E/G# E         B          A     E/G#  E    [ B A E/G# E ] (4)
 no vuelvas........ yo estaré a un millón de años luz de casa
-
 
 B          D        E  D  B
 De las historias pasadas
@@ -50,7 +46,6 @@ en una noche larga
                  B   A  E/G# E
 y esta noche es larga
 
-
     B       A     E/G#  E
 No vuelvas sin razón
     B     A E/G# E         B          A     E/G#  E
@@ -58,11 +53,4 @@ no vuelvas........ yo estaré a un millón de años luz de casa
     B     A E/G# E         B          A     E/G#  E
 no vuelvas........ yo estaré a un millón de años luz de casa
 
-
 [ B  A  E/G#  E ] (4)
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

@@ -9,18 +9,12 @@ const TAB_RE = /^\s*([eEbBgGdDaA][|:])|[-0-9hbp~/\\|]{6,}/;
 const INSTRUCTION_RE =
   /\b(afinaci[oó]n|capo|cejilla|tono|transportar|varias veces|arpegio|rasgueo|x\d+)\b/i;
 
-export function SheetReader({
-  content,
-  note,
-}: {
-  content: string;
-  note: string | null;
-}) {
+export function SheetReader({ content }: { content: string }) {
   const lines = classifyLines(content);
   const chords = uniqueChords(lines);
   const chordBook = buildChordBook(chords);
 
-  return <InteractiveSheet lines={lines} chords={chords} chordBook={chordBook} note={note} />;
+  return <InteractiveSheet lines={lines} chords={chords} chordBook={chordBook} />;
 }
 
 /** Chord symbols in order of first appearance. */

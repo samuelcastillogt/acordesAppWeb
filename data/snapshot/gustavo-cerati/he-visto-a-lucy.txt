@@ -3,14 +3,10 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/he-visto-a-lucy
 ID fuente: 18046
 Capturado: 2026-09-24T17:58:51.937019+00:00
-SHA-256: 79b5afee1fd3853e9711469a00152cc3f34d5608e7bcb657187c7eeea12f9bbc
+SHA-256: e5c489f7690c7305a91eefff1910d64f7576c10b1bc0182ed876bb77d8f02cd1
 
-Estos acordes nose como se llaman pero devo de andar cerca:
 A/C#: x42220
 Bsus4: x24452
-
-
-
 
  Intro: B,E,D,A   x4
 
@@ -35,8 +31,6 @@ B        E           D         A
 (Nos sentamos en la cama
 B       E        D         A
  nos moríamos de ganas)
-
-
 
 D
  Tan liviano
@@ -75,14 +69,4 @@ Uhh, resuena en mi su voz
 C       A/C#             B
 Uhh, resuena en mi su voz.
 
-
-
 [B,E] HASTA EL FIN..........................
-
-
-
-
-
-La verdad muy bella canción, felicito a Gustavo Cerati por tremendo hit...
-Esta es mi primer trascripción espero les guste,
- abrasos, de Argentina Matias Quintero.

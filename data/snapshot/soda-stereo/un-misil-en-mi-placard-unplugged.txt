@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/un-misil-en-mi-placard-unplugged
 ID fuente: 35570
 Capturado: 2026-09-24T17:57:08.317979+00:00
-SHA-256: 820214c0518ac09340117da996b4ba7584fc32b400b48a9d3ab88c00abdfbac2
+SHA-256: 360aa243d8216b0a4a12061568af5dfe971b980d86e9608af4e8b58cfa34dede
 
           EADGBe
 
@@ -19,15 +19,11 @@ G6        355400
 Fm#       244222
 Asus4(13) X55400
 
-
-
-
 INTRO:
 
 F#m4/7     Em7     *F#m4/7     *Em (x3)
 
 F#m4/7     Em7      Bm          6ta al aire
-
 
 F#m4/7    Em7              *F#m4/7   *Em
     Refugiados sobre el divan
@@ -41,7 +37,6 @@ Algo ocurrio, una extraña sensacion, un presentimiento
 F#m4/7              Em7            Bm          6ta al aire
 Tuve que dejar de hacer el amor en el momento
 
-
 F#m4/7      Em7    *F#m4/7    *Em
     Fui en busca de un abrigo
 
@@ -53,7 +48,6 @@ ESTRIBILLO:
 Y ahi lo vi, un misil en mi placard, en mi placard
      A(add9)                 G6           Bm      6ta al aire
 Un modelo para armar, pero nunca para desarmar
-
 
 SOLO:
 
@@ -71,13 +65,11 @@ D|-x-x--x---x--x-x--x--9x9-9-9x9-9x
 A|-7-9--12v-9--7-9--12-9x9-9-9x9-9x
 E|---------------------7x7-7-7x7-7x 6ta al aire
 
-
 F#m4/7    Em7       *F#m4/7   *Em
     Te mire tristemente
 
 F#m4/7          Em7         *F#m4/7   *Em
    No hay mas tiempo que perder
-
 
 ESTRIBILLO
 
@@ -94,7 +86,6 @@ tambien
      F#m4/7     Esus4(13)  Asus4(13)
 o creias que estabas lejos
 
-
 Outro
 
 Dsus9     **Em7 (x7)
@@ -102,11 +93,3 @@ Dsus9     **Em7 (x7)
 Dsus9     **Em7
 
 Am [x2]   6ta al aire
-
-
-ACÁ LES MANDO UN A TRANSCRIPCIÓN MUCHO MÁS CORREGIDA. ESPERO QUE
-LES GUSTE. CUALQUIER COSA LES DEJO UN VIDEO DEL QUE VAN A PODER
-OBSERVAR BIEN LOS ARREGLOS, SOBRE TODO LOS CORTES Y EL SOLO:
-
-http://www.youtube.com/watch?v=2qXWn_GO
-h4U&playnext=1&list=PLB35F5D772FF8DF4E

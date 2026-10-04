@@ -3,13 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/ella-uso-mi-cabeza-como-un-revolver
 ID fuente: 35512
 Capturado: 2026-09-24T17:54:15.143278+00:00
-SHA-256: 8672a9a3cb718dd12ca70183a0925e4435f85f90dc57a820aa823396c6aa8ae9
-
-Ella Uso Mi Cabeza Como Un Revolver. unplugged
+SHA-256: 3a6174b85cb5f07262c3c1a586c1e1e3ae1b79b90b74def70cea05b2fced0c1d
 
 intro:
-
-
 
 -------------------------------
 
@@ -23,11 +19,7 @@ intro:
 
 --6666--5555--4444--2222-------
 
-
-
 solo de el principio:
-
-
 
 ------------------------------------------
 
@@ -41,8 +33,6 @@ solo de el principio:
 
 --------------------------------------1---
 
-
-
 --------------------------
 
 --------------------------
@@ -55,11 +45,7 @@ solo de el principio:
 
 --33--666--555--4444------
 
-
-
 En el verso va así:
-
-
 
 ------------------------------------------
 
@@ -73,13 +59,7 @@ En el verso va así:
 
 ------------------------------------------
 
-
-
 antes del ultimo solo va asi:
-
-
-
-
 
 ------------------------I--------------------------
 
@@ -92,11 +72,3 @@ antes del ultimo solo va asi:
 -22--555--444--333~3----I--22--555~5--444~4--333~3-
 
 -33--666--555--444~4----I--33--666~6--555~5--444~4-
-
-
-
-
-
-El ultimo solo no le he sacado
-
-si alguien lo saca publiquenlo en atame.

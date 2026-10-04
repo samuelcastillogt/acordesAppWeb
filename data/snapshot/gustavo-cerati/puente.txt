@@ -3,13 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/puente
 ID fuente: 18069
 Capturado: 2026-09-24T17:59:50.536621+00:00
-SHA-256: bd86e4ca1704e9b98fa772cc8e6ab730a4d4f70f7ec53da929a7dce41aa037bb
-
-¡SOLO ACORDES, NO PUNTEO!
-Explorando por la página vi que nadie, NADIE tenía bien
-escrito los acordes... les puede servir tocar esta canción
- con estos acordes sobre el mp3 o video del tema: DISFRÚTENLO.
-_ACORDES CORREGIDOS Y SACADOS DE OÍDO:
+SHA-256: 57df60ab2e0808ea9a9016cfb7ce035beb7c51b2f8d540f9192da12fd2f79aac
 
 Intro(x4): FA DOm RE#
 
@@ -49,18 +43,12 @@ Adorable puente
 DO       REm     LA#    [FA   DOm  RE#  FA  REm  DOm  RE#] X4
 se ha creado entre los dos.
 
-
-
-
-
 SOLm        RE#    REm       REm/SI
 Cruza el amor      yo cruzaré los dedos
 [  FA  LA# SOL   LA#  FA  LA#  SOL  LA#] x4
 [Y gracias por venir]
 
 FA  LA# SOL   LA# X7 SOL
-
-
 
 DO  REm  LA#
 
@@ -76,8 +64,6 @@ Usa  el  amor,
 LA#/SOL   DO  LA#      LA#/LA  LA#/SOL   DO  DOm7  [DOm7/RE#](3 tiempos) FA
 usa el amor como un puente.
 
-
----------------------------------------------------------------------------
 Acordes
 FA     DOm    DOm7   DOm7/RE#     DO      RE#     REm     LA#     LA#/LA
 1       3      3        3          3       6       5       1       X
@@ -94,5 +80,3 @@ LA#/SOL   SOL       SOLm
  3         5         5
  X         5         5
  3         3         3
-
-        _SALUDOS.

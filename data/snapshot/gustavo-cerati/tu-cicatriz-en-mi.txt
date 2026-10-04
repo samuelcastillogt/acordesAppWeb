@@ -3,18 +3,13 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/tu-cicatriz-en-mi
 ID fuente: 18086
 Capturado: 2026-09-24T18:00:29.472768+00:00
-SHA-256: 0f78d58715c66d31be1767a6e16e3ed64009d70764e1f99d16d5aba55b1fc17d
+SHA-256: f45d728ab59a315a56e7cd5a729b6a83c9036b0e099b96b10f9341ffde6ab032
 
 Este tema tiene en su mayor parte un arpegio utilizado
 pràcticamente en forma de riff, y apenas ´rasguea´, o
 como dirìa el propio Gustavo ´charanguea´ en una par de
 partes, siendo los ùnicos acordes realmente explìcitos
 un Si mayor, y juega con lo que es un Re sostenido novena.
-Pero bueno, esto es lo que pude sacar yo del tema, y
-saquè este y no otro, porque es quizàs el que màs me pegò
-de entrada, pero obvio que el disco està bueno en serio.
-Gente, los dejo con un temazo de Siempre es hoy.
-Gracias Totales.
 
 El slide (/) de la tercer cuerda del traste 6 al 3 es
 un arrastre muy sutil, pero en lo posible traten de hacerlo
@@ -32,7 +27,6 @@ E ----------------------      --2--------4------
 
 No juràbamos por nada màs, que arrancarnos la maleza de una vez
 Me quedè boqueando como un pez, nadie nos borrò tu cicatriz en mì
-
 
 ------------------------7------
 ------------------------7------
@@ -87,17 +81,9 @@ E ----------------------      --2--------4------
 
 y asì hasta el fade out...
 
-
  \______/      x_____/
   ||||||         ||||||
  7000000        6|00000
   |||0||         ||||||
   |00|||         ||0|||
     SI           RE# 7/9
-
-Bueno, espero que les haya gustado, y ojalà disfruten el tocarlo tanto o
-màs que yo.
-Para, crìticas, consejos, puteadas, o mensajes que estimulen mi ego, me
-pueden escribir a [email protected].
-Un saludo desde Rosario, Argentina, aguante Soda, aguante Cerati y aguante
-Central.

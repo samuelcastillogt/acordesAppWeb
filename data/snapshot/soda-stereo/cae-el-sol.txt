@@ -3,12 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/cae-el-sol
 ID fuente: 35491
 Capturado: 2026-09-24T17:53:16.594829+00:00
-SHA-256: 4152642febfd83d309aadb937fd66ba84f22cebbd24e4a6e240094d5fe045905
-
-Aqui esta una mas de las buenas
-rolas de uno de los mejores grupos
-de todos los tiempos....SODA STEREO.....
-
+SHA-256: 7483fa4cdb45392da1df08a73c8062ab9fabc299573c3be77067b74d34d3eb05
 
 Intro: A  D  Em  (x4)
 
@@ -52,7 +47,6 @@ sale el sol
 C                  D    Em
 y no te puedo encontrar
 
-
 interlude....G Em Em*Em**Em
 
 Em   *Em    **Em
@@ -76,7 +70,6 @@ buscando en el mar
         Em
 Cae el sol......
 
-
 A
 Un extraño destino
 D      G
@@ -94,9 +87,5 @@ por calles vacias
 D      G
 buenos aires, buenos aires....humedad
 
-
 despues de esto solo se repite el coro
 con un disminuyendo el volumen.
-y eso es todo, espero que les guste.
-
-*Dedicada a... M.S.B

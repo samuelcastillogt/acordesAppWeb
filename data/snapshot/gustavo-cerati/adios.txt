@@ -3,12 +3,11 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/adios
 ID fuente: 18011
 Capturado: 2026-09-24T17:57:20.725293+00:00
-SHA-256: 1c70cd14ea318a2febfae2763e7396f26066e0e53f17a58d569d26d95581798f
+SHA-256: 94c7f715764d3617aeb4d2bff86ee3e9c73e09da4a3a0d904780a8ac5957e175
 
 Intro:
 
 Em - A - D - G - A G     (X2)
-
 
 Em     A        D         G    A G
  Suspiraban lo mismo los dos,
@@ -18,7 +17,6 @@ Em         A         D           G    A G
  No te confundas no sirve el rencor,
 Em      A          D         G    A G
  son espasmos despues del adios.
-
 
 Bm         A              G               D
  Pones canciones tristes para sentirte mejor.
@@ -30,7 +28,6 @@ G
  vendra un nuevo amanecer
 D G  A G
 uuuh.
-
 
 Em           A        D     G    A G
  Tal vez colmaban la necesidad,
@@ -66,6 +63,4 @@ uuuh
 
  A G (x10)
 
-==========================================
-[email protected]
 Afinacion 440 Hz

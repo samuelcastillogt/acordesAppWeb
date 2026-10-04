@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/el-mareo
 ID fuente: 18041
 Capturado: 2026-09-24T17:58:33.134707+00:00
-SHA-256: 889a23d8f3463878ae9cf0aeebf9c455c105505a2e09bfce6f5e4cc2e54b980c
+SHA-256: 61b3515e64dae24628c2d11c95a1e01ed0a49059bf0aa178293849ee77505aa6
 
 Intro:
 
@@ -29,7 +29,6 @@ Se apaga el deseo, ya no me entrenvero
 G                            Em   A
 Y hablar eso que se me iba mejor
 
-
 Coro:
 
 Bm                     F#m
@@ -38,13 +37,11 @@ Con los ojos no te veo, se que se me viene el mareo
 G                                 Em        A
 y es entonces cuando quiero salir a caminar
 
-
 Bm                     F#m
 Con los ojos no te veo, se que seme viene el mareo
 
 G                                 Em         A
 y es entonces cuando quiero salir a caminar
-
 
 Verso:
 
@@ -54,10 +51,8 @@ El agua me ciega, hay vidrio en la arena
 G                          Em     A
 Ya no me da pena dejar un adios
 
-
 Asi son las cosas, amargas borrosas
 Son fotos veladas de un tiempo mejor
-
 
 Coro:
 
@@ -67,9 +62,7 @@ y es entonces cuando quiero salir a caminar
 Con los ojos no te veo, se que seme viene el mareo
 y es entonces cuando quiero salir a caminar
 
-
 Bm Am G Em A F#m*  (x2)
-
 
 Verso con intro como acompañante:
 
@@ -87,9 +80,7 @@ Ya no me da pena dejarte un adios
 Asi son las cosas, amargas borrosas
 Son fotos veladas de un tiempo mejor
 
-
          (coro)
-
 
 Bm F#m G Em  A   (x2)
 

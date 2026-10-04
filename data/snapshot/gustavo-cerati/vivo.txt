@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/vivo
 ID fuente: 18091
 Capturado: 2026-09-24T18:00:48.481245+00:00
-SHA-256: 4665b8939f372b1cb7339151bf498edbc7186ce0731e9636e9a89a437685911e
+SHA-256: 24c33bcff0f4832f45081322c17a39dbccf1f585db811299715e757a50ffeff6
 
 Acordes:
   Em   Arr.*       D     A   C   G   Cmaj7
@@ -48,7 +48,6 @@ El fin del mar
     A            G       A
 sentirse igual vivo
 
-
 riff:
 
 4-5~~4~~3~~2~~-------5~~4~~3~~2~~---
@@ -60,11 +59,8 @@ Precoro(con figura de intro)
 Coro
 Acaba con acordes de versos e Intro.
 
-
 Como bonus les daré 3 arreglos que hace con G y A en una par
 de secciones hacia el final del tema:
 A: x02230
 G: 320043
 G: 320403
-Jejeje... Esos arreglos fíjense como suenan y vean dónde
-encajarlos.

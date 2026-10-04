@@ -3,12 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/hablando-de-vos
 ID fuente: 240292
 Capturado: 2026-09-24T17:58:48.795656+00:00
-SHA-256: 662bff5186e6a788988b60af76cd056b42016790e3bc136ce9f84b1628dd9662
-
-Hola, esta es la primera canción que comparto con ustedes.
-Este tema fue revelado en el documental BIOS de Gustavo Cerati,
-el cual fue dedicado a una de sus parejas.
-Ojala les guste...
+SHA-256: 12796414078dbbdc10ec9b7f1914e04b0756be6f028d69bae12b5676e8beb501
 
 C7sus4
 1] 3
@@ -31,9 +26,7 @@ F            C7sus4
  A#          C7sus4
  Solo estoy, solo estoy hablando de vos
 
-
 intro
-
 
  A#                         F    C7sus4
  Solo estoy hablando de vos
@@ -48,9 +41,7 @@ F                  C7sus4            F
       Gm          Cm7     Dm
  Me vienen tantas ganas de amarte
 
-
  A#   C7sus4
-
 
                  F   C7sus4
  Hablando de vos

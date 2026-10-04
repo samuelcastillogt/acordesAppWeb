@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/altar
 ID fuente: 18016
 Capturado: 2026-09-24T17:57:32.008828+00:00
-SHA-256: 080e2d4d6b41d2cdf7102c1c793e35b8a469dbc0c53f0b08c6b4a60b38a4c3aa
+SHA-256: 77108f7d53777e5c9aad479a76763902ee151447440fcb5a7759a85fecc9d314
 
 Los muchos acordes que incluye la canción:
   C9  Bb  C  Bb*  D#  G#  Gm  Dm  F
@@ -21,8 +21,6 @@ Los muchos acordes que incluye la canción:
 4--7------6----5---5--7
 5--5------4----3---5--7
 6--x------x----x---3--5
-
-
 
 Intro: C9, Bb(muchas veces)
 C      Bb*
@@ -45,7 +43,6 @@ Cm                   G       Am, G, Am, G, Am, G, Am
 (entra trompeta):
 (C9, Bb)x8
 (C, Bb*, D#, G#, Gm, F)
-
 
 Dsus2           C#m
      Gozar, perderse mas
@@ -70,5 +67,3 @@ Am hasta donde dice un ´fuerte resplandor´
 despues empiezacon  C y Bb* cuando dice ´claro que si..´
 
 Acaba con C9, Bb varias veces
-
-Cualquier duda o sugerencia, envienme un mail...

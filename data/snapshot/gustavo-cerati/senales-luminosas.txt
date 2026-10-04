@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/senales-luminosas
 ID fuente: 18076
 Capturado: 2026-09-24T18:00:07.107840+00:00
-SHA-256: c5039b6b7793b1d709171989ed74257fb22f7dc6f4748d227de2954aa1f27355
-
- ESTA ROLA ESTA BIEN PSICODÉLICA..BUENO ESPERO LES GUSTE..BAIIIIIIIIIIIIIIIIIIIII
+SHA-256: 4423e4284674af2f02f5b8e11841ed429f5052ee3a36b97beb71caecf2e32420
 
                       INTRODUCCIÓN ( 2 VECES).
 E----------------------------------------------------------------------------------------------------
@@ -42,7 +40,6 @@ ME CONOCES COMO NUNCA ANTES AME
 
 REQUINTO     ( MI  Y  RE  )  4 VECES  (acordes  con  distorsión).
 
-
 MIm               DSUS2/C           MIm          DSUS2/C
 TANTAS SEMEJANZAS TE QUEDAS HINOTIZADA
 MIm               DSUS2/C         MIm          DSUS2/C
@@ -70,14 +67,11 @@ ES PORQUE QUIERO ATRAPAR TU DESEO DE JUGAR
 MIm                       DSUS2/C
 EN CADA GUIÑO CADA GESTO
 
-
-
 SI             SI7
 AAHH AAHH AAHH
 
 SI                    SI7
 SON SEÑALEZ LUMINOSAS       (2 VECES)
-
 
 SE REPITEN LOS COROS  2 VECES         SOLMAJ7
 

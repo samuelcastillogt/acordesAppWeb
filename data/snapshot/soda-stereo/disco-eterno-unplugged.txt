@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/disco-eterno-unplugged
 ID fuente: 409733
 Capturado: 2026-09-24T17:53:53.851580+00:00
-SHA-256: cb2f7d265b129705b4f201cc2b12f870c91afa0ba07dbb03815ebeb312b56069
+SHA-256: 34c36f8974cc04a85e1cd86d118eb4f6285f181ab4924a15b37fc3c96c9741a6
 
  Intro: (Delay)
 
@@ -44,10 +44,6 @@ Riff:
 5)--3-3h5------5-3-0------3-3h5-----------5----| X2
 6)---------------------------------------------|
 
-
-
-
-
       Dsus2  Fsus2  Csus2  Gsus2    E5
 e)------x------x------x------x------x--|
 B)------x------x------x------x------x--|
@@ -55,8 +51,6 @@ G)------9------12-----7------x------4--|
 D)------7------10-----5------7------2--|
 A)------5------8------3------5------x--|
 E)------x------x------x------3------x--|
-
-
 
 Dsus2 Fsus2 Csus2 Gsus2
 Me salí
@@ -71,7 +65,6 @@ poner un disco eterno
  Dsus2        Fsus2 Csus2 Gsus2
 y moverme tornasol
 
-
 E5        Csus2
 Un espíritu
    E5
@@ -82,7 +75,6 @@ E5            Csus2
 quiero descubrir
       E5             Csus2   ( RIFF )
 por que este deseo crece...
-
 
 Entre los dos
 
@@ -96,7 +88,6 @@ Abrir el sueño Stereo
 Dsus2       Fsus2  Csus2 Gsus2
 crear la dimensión
 
-
 E5         Csus2
 Sin disimular
     E5
@@ -107,7 +98,6 @@ E5          Csus2
 alta fidelidad
      E5             Csus2    ( RIFF )
 cuando este deseo crece...
-
 
 E5        Csus2
 Un espíritu

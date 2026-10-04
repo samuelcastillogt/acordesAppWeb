@@ -3,13 +3,12 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/naturaleza-muerta
 ID fuente: 18060
 Capturado: 2026-09-24T17:59:28.261837+00:00
-SHA-256: 6b7a7d3e408aeebdfb5818d0762da4be8cb5cbc7ace4647f3e86cbecdf32f99a
+SHA-256: 8fd15bc196aa23a58546e431f3353da814fd885ea3aa7f8449a1638cab927990
 
 Intro:
 Am            F
 Ohh, Ohh, Ohh       (x3)
 D/F#  D  Am
-
 
             F           Am
 Esta esfera no gira más
@@ -17,7 +16,6 @@ Esta esfera no gira más
 mira a otro planeta y se vá
                F             D/F#  D  C
 hacia el cielo sin decírmelo.
-
 
     Em        C
 Deberás subir
@@ -28,7 +26,6 @@ ya la veo aquí
 A#          G      Am
 nunca se perdió.
 
-
                F            Am
 Cualquier otro día es mejor
               F         Am
@@ -36,14 +33,12 @@ todo el mundo se olvidó
            F               D/F#  D  Am
 de la golondrina que falló.
 
-
             F          Am
 Un arcoiris artificial
              F           Am
 luz de naturaleza muerta
                  F        D/F#    D  C
 ella está muy cerca, creo yo.
-
 
     Em         C
 Deberás subir
@@ -54,7 +49,6 @@ ya la veo aquí
 A#          G    C
 nunca se perdió.
 
-
             Em         C
 No habrá un buen final
                   Em        C
@@ -64,7 +58,6 @@ volverán igual
 A#        D      Am
 eso no cambió.
 
-
             F           Am
 Esta esfera no gira más
             F               Am
@@ -72,10 +65,8 @@ y ya dieron vuelta al mundo
          F                D/F# D    Am  F
 solo les queda este avión,     uhhh yo
 
-
 Am  F         (x2)
 Am  D  C
-
 
     Em        C
 Deberás subir
@@ -86,12 +77,10 @@ volverán aquí
 A#        G
 eso no cambió.
 
-
 A#          G
 El impulso, uhh
 A#          D
 nunca se perdió.
-
 
 Am             F
 Ohh, Ohh, Ohh       (repite)

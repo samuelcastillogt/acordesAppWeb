@@ -3,12 +3,8 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/sudestada
 ID fuente: 18078
 Capturado: 2026-09-24T18:00:10.927150+00:00
-SHA-256: e02c316bae858f64d2e3ce1ce4268e1fa96e50cb27e20c3281e33c6bc8f1673e
+SHA-256: 8c9acde91c67f37dd8c803eedb66bee874232c6500e1260a7a2f5b97f7380a75
 
------------------------------------------------------------------
-Separé la canción en dos versos, un coro, una parte instrumental,
-la intro y el final.
------------------------------------------------------------------
 INTRO: G (toda la intro)
 
 VERSO 1:
@@ -55,10 +51,3 @@ Am7 - G (x4)
 CORO (x4)
 
 FINAL: G (hasta que termina)
-
------------------------------------------------------------------
-Un gracias enorme a Cerati por sacar un nuevo disco, que si bien
-para mi no está a la altura de Bocanada, me puede porque lleva su
-firma en el estilo de las melodías, la eficaz simpleza y las
-letras (a pesar de que éstas son el aspecto más flaco del disco,
-si se las compara con las de Bocanada...)

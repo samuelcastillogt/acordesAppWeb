@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/cabeza-de-medusa
 ID fuente: 18028
 Capturado: 2026-09-24T17:58:02.204739+00:00
-SHA-256: 162a7d085d91d4892fb2a0c4bda5548e7e4716ec9fd131bb03c4100bc18aa7cf
+SHA-256: 431b93557ab82ffc60af25813c713cdbca099e63818ab763a97253b2786d1fbd
 
 INTRO: (G F9 ) X 8 Em A D9 Fmaj7
 
@@ -47,7 +47,6 @@ cuando uno no ama compra
 
 Asus2
 ella es la hermana de la luna
-
 
 ella es tan viciosa para embriagar
 

@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/telaranas
 ID fuente: 35562
 Capturado: 2026-09-24T17:56:45.876209+00:00
-SHA-256: b74903e337e173368aab36fd9555b00809a3dc4665d5fd7e2b9600f8c9e76a65
+SHA-256: ec0d16cc839c4be094664c80e7a6818f069e1eabb5e9d7325e061752903f85bc
 
 INTRO:
 e------12--10--8---7--7--8--7
@@ -69,5 +69,3 @@ INTRO:
  Imágenes-Retro
  Reproduciéndose sin fin
  Dejándome inmovil entre ...
-
-sta s mi 1ª cncion ... spero les gust

@@ -3,9 +3,9 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/al-fin-sucede
 ID fuente: 18014
 Capturado: 2026-09-24T17:57:27.934558+00:00
-SHA-256: 4fff6b25aea633a03f068242b70a3a2aef5b790ebc3715c04747f692889f32d9
+SHA-256: b5c0069a3ef4137dbad907a8971302859255ee2eaac9a0ec5d06a199cd544a21
 
-La intro es asi:
+Intro
 
 e||-----3-3-3-3-
 B||-----1-1-1-0-
@@ -18,7 +18,6 @@ Gm               C                      Gm        C
  Estoy un poco harto de entrar en tus juegos de mente
 Gm           C                   Bm             Bb              F
  otra nube gris se aproxima y yo sé, que tanto le temes que al fin sucede
-
 
  G
  Te es más fácil no creer en nada ni en nadie
@@ -49,7 +48,6 @@ d||---------------------3/5---5/3---3--------------------------0-3-0------
 a||-3-----3-----3-----------------5---5---3-----------------1-3-----------
 E||-----------------------------------------6--5--3-1---1-3---------------
 
-
 e||-------------3-3-----3-3-------6---6---8b9-----------------------------
 b||-------------3-3-----3-3-6-6/8---8---8-----12-11-10-9-8-7-6-5-4-3-1-0--
 g||-0-0-0-0-5b7-----5b7---------------------------------------------------
@@ -58,7 +56,6 @@ a||-----------------------------------------------------------------------
 E||-----------------------------------------------------------------------
 
 y ahí empieza con la intro de nuevo
-
 
 Bm     Bb                F         G(intro)
  Tanto lo deseas que al fin sucede,

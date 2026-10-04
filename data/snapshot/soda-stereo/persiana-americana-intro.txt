@@ -3,9 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/persiana-americana-intro
 ID fuente: 391872
 Capturado: 2026-09-24T17:55:49.382436+00:00
-SHA-256: 28cc0ddd10b180bb21471ce8803ca3f445837a795b1768f29f548df5e1351922
+SHA-256: 37ae9ea9fb890135dbf7775a7b9ad7705c3ac4985974d3f073e8268cd5a0f0b0
 
-este es el solo principal de la cancion
+Solo
 
 -----------3---2---------------------3---2-------------------
 1----3--------------3-1---1-----3------------3---0------12v--
@@ -15,6 +15,3 @@ este es el solo principal de la cancion
 -------------------------------------------------------------
 
 como 2 veces la misma repetición
-ESPERO QUE LES GUSTE
-OK
-EL RICKY....Escarcega

@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/convoy
 ID fuente: 18033
 Capturado: 2026-09-24T17:58:17.016541+00:00
-SHA-256: db89d4117c1ce4aa2b5f654f7b4e32ccc4a53111f88034bc28001723b427b09f
+SHA-256: 628a318eb99c9da036ac4bb5635329a151acbf6a2fd96aa34ac472e2b9416a54
 
 Intro:
 G  Dm  F  C  (x2)
@@ -18,7 +18,6 @@ nos miramos bien
                  C             G
 buscando nuestro punto de fuga.
 
-
                  Am             F
 Con tantas ganas de explorarnos
              C               G
@@ -27,7 +26,6 @@ todo salió como lo planeamos
 se soltó el vagón
                C              A#
 y volamos al espacio exterior.
-
 
      Dm          A#
 Proxima estación
@@ -38,7 +36,6 @@ convoy espacial
               Dm          G   C  G
 que tan lejos nos llevará.
 
-
            Dm              F
 Oimos la galaxia explotar
              C              G
@@ -47,7 +44,6 @@ y cabalgamos otros planetas
 dormimos en nubes de gas
                C              G
 en playas de relojes de arena.
-
 
                Am            F
 En cada noche una nueva luna
@@ -58,7 +54,6 @@ cuarpos a contraluz
                C             F
 guiados por la Cruz del Sur.
 
-
           Bm         F
 dentro de un volcán
              Bm           G
@@ -68,7 +63,6 @@ nadie supo que nos pasó
                     C        A#
 y ahora somos polvo cósmico.
 
-
      Dm           A#
 Próxima estación
            Dm          G  A#
@@ -77,6 +71,5 @@ mucho mas allá del sol
 convoy espacial
 ~             Dm          G
 que tan lejos nos llevará.
-
 
 C  D  G

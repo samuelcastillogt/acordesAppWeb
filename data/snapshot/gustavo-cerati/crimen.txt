@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/crimen
 ID fuente: 18036
 Capturado: 2026-09-24T17:58:23.554555+00:00
-SHA-256: 2591f599ef655a4c29a6163f1dd6825d2d7296fa96455b7d439b770ff5b8c428
-
-Crimen - Gustavo Cerati - Ahi vamos - 2006
+SHA-256: 438245d75c7b38dc8153a538da2fc1e497ae8ad85e7f0dbe621c5ffde5ad9d3f
 
 E
    C/G             D

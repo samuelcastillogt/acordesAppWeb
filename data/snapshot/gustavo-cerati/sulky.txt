@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/sulky
 ID fuente: 18079
 Capturado: 2026-09-24T18:00:12.627685+00:00
-SHA-256: 84dc526940253d4f2b7f078190f5e42c7fe1cde46bbe192c5bdc9bf141fbe209
+SHA-256: 95e268186adb21bc1edad9a56855e04862e85f46fdd5432ab60ad9beff26acbc
 
 Suena mejor si hacen los acordes asi:
 
@@ -62,6 +62,3 @@ B
 la cura para todo mal
 
 Sin ganas de volver...(empieza figura otra vez)
-
-
-Cualquier duda o sugerencia escribanme un mail...

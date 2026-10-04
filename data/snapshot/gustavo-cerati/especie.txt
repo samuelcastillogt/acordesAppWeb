@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/especie
 ID fuente: 18043
 Capturado: 2026-09-24T17:58:43.014079+00:00
-SHA-256: ae1c2294d509d3f7dc5a2b63fbb38adc5d691acf02cd972bf220ae2eb5742cf0
+SHA-256: c0cea5b0fba6ed62ed3f0819086f5eea941bdddbb0839ee228e339213d209280
 
 D              A
  Sin querer la vi llegar
@@ -39,8 +39,3 @@ Bbsus4   Cm            Eb
  y quiero embellecerte más
     Asus4
  ah, ah.
-
-
-
-Qué agregar del mejor músico de la argentina,
-si con cada nota su música habla por él.

@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/en-camino
 ID fuente: 35514
 Capturado: 2026-09-24T17:54:19.893029+00:00
-SHA-256: 24993bd137706e58f5a55eb3e855e9d548500f7545f34950a739c79d22593de8
+SHA-256: 31a9a757d98ce12c962bff5a49a7e3739bf1f9eb916c88f6b49078fd0cc3c279
 
 INTRO [ D E ] (4)  [ A G ] (4)
       [ D E ] (4)
@@ -32,7 +32,6 @@ ni anuncios de ayer
      G        A           G             [ D E ] (4)
 no puedo esperarte hasta fin de siglo
 
-
 INTER [ A ]
 
   D               E      D        E
@@ -60,9 +59,3 @@ Por favor no leas el cartel
 casi sin querer
    G          A          G          [ D E ] (4)  A G D Em D G F#m G
 estamos en camino hasta fin de siglo
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

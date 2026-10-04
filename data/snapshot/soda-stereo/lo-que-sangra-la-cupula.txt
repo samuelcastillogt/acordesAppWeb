@@ -3,11 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/lo-que-sangra-la-cupula
 ID fuente: 273870
 Capturado: 2026-09-24T17:55:06.592049+00:00
-SHA-256: 835aad4a74adef0172298efcd6b23e7536c0bf5329fa8420b51c65961edd5760
-
-Letra y acordes de Lo que sangra (La cupula)
-
-(Letra y música de Gustavo Cerati)
+SHA-256: 96573fb24d2a270a21c41857b1e65126733bc8bf9af028715e12e49ddb2983d6
 
 El REm haganlo (xx0765)
 El REm(b5) es (xx0764)
@@ -104,7 +100,3 @@ Hay tanto fraude a nuestro alrededor
     Es amor lo que sangra
  RE DO        FA         DO SOL/SI
     sobre el techo en la cúpula
-
-
-
--

@@ -3,11 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/tratame-suavemente
 ID fuente: 35567
 Capturado: 2026-09-24T17:57:01.260495+00:00
-SHA-256: 6378e9ee9b35578daaacd141f9af1ace7789abcbfcd1c3598651945ddb26018c
+SHA-256: b8d7d539fac69f44ab61b1d154495cd0aacc142e12fdd918372aa12798d0037d
 
-Letra y acordes de Tratame suavemente
-
-(Letra y música de Daniel Melero)
 Intro
 SIm  DO  SIm  DO   SIm  DO  SIm  DO
 

@@ -3,10 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/1990
 ID fuente: 35486
 Capturado: 2026-09-24T17:53:03.651335+00:00
-SHA-256: 9a2e462f14c9a02d8eace2ba9c2fd171770016885ddc095da83966e64131d30c
-
-Aqui va una correccion del tema, ya que la letra estaba
-totalmente erronea. Ahi les va.
+SHA-256: 4630bc30b5ca39a4276f21fa6173d759971a8d5d0765688aa7806d70de2f3952
 
 Intro: Fm Em7 F-G7 (x2)
 

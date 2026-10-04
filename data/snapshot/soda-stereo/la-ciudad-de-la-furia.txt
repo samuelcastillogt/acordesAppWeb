@@ -3,14 +3,13 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/la-ciudad-de-la-furia
 ID fuente: 35528
 Capturado: 2026-09-24T17:54:56.345482+00:00
-SHA-256: f25325bb4e84041e5f295770ef646c4868a6aeabfa82d0f5e867bc5b0d156a46
+SHA-256: 03e8757e80fca435013c5de1d0dd88055e0154d82e66b348bd26bb48e7c3180a
 
 C9-G/B
 
 Intro la hace el teclado
 
 Arpegio: (Em7 G A)X2 (G G A)X2   (Em7 G A)X2 (G G A)X2
-
 
      Em7      G           A             Em7 G A
 Me verás volar por la ciudad de la furia
@@ -25,9 +24,6 @@ en la ciudad de la furia.
 
 Arpegio
 
-
-
-
      Em7      G           A             Em7 G A
 Me verás caer, como un ave de presa
 G            G        A           G            G        A
@@ -36,7 +32,6 @@ me verás caer, sobre terrazas desiertas
 te desnudaré, por las calles azules
 G            G           A         G            G        A
 me refugiaré antes que todos despierten.
-
 
 Coro:
 Bm      D      G     Bm      D
@@ -52,8 +47,6 @@ C9              G/B             A
 
 Intro con teclado
 
-
-
 Me verás volar por la ciudad de la furia
 donde nadie sabe de mí, y yo soy parte de todos
 con la luz del sol se derriten mis alas
@@ -62,12 +55,10 @@ con la ciudad de la furia.
 
 Arpegio
 
-
 Me verás caer, como una flecha salvaje
 me verás caer, entre vuelos fugaces
 Buenos Aires se ve,    tan susceptible
 es el destino de furia es, lo que en sus caras persiste.
-
 
 Coro:
 Bm      D      G     Bm      D
@@ -81,9 +72,7 @@ entre LA niebla,     entre LA niebla
 C9              G/B             A
  un hombre alado   prefiere la noche.
 
-
 Teclado y Después solo de guitara
-
 
      Em7        G A
 Me veras volver

@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/observandonos
 ID fuente: 35542
 Capturado: 2026-09-24T17:55:37.945310+00:00
-SHA-256: 967e0e291c6b79a994ca48ad602be40a5c18dd426006bf17c993c6cbb23626c9
+SHA-256: 18822a006e56de3cb7857e357966cf0186f901922b54ec2cc88568bf04552a1f
 
 INTRO: E
 
@@ -37,5 +37,3 @@ CUIDADO CON LA COLISION
 1.)FUERA..
 
 2)SI, A..
-
-================================================

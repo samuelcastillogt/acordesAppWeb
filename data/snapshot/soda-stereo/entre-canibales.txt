@@ -3,12 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/entre-canibales
 ID fuente: 35518
 Capturado: 2026-09-24T17:54:28.944997+00:00
-SHA-256: dc7eceda8d0c1cd9d1c9ded4fb7b49042a83df391689245f2cd99daab849d2f5
+SHA-256: f909be8aad15fbda11406fa0f40257eda12f78b5cbc9e9634933a7ca2aad8e73
 
 Version "Comfort y musica para volar"
-(Recomiendo conocer los tiempos de la cancion)
-Realizado por Nicolas Martin Leoni ([email protected])
-____________________________________________________________________
 Punteo Principal*
 |--------------------------------------------
 |--------------------------------------------

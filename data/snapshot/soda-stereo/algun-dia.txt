@@ -3,12 +3,9 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/algun-dia
 ID fuente: 35488
 Capturado: 2026-09-24T17:53:08.522799+00:00
-SHA-256: fefce589fd105a511ef673db060b0d53e7a97142ab01d3fec31ee86c82f5ed6f
-
-Algún día (Some day one day)
+SHA-256: 666f81e856b31ca2d3d7045597628e978f97edfa89b42b652b61bef6f29c6b80
 
 Intro: A Asus4 Asus4 A (x4)
-
 
    A           Asus4                      A
 La música aturdia y no escuchabas mi canción
@@ -33,11 +30,9 @@ pudiste ser mi reina y cansada de sufrir
    A     G      D           A Asus4 Asus4 A   (x2)
 si piensas volver algún día.
 
-
 Em    G       Bm             D     C#m E
 Ninguna estrella nueva te guiará por mi
    A     G      D
 si piensas volver...
-
 
 * Arreglos sobre D

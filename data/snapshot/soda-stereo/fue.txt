@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/fue
 ID fuente: 35522
 Capturado: 2026-09-24T17:54:39.396380+00:00
-SHA-256: eb00496143e16f60254276cb4ceea44a1405d259351303c2c9338dbbbba45d07
+SHA-256: 27e9e1ee0522d4b82c1d636b3c9857655bb6cfa818f465e85d9f166a65125bfa
 
 C#m    B5           F#m  A
 He llegado hasta el fin
@@ -50,9 +50,3 @@ Fue......   y fue......  y fue...
 y fue......
    E F# C B5    E  E2  E3 E
 fue...
-
-==========================================================
-Copiado del "Cuarto de Musica" de Ana Santos y Luis Torres
-(http://homepages.mty.itesm.mx/~al178675/tunes/)
-Transcripcion de Luis Torres
-([email protected])

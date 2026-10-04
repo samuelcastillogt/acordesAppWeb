@@ -17,7 +17,7 @@
       "external_id": "35486",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:03.651335+00:00",
-      "content_hash": "9a2e462f14c9a02d8eace2ba9c2fd171770016885ddc095da83966e64131d30c",
+      "content_hash": "4630bc30b5ca39a4276f21fa6173d759971a8d5d0765688aa7806d70de2f3952",
       "file": "soda-stereo/1990.txt"
     },
     {
@@ -28,7 +28,7 @@
       "external_id": "35487",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:06.624183+00:00",
-      "content_hash": "618aba3b61dc3e52eb2a63d7ebe2ddf8e4bc95c1fcdb6a689dba9d0bede4b74e",
+      "content_hash": "67e9d37ae46bac16ccc17aa7d726fb5c9b97f6fa6289262b54679ec4a3b5e863",
       "file": "soda-stereo/afrodisiacos.txt"
     },
     {
@@ -39,7 +39,7 @@
       "external_id": "35488",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:08.522799+00:00",
-      "content_hash": "fefce589fd105a511ef673db060b0d53e7a97142ab01d3fec31ee86c82f5ed6f",
+      "content_hash": "666f81e856b31ca2d3d7045597628e978f97edfa89b42b652b61bef6f29c6b80",
       "file": "soda-stereo/algun-dia.txt"
     },
     {
@@ -50,7 +50,7 @@
       "external_id": "35489",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:10.576361+00:00",
-      "content_hash": "469d070d6dd21c81c7f28ed4064fd30c4aa12452068da26a51d93becb274acc4",
+      "content_hash": "458b51e25f87af86e1c847417b806494eae8ddad9bac513b1e0ec73882bf9321",
       "file": "soda-stereo/ameba.txt"
     },
     {
@@ -61,7 +61,7 @@
       "external_id": "35490",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:13.025171+00:00",
-      "content_hash": "f7e7e46cfd140208fa474050c79cfd49ba788a2e494c54738e302657d95bf5ed",
+      "content_hash": "a3f339ebd477702f75595e659e84c3e55c1213d5877ea7c02d473f7fae15998a",
       "file": "soda-stereo/angel-electrico.txt"
     },
     {
@@ -72,7 +72,7 @@
       "external_id": "35491",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:16.594829+00:00",
-      "content_hash": "4152642febfd83d309aadb937fd66ba84f22cebbd24e4a6e240094d5fe045905",
+      "content_hash": "7483fa4cdb45392da1df08a73c8062ab9fabc299573c3be77067b74d34d3eb05",
       "file": "soda-stereo/cae-el-sol.txt"
     },
     {
@@ -83,7 +83,7 @@
       "external_id": "35492",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:17.225948+00:00",
-      "content_hash": "eaec26da067bf044ebca55d142890d8859d6d2466f8d13baf3fa8809e5a147aa",
+      "content_hash": "794de52ae8a75b8dd46f72284ea811bfb13fd0e35b57f47f66f3007660ebc356",
       "file": "soda-stereo/camaleon.txt"
     },
     {
@@ -94,7 +94,7 @@
       "external_id": "35493",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:20.238356+00:00",
-      "content_hash": "e069b78ec69a810f511a6645217d2836d3d39c4d9db896171237caea38aa5a17",
+      "content_hash": "e08879a313c5c8824f21b4b433826a945f71380f612cf1dc39b32272608ba120",
       "file": "soda-stereo/cancion-animal.txt"
     },
     {
@@ -105,7 +105,7 @@
       "external_id": "35494",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:23.075226+00:00",
-      "content_hash": "35e8f4033f55443a9a220ab2a49ac5978ac2b59456e5344d1d128524486300e6",
+      "content_hash": "018e74aa9700b72cb777c5dd84405a505d85f85ef2e99d4c388975495fcc1072",
       "file": "soda-stereo/cibersirena.txt"
     },
     {
@@ -116,7 +116,7 @@
       "external_id": "35495",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:24.681535+00:00",
-      "content_hash": "4c18e21e983ccab50eb7d9113f733f3f78febcde2144da0f1e4fa57d98128924",
+      "content_hash": "48b2ecc1565b6313545adb6a7c1a7bd2961cb33e74b8982cacb6e7c11f053988",
       "file": "soda-stereo/claroscuro.txt"
     },
     {
@@ -127,7 +127,7 @@
       "external_id": "35496",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:26.549689+00:00",
-      "content_hash": "e96a15b297752063bf591da5b316be22bf9e04f354f12a8724c3037275e97146",
+      "content_hash": "59ed112fa8b3e184088b4ee5b4cb4230aab6842b5a7e5dcd2f1167d1ebe38aed",
       "file": "soda-stereo/coral.txt"
     },
     {
@@ -138,7 +138,7 @@
       "external_id": "35497",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:28.830970+00:00",
-      "content_hash": "29a9283ea1dc207fd871b89cd909b2dbf8347e5b2f36ee66cd24b96a32e67182",
+      "content_hash": "1981c7f049a8182b8bdf0f0416bcda3e47fbb3e8cfa5226edb3270c7139dec2c",
       "file": "soda-stereo/corazon-delator.txt"
     },
     {
@@ -149,7 +149,7 @@
       "external_id": "35498",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:31.525814+00:00",
-      "content_hash": "3978e503ea402196922beef3db83c21c6fde4381c04579ac564266b8fdc5e03c",
+      "content_hash": "591f46cc19b864c7a9a04f3c0fd562be548fea1ea44790e878773d53fea7e81d",
       "file": "soda-stereo/crema-de-estrellas.txt"
     },
     {
@@ -160,7 +160,7 @@
       "external_id": "35499",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:33.812933+00:00",
-      "content_hash": "a4f73d467c5c17f2068b90cd47a6e348ff1bd9ad4044091fb21915edc2b799ff",
+      "content_hash": "6777f7fce92886ee025b1961ace4ca1b2e008669a539e944ff9fb4ed3b1115a9",
       "file": "soda-stereo/cuando-pase-el-temblor.txt"
     },
     {
@@ -171,7 +171,7 @@
       "external_id": "35500",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:37.922686+00:00",
-      "content_hash": "a5bd16e893aabb669526db210de881a992f9037ab9aa4ddb814af7eb01bae9b8",
+      "content_hash": "64d3f60b5f97dd37e37d8431f1538eb6b076f6464aea3de78d5f1d83bfb22cfd",
       "file": "soda-stereo/cuando-pase-el-temblor-unplugged.txt"
     },
     {
@@ -182,7 +182,7 @@
       "external_id": "35501",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:39.143883+00:00",
-      "content_hash": "03bcd60c1f8edd5abe83e857fdb5f1be1324d94bc41caaaffd8bffbad7a526f8",
+      "content_hash": "8fa6c081836b6a5bfb995214a4aa9876b55b868b4d946734b4bd854c0e61a2d3",
       "file": "soda-stereo/danza-rota.txt"
     },
     {
@@ -193,7 +193,7 @@
       "external_id": "391865",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:41.386938+00:00",
-      "content_hash": "ba678c1c75095e902bfc738d8d92b8f7a251f8e81c88f0e3855aac1040545a7b",
+      "content_hash": "5658ed54bbb38b6720e071418a8b49d7288ee1ce534e896ba5a77784b59a550c",
       "file": "soda-stereo/de-msica-ligera.txt"
     },
     {
@@ -204,7 +204,7 @@
       "external_id": "35502",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:42.793751+00:00",
-      "content_hash": "32282d5d07119e54cc18331495dbd6c7c9e7219418244417f4dbcbdd1d195bf0",
+      "content_hash": "7937baf4de1bd7294aa282b78d199e4ea769c583bf98c1cf8d7a9a2f4023e91c",
       "file": "soda-stereo/de-musica-ligera.txt"
     },
     {
@@ -215,7 +215,7 @@
       "external_id": "391866",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:46.860617+00:00",
-      "content_hash": "b1feda671facaceb75b66901c709d3ba078f1bb81135c7a62edfc9e76b983922",
+      "content_hash": "d81b0db231d40e4f4a6b25cab38b4b8c51fc3e50c3e4b951a945f645f83864a0",
       "file": "soda-stereo/de-musica-ligera-solo.txt"
     },
     {
@@ -237,7 +237,7 @@
       "external_id": "35504",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:51.535743+00:00",
-      "content_hash": "ec473ea2844fb6cb1ccb794ac851459ae3336c4c8a1248069e4d534c6eb680a8",
+      "content_hash": "04386283f99ebeaf6ebf2e26e4fdc86d05f7ae959baf18624ae7cc76796133ee",
       "file": "soda-stereo/disco-eterno.txt"
     },
     {
@@ -248,7 +248,7 @@
       "external_id": "409733",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:53.851580+00:00",
-      "content_hash": "cb2f7d265b129705b4f201cc2b12f870c91afa0ba07dbb03815ebeb312b56069",
+      "content_hash": "34c36f8974cc04a85e1cd86d118eb4f6285f181ab4924a15b37fc3c96c9741a6",
       "file": "soda-stereo/disco-eterno-unplugged.txt"
     },
     {
@@ -259,7 +259,7 @@
       "external_id": "35505",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:57.001778+00:00",
-      "content_hash": "2c2e558789acd2ffaa914fd1b7b202fb56bed5244da808f830f6d7c0dc42c38c",
+      "content_hash": "b7a63f6746ebae4aed4ad6d824350e704a2f166c307d9a2d4a082f9939eb248e",
       "file": "soda-stereo/doble-vida.txt"
     },
     {
@@ -270,7 +270,7 @@
       "external_id": "35506",
       "notation": "0",
       "captured_at": "2026-09-24T17:53:58.765637+00:00",
-      "content_hash": "eeef3d9a2f579165436cc3b6395d8b06cc073a29e4b0856ec0658d77da8f6853",
+      "content_hash": "8fb4d0d630adf3d87ec592c8af317d9eab07f3050b6bfd25f2b3c0da867a8fb5",
       "file": "soda-stereo/ecos.txt"
     },
     {
@@ -292,7 +292,7 @@
       "external_id": "35508",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:03.292905+00:00",
-      "content_hash": "a612f2fdf51d2737a646fd0c7fb3330c9947199130cb68e762434f49cf1bbab7",
+      "content_hash": "738f896286b00cb4d92c8e1bed8493bad0085292a836472cebe6a78c5afa7b93",
       "file": "soda-stereo/el-cuerpo-del-delito.txt"
     },
     {
@@ -303,7 +303,7 @@
       "external_id": "35509",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:05.462006+00:00",
-      "content_hash": "e267d859a1c49520e4a775662883a570787fc4e1f1b5d659a0f58919bfffd6f6",
+      "content_hash": "98138173a198e3c1a66fcff27d0365cd554eae96124c0cc2b4f54cd66d23e297",
       "file": "soda-stereo/el-ritmo-de-tus-ojos.txt"
     },
     {
@@ -325,7 +325,7 @@
       "external_id": "391867",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:10.863857+00:00",
-      "content_hash": "0096d365516ee4d7cf153252cb68ed77ed531288e821d3d9a669f64e5cffeb22",
+      "content_hash": "501fa3577b05072a9b1b1938074a8c248f8dc23d65b460cb901a96e9a6a38063",
       "file": "soda-stereo/el-rito-live.txt"
     },
     {
@@ -336,7 +336,7 @@
       "external_id": "35511",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:11.986688+00:00",
-      "content_hash": "6c0586499e523e14f048ed3217b808ac750cd2d60af8d313f154f909854c4fe2",
+      "content_hash": "bae8a9aaee8ffef8d015c3ef0615ed81a613b4f1f5429cebf7525f2c99c578d5",
       "file": "soda-stereo/el-tiempo-es-dinero.txt"
     },
     {
@@ -347,7 +347,7 @@
       "external_id": "35512",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:15.143278+00:00",
-      "content_hash": "8672a9a3cb718dd12ca70183a0925e4435f85f90dc57a820aa823396c6aa8ae9",
+      "content_hash": "3a6174b85cb5f07262c3c1a586c1e1e3ae1b79b90b74def70cea05b2fced0c1d",
       "file": "soda-stereo/ella-uso-mi-cabeza-como-un-revolver.txt"
     },
     {
@@ -358,7 +358,7 @@
       "external_id": "35513",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:17.552031+00:00",
-      "content_hash": "7814886b90385613d6aff98f22b4b4462c4fe9a6937aa53475839bd8f735707c",
+      "content_hash": "bdb3a3e1a0b8f9dbc043d12c34514b0ef4ade2c1212ab600198c4d9b6be347a8",
       "file": "soda-stereo/ella-uso-mi-cabeza-con-un-revolver.txt"
     },
     {
@@ -369,7 +369,7 @@
       "external_id": "35514",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:19.893029+00:00",
-      "content_hash": "24993bd137706e58f5a55eb3e855e9d548500f7545f34950a739c79d22593de8",
+      "content_hash": "31a9a757d98ce12c962bff5a49a7e3739bf1f9eb916c88f6b49078fd0cc3c279",
       "file": "soda-stereo/en-camino.txt"
     },
     {
@@ -380,7 +380,7 @@
       "external_id": "35515",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:21.845067+00:00",
-      "content_hash": "653b865fe76ff8e5a98bbe0b98a1f28383f7e4aced7cf22ccb170514eb82ddd5",
+      "content_hash": "fd51ff1ae892cdc67d30bd7b035b30bf41be21cf16c4c5412df59e1bdb4136e2",
       "file": "soda-stereo/en-el-borde.txt"
     },
     {
@@ -391,7 +391,7 @@
       "external_id": "35516",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:24.026161+00:00",
-      "content_hash": "47f402d35844bae7be44ce1d6612660f7529195a8155f342c0fbe3b746d84c5e",
+      "content_hash": "2471085539b07b0148169097d3fbbb9beffe85cd0b0b614b92500bb4387b1da3",
       "file": "soda-stereo/en-el-septimo-dia.txt"
     },
     {
@@ -402,7 +402,7 @@
       "external_id": "273807",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:25.716911+00:00",
-      "content_hash": "9f94842821324710aed6d98ccf70b9ecb736a13e3f6d1ff43a21c18b2cd7a099",
+      "content_hash": "7213c60426fd848d1cebb98d680359da357f88b5bc71ff051c129c1d646a8bb1",
       "file": "soda-stereo/en-la-ciudad-de-la-furia.txt"
     },
     {
@@ -413,7 +413,7 @@
       "external_id": "35517",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:27.398375+00:00",
-      "content_hash": "7a3bb1dbcc2ab1475f37a808685777d6baa5b5975200b5a32b603b86bb1dabf7",
+      "content_hash": "0204f6a560df78fe76072422296ca471e3943526212b3f8d40b3d8cf579abbee",
       "file": "soda-stereo/en-remolinos.txt"
     },
     {
@@ -424,7 +424,7 @@
       "external_id": "35518",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:28.944997+00:00",
-      "content_hash": "dc7eceda8d0c1cd9d1c9ded4fb7b49042a83df391689245f2cd99daab849d2f5",
+      "content_hash": "f909be8aad15fbda11406fa0f40257eda12f78b5cbc9e9634933a7ca2aad8e73",
       "file": "soda-stereo/entre-canibales.txt"
     },
     {
@@ -435,7 +435,7 @@
       "external_id": "35519",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:31.593934+00:00",
-      "content_hash": "74dad6cb1483c150b6d216fdcb38b2e9cdd948f810407a4a905f18b447f3cbad",
+      "content_hash": "b1341097518740e100d16ff712ea1217278491adc66785d199c344c44ca56f39",
       "file": "soda-stereo/entre-canibales-unplugged.txt"
     },
     {
@@ -457,7 +457,7 @@
       "external_id": "35521",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:37.220802+00:00",
-      "content_hash": "07a0bc883892a6180a240436a11684989afbd09ee82597c0c84e17390e5158b8",
+      "content_hash": "67a46d68502cdca6399844dba4f3ee513616dd59a136820a4e06932c195260f5",
       "file": "soda-stereo/final-caja-negra.txt"
     },
     {
@@ -468,7 +468,7 @@
       "external_id": "35522",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:39.396380+00:00",
-      "content_hash": "eb00496143e16f60254276cb4ceea44a1405d259351303c2c9338dbbbba45d07",
+      "content_hash": "27e9e1ee0522d4b82c1d636b3c9857655bb6cfa818f465e85d9f166a65125bfa",
       "file": "soda-stereo/fue.txt"
     },
     {
@@ -479,7 +479,7 @@
       "external_id": "35523",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:42.065483+00:00",
-      "content_hash": "132fd324f3e1e30172739f1cb7230a6ad8d9dfba6e1893e38f4ee0770f8b03b9",
+      "content_hash": "0d857ef5b192cdb5ef27be6f930f18a9df238feb2a9cd90b08f7381c526f6d53",
       "file": "soda-stereo/genesis.txt"
     },
     {
@@ -490,7 +490,7 @@
       "external_id": "35524",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:44.103892+00:00",
-      "content_hash": "889e01a57a5d441a62bb5c291ca5e37e060fbcd2843de89af0020c6a3dab3061",
+      "content_hash": "5dc5a29d9cd30709c95589520a009875d741587d43caf53b9d24b49d97f29c96",
       "file": "soda-stereo/hombre-al-agua.txt"
     },
     {
@@ -501,7 +501,7 @@
       "external_id": "35525",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:46.843699+00:00",
-      "content_hash": "242d0165993c684f1c16d9934285199a0f8e3ae7ee4017659c4e999ee6725406",
+      "content_hash": "989a58d5fda21473366213611e056c6e02a9a42b5e7d4d4e187f9ba23f10499f",
       "file": "soda-stereo/imagenes-retro.txt"
     },
     {
@@ -512,7 +512,7 @@
       "external_id": "35526",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:49.205409+00:00",
-      "content_hash": "fbc78d35895ce1192519018fe465507b947b18ece142525e899f53b38765967a",
+      "content_hash": "9638056293d2f90857713dde10adb69eeea28d63ba968f1cff5c682100b70817",
       "file": "soda-stereo/jet-set.txt"
     },
     {
@@ -523,7 +523,7 @@
       "external_id": "35527",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:52.196977+00:00",
-      "content_hash": "4b7e9a3634556b8dc8bb9f9998653cc93e860b3109571d56e098c24f01384efd",
+      "content_hash": "9cc5c038b1a92e8f2b237c97c659264593a97579e1a84e297a1b129505c991f1",
       "file": "soda-stereo/juego-de-seduccion.txt"
     },
     {
@@ -534,7 +534,7 @@
       "external_id": "276096",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:54.861136+00:00",
-      "content_hash": "6157e74614be6e4ee99479494f02e5750b98a68ef7e68b6f7fe46e8070c64b9f",
+      "content_hash": "ee98acb2c013c67b71b4bb738bccba33f7b376d92a6038c3e334b8675a93d262",
       "file": "soda-stereo/juegos-de-seduccion.txt"
     },
     {
@@ -545,7 +545,7 @@
       "external_id": "35528",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:56.345482+00:00",
-      "content_hash": "f25325bb4e84041e5f295770ef646c4868a6aeabfa82d0f5e867bc5b0d156a46",
+      "content_hash": "03e8757e80fca435013c5de1d0dd88055e0154d82e66b348bd26bb48e7c3180a",
       "file": "soda-stereo/la-ciudad-de-la-furia.txt"
     },
     {
@@ -567,7 +567,7 @@
       "external_id": "391868",
       "notation": "0",
       "captured_at": "2026-09-24T17:54:59.652138+00:00",
-      "content_hash": "9e94786989cc49c0e70f1ec9c97e90cbbe9c6fc7261fc0f378e8cef55e39dfc9",
+      "content_hash": "cb6e36170e94a7d56387a1be2b681568aa537ca428e2ca3cc86b2d4da86786a6",
       "file": "soda-stereo/la-cuidad-de-la-furia.txt"
     },
     {
@@ -589,7 +589,7 @@
       "external_id": "35531",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:04.462567+00:00",
-      "content_hash": "30823b62644e20253134952610e51e5f94a7aed5b773eb5bdcf87717575bbc04",
+      "content_hash": "c0b32f4b828932df2a81245f807cc67a13de3946304e5d2d9184cf88d4c4ac73",
       "file": "soda-stereo/lo-que-sangra.txt"
     },
     {
@@ -600,7 +600,7 @@
       "external_id": "273870",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:06.592049+00:00",
-      "content_hash": "835aad4a74adef0172298efcd6b23e7536c0bf5329fa8420b51c65961edd5760",
+      "content_hash": "96573fb24d2a270a21c41857b1e65126733bc8bf9af028715e12e49ddb2983d6",
       "file": "soda-stereo/lo-que-sangra-la-cupula.txt"
     },
     {
@@ -611,7 +611,7 @@
       "external_id": "35532",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:08.357219+00:00",
-      "content_hash": "143e8922a4f338ecdb3f01bbd434f166f763be851636f95c1d688461f4fb49e7",
+      "content_hash": "d698e9acf116fd2117838958d504f11dc9f3bda2b2b06f10cdab8ace8336ee18",
       "file": "soda-stereo/los-languis.txt"
     },
     {
@@ -622,7 +622,7 @@
       "external_id": "35533",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:10.555767+00:00",
-      "content_hash": "35af993c40e264c001f8bf54a00283e17985e118f3039612226bdbce0762fe42",
+      "content_hash": "822e8b0f39b0fee1cbea53cf9c864096ea32174b5b010484f66bc906055c2249",
       "file": "soda-stereo/luna-roja.txt"
     },
     {
@@ -633,7 +633,7 @@
       "external_id": "391869",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:12.318943+00:00",
-      "content_hash": "2b679aa7a2391d825a33ce34335bb4fef5f775f7351584bf815f543aee6e5a78",
+      "content_hash": "387331816dd00bc5684f7e8e68b43cc6996f19faf2a536090554a7c1c3a373ba",
       "file": "soda-stereo/luna-roja-live.txt"
     },
     {
@@ -655,7 +655,7 @@
       "external_id": "35535",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:15.879812+00:00",
-      "content_hash": "0d3f6b03903095c6da4cc921ddd45efb640a80fc73a507dc70193b89a45b3b16",
+      "content_hash": "976d74af52fc36a2fa5aa17df4ee627f4f74df777f91a09c5ad50f7135b514f8",
       "file": "soda-stereo/moire.txt"
     },
     {
@@ -666,7 +666,7 @@
       "external_id": "35536",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:17.945840+00:00",
-      "content_hash": "eb76db1b100944ff30fba4c80b5ed1ac8fd47df5d90ec2e3218de184ea5790a4",
+      "content_hash": "eb9f67f203e2a68cdcd989b89e1b5996ecaf888e89ca546592dab1f21a204ec9",
       "file": "soda-stereo/mundo-de-quimeras.txt"
     },
     {
@@ -699,7 +699,7 @@
       "external_id": "35537",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:26.801035+00:00",
-      "content_hash": "18e15927cafcd04d4392782c170c5ec6eeaecd924e552759e16d26b523fe3a60",
+      "content_hash": "9b2f37f002715a00056ada426aa63deb8a599a0b97c16221c95e27e911fb77a3",
       "file": "soda-stereo/nada-personal.txt"
     },
     {
@@ -710,7 +710,7 @@
       "external_id": "35538",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:27.706671+00:00",
-      "content_hash": "9d9fccc43675d5d6adb424577e6d664f09f0998f81e57dc0e344995eaa4d28bf",
+      "content_hash": "7dac67584c4bd67a8250496a9c47cccac858a99b170995fe66232bcca82b6860",
       "file": "soda-stereo/ni-un-segundo.txt"
     },
     {
@@ -721,7 +721,7 @@
       "external_id": "35539",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:29.421926+00:00",
-      "content_hash": "7258cff31e30a45fc2e7250454d21bc2ceb6992d0acf60f3ee58bfb9093e30b4",
+      "content_hash": "270a9fdadb968363c8734999edb8c70b76a4d84a75359e8c57b423caafb80640",
       "file": "soda-stereo/no-existes.txt"
     },
     {
@@ -732,7 +732,7 @@
       "external_id": "35540",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:33.380010+00:00",
-      "content_hash": "5cf912d0fddf09a67bb0f07b08e8800a25eab708b70fd6e02423a29d629efa68",
+      "content_hash": "b0ed585b8d1d7225e025b3de335e151f8d9608967d77a7b64d37ec83719ccb51",
       "file": "soda-stereo/no-necesito-verte.txt"
     },
     {
@@ -743,7 +743,7 @@
       "external_id": "35541",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:34.262938+00:00",
-      "content_hash": "cdbc5525956a0f5c3796064c0b0a03bc871a41e2be5b02abad095530c77ab8b1",
+      "content_hash": "233e7da5b3142625f05a8d580e67f43459e7903c757e7969a7df16de6a76cc42",
       "file": "soda-stereo/nuestra-fe.txt"
     },
     {
@@ -754,7 +754,7 @@
       "external_id": "35542",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:37.945310+00:00",
-      "content_hash": "967e0e291c6b79a994ca48ad602be40a5c18dd426006bf17c993c6cbb23626c9",
+      "content_hash": "18822a006e56de3cb7857e357966cf0186f901922b54ec2cc88568bf04552a1f",
       "file": "soda-stereo/observandonos.txt"
     },
     {
@@ -787,7 +787,7 @@
       "external_id": "35545",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:43.708085+00:00",
-      "content_hash": "6b6202ca0e1cdb8937dbde7d8e36c729ee1c290502978038cbc11cc0cec5937b",
+      "content_hash": "cbd8138932007de67bbcd520dcb4a61ffd1dc703e20af0bdf7c2163f4eed1f53",
       "file": "soda-stereo/pasos.txt"
     },
     {
@@ -798,7 +798,7 @@
       "external_id": "35546",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:46.625919+00:00",
-      "content_hash": "ae202bf3497a69119792ded56c4fe897fcf41e02f413b701fda366b7e97c9bbb",
+      "content_hash": "b3d59bb79f808efb4fab3a1b24dc0ab133137dbb87d5abedf99163020bc5cbb9",
       "file": "soda-stereo/persiana-americana.txt"
     },
     {
@@ -809,7 +809,7 @@
       "external_id": "391872",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:49.382436+00:00",
-      "content_hash": "28cc0ddd10b180bb21471ce8803ca3f445837a795b1768f29f548df5e1351922",
+      "content_hash": "37ae9ea9fb890135dbf7775a7b9ad7705c3ac4985974d3f073e8268cd5a0f0b0",
       "file": "soda-stereo/persiana-americana-intro.txt"
     },
     {
@@ -820,7 +820,7 @@
       "external_id": "35547",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:51.871887+00:00",
-      "content_hash": "2b42db384a52b031636330fd842b654effd066186c7e7c261a4b2fa66d9eae64",
+      "content_hash": "8a6e7022714aceecb6a3b57d5c08bdc4fbc681ea05d0a2f1d6e7bff241e6c25b",
       "file": "soda-stereo/pic-nic-en-el-4o-b.txt"
     },
     {
@@ -831,7 +831,7 @@
       "external_id": "35548",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:53.903417+00:00",
-      "content_hash": "44f71991a02384e905ef1b59c91207b1e447f5c9467a3ded3166ffa17101bc82",
+      "content_hash": "c128971ba9de8b09595b31bf4c58a6a8ca34323a3c4eb9b5e14df3f86c229fa4",
       "file": "soda-stereo/planeador.txt"
     },
     {
@@ -842,7 +842,7 @@
       "external_id": "35549",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:56.904225+00:00",
-      "content_hash": "92bfdb6c8a2a3ded4e272fc7db282180a40955a5eb96204fc5ee727e0a833686",
+      "content_hash": "92b605e523a11942054f1ba0ca8aa66e6fe7266198ee8402dccfb086c87c7748",
       "file": "soda-stereo/planta.txt"
     },
     {
@@ -853,7 +853,7 @@
       "external_id": "35550",
       "notation": "0",
       "captured_at": "2026-09-24T17:55:59.274507+00:00",
-      "content_hash": "84400042b7a484da0d9a06365c383fb7321e79d536a9819909d2a31dd135d70c",
+      "content_hash": "76d418fcb073d8881f27c08c2a90a2c96380979147008fc75fe98d41ab34ed6b",
       "file": "soda-stereo/primavera-0.txt"
     },
     {
@@ -864,7 +864,7 @@
       "external_id": "35551",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:01.215008+00:00",
-      "content_hash": "a9d586455365e556088b9b95a490edf3484d79eb93d98487467d6bccedc58ca7",
+      "content_hash": "c79a2785f9d99059a12c7d16f3bc51819b60d7ba35421a66035e9532786f5948",
       "file": "soda-stereo/profugos.txt"
     },
     {
@@ -875,7 +875,7 @@
       "external_id": "391873",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:04.108512+00:00",
-      "content_hash": "22ce190b3f0a3a662aec1beeee76f501100178bcab9314d428afe5f58a16e858",
+      "content_hash": "c120ea361d798a9b684f5ce5eac27db78a6d508d810477721ef3039c197b728d",
       "file": "soda-stereo/puente.txt"
     },
     {
@@ -908,7 +908,7 @@
       "external_id": "35552",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:12.346758+00:00",
-      "content_hash": "58a2058eae81e3b7aca86b7c4359dc51bef1f65ef79759293053ecc6e6bf75ab",
+      "content_hash": "22255bdab2e1dd2bc867849b6aefc7165c884fd137f5293ab36d83f1a5a6409e",
       "file": "soda-stereo/sequencia-inicial.txt"
     },
     {
@@ -919,7 +919,7 @@
       "external_id": "35553",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:16.691769+00:00",
-      "content_hash": "19e09d40507b0ffbb9dc9c87b19e5587b9f36b152aba9fbc0a7d9c8ce502578c",
+      "content_hash": "1ce8ae88e42b0aa89762d6c7fd97c3b796865551c75167e1b789f00c4d5fe9e8",
       "file": "soda-stereo/si-no-fuera-por.txt"
     },
     {
@@ -930,7 +930,7 @@
       "external_id": "35554",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:17.539356+00:00",
-      "content_hash": "9d0fc024b52a300b0443ef55deaa4571fbc1865ee5910ddff3c27d5b2cf5b4ab",
+      "content_hash": "dd917f0b87f464cd9ea203a11c685e0cd921064991c64533349480446cd49b9c",
       "file": "soda-stereo/signos.txt"
     },
     {
@@ -941,7 +941,7 @@
       "external_id": "391876",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:20.507262+00:00",
-      "content_hash": "8910220124bb04be117847c8614e21ae74b97204a5fad4bc18dff2c7284e86ff",
+      "content_hash": "0e0b0e3b4068e81040bfdae80c27a943938ba694179f62c5b3f38ae3e4b4ecca",
       "file": "soda-stereo/signos-live.txt"
     },
     {
@@ -952,7 +952,7 @@
       "external_id": "35555",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:22.130953+00:00",
-      "content_hash": "74f5fe4294b1259feef05a6baf6dfdf4919e144fe89fa65a9c9f41f9e1e13162",
+      "content_hash": "9998612617361e3b21f85398d6917766b8b4e49c910c7d1946dc58119f0d7a80",
       "file": "soda-stereo/sin-sobresaltos.txt"
     },
     {
@@ -974,7 +974,7 @@
       "external_id": "292522",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:27.687433+00:00",
-      "content_hash": "0e8e2f30f52e3da09742a10735e7c45c31b54020298444a896c0595e0ba703cb",
+      "content_hash": "80f8920073136d18b52704f63010b5b0d06eae7bdb95e3300f4310207cab7175",
       "file": "soda-stereo/sueles-dejarme.txt"
     },
     {
@@ -985,7 +985,7 @@
       "external_id": "35557",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:29.557741+00:00",
-      "content_hash": "2cff38591826ef82398aa133f05b594b718a15c83b3c908493b3ce27429d743a",
+      "content_hash": "713f12c40f0097ce91d8eba7738a45a1d676dbdc80ff1352cfb23f9912e73d8a",
       "file": "soda-stereo/sueles-dejarme-solo.txt"
     },
     {
@@ -1007,7 +1007,7 @@
       "external_id": "35559",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:32.779708+00:00",
-      "content_hash": "3483c417a656e04e605701e09cf505cd58043a44feb762e7cb1c9b3d4ff42570",
+      "content_hash": "38e1404c7bba10fad9e88b7f1f911c94a79ed4b9b8330ba8290704407afaecfd",
       "file": "soda-stereo/sweet-sahumerio.txt"
     },
     {
@@ -1029,7 +1029,7 @@
       "external_id": "35561",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:36.235435+00:00",
-      "content_hash": "d9478d0e071bd822eb54d794d17e0846d335b6ffbf36c0b22e35d2399a3a3b9c",
+      "content_hash": "7b376355dc0378d6b1156307d739efe1e70e1523203695e1bed10e737396b64b",
       "file": "soda-stereo/te-para-3.txt"
     },
     {
@@ -1040,7 +1040,7 @@
       "external_id": "378347",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:38.675126+00:00",
-      "content_hash": "177c88010482451f85c303333521686d0eb64fd813456140fb374294267624b2",
+      "content_hash": "b8387d72fbeb2da7c786006ba4db9de9ae04b75bf35451b6c0c136ea28be5138",
       "file": "soda-stereo/te-para-tres.txt"
     },
     {
@@ -1051,7 +1051,7 @@
       "external_id": "391877",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:40.591505+00:00",
-      "content_hash": "9254ece4a99b94c015b2b137d7487251fd4ed4bb657bd898336d029b5bb77d7a",
+      "content_hash": "d8b0c9aca39c3b4f187656628138376cb7a2c625766cc0d6b394a89fb2570440",
       "file": "soda-stereo/te-para-tres-live.txt"
     },
     {
@@ -1062,7 +1062,7 @@
       "external_id": "391878",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:43.238346+00:00",
-      "content_hash": "ebba3e7b3044d42d530eae5c82ab86723fb6e3e09e6a98dd5b743642138d74eb",
+      "content_hash": "3ae4b732caa93513c3a03641bdf8efe39a69b327b7466b84ea215f85dd96d2f1",
       "file": "soda-stereo/te-para-tres-solo.txt"
     },
     {
@@ -1073,7 +1073,7 @@
       "external_id": "35562",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:45.876209+00:00",
-      "content_hash": "b74903e337e173368aab36fd9555b00809a3dc4665d5fd7e2b9600f8c9e76a65",
+      "content_hash": "ec0d16cc839c4be094664c80e7a6818f069e1eabb5e9d7325e061752903f85bc",
       "file": "soda-stereo/telaranas.txt"
     },
     {
@@ -1084,7 +1084,7 @@
       "external_id": "35563",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:47.988296+00:00",
-      "content_hash": "5742ac71e94acd947c1784c142d1c391009a078aa94309546ed9c6bb4fba2a5e",
+      "content_hash": "4697abe168dace32b2c458313f1d82ecb4147197c4991ddfac0707100e33965d",
       "file": "soda-stereo/tele-k.txt"
     },
     {
@@ -1095,7 +1095,7 @@
       "external_id": "293277",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:50.357144+00:00",
-      "content_hash": "d537f6afdfb9292824609cec4d6174f8caefd7ead5b71d9a162feee9cb5ab8fc",
+      "content_hash": "2308b1c7d67209d207d235b55ddcdb5f4d7c4d69a057c63d5091b2fc10a1fc31",
       "file": "soda-stereo/tele-ka.txt"
     },
     {
@@ -1128,7 +1128,7 @@
       "external_id": "35566",
       "notation": "0",
       "captured_at": "2026-09-24T17:56:58.445383+00:00",
-      "content_hash": "5e70e8353b0fbeca7f775eb9422e33f5810f98f4bbc22aa728d3c60e1af71a30",
+      "content_hash": "7294751c058287002c947a5d1a516e29e55fc9e9a9d4c93e42a9bbef459818aa",
       "file": "soda-stereo/toma-la-ruta.txt"
     },
     {
@@ -1139,7 +1139,7 @@
       "external_id": "35567",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:01.260495+00:00",
-      "content_hash": "6378e9ee9b35578daaacd141f9af1ace7789abcbfcd1c3598651945ddb26018c",
+      "content_hash": "b8d7d539fac69f44ab61b1d154495cd0aacc142e12fdd918372aa12798d0037d",
       "file": "soda-stereo/tratame-suavemente.txt"
     },
     {
@@ -1150,7 +1150,7 @@
       "external_id": "35568",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:03.736469+00:00",
-      "content_hash": "ff0be71db07066e90b1b1502ae99404e8556d2b2fa546cc564aa4cb4aeb2692e",
+      "content_hash": "190c7e7609190dd586927b7fbdd9e4d0053eb1fc6a5b0dba3a58da0897c5f266",
       "file": "soda-stereo/un-millon-de-anos-luz.txt"
     },
     {
@@ -1161,7 +1161,7 @@
       "external_id": "35569",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:06.095226+00:00",
-      "content_hash": "8141e32ea663524ffce378e77864b0ef612b9dd44671981f1a2b783eda535e55",
+      "content_hash": "5653c0e37143a35a0d985a1efa135fa5260a18824f199d5e2a93b6806a88a2aa",
       "file": "soda-stereo/un-misil-en-mi-placard.txt"
     },
     {
@@ -1172,7 +1172,7 @@
       "external_id": "35570",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:08.317979+00:00",
-      "content_hash": "820214c0518ac09340117da996b4ba7584fc32b400b48a9d3ab88c00abdfbac2",
+      "content_hash": "360aa243d8216b0a4a12061568af5dfe971b980d86e9608af4e8b58cfa34dede",
       "file": "soda-stereo/un-misil-en-mi-placard-unplugged.txt"
     },
     {
@@ -1183,7 +1183,7 @@
       "external_id": "35571",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:09.942195+00:00",
-      "content_hash": "374303248ad2322ef784aa81717a4246f0f6e93b02d501adbd6341b87a80a2d5",
+      "content_hash": "f1a34d0e74d7473d6720544e329850a7dff7b6314a4893b1dfcbfcae266d965f",
       "file": "soda-stereo/vuelta-por-el-universo.txt"
     },
     {
@@ -1205,7 +1205,7 @@
       "external_id": "35572",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:14.373520+00:00",
-      "content_hash": "3e629c28c104ec7b36e9526b2e23fa3d65b781982a5560fb046425ad94d17a00",
+      "content_hash": "8fed88fae248da53e2554f608cd476e0ff764c29571bc6254feb0e102d1d2b10",
       "file": "soda-stereo/zona-de-promesas.txt"
     },
     {
@@ -1216,7 +1216,7 @@
       "external_id": "35573",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:16.538544+00:00",
-      "content_hash": "01bc58fb7c37c1c0972d67be3f48ae4ae28422c41c79ae0939ea1262e849516f",
+      "content_hash": "7afa959a32c836c7f418ae84cbf8de6ac27078f08867437b53efec2834846c3a",
       "file": "soda-stereo/zoom.txt"
     },
     {
@@ -1227,7 +1227,7 @@
       "external_id": "18010",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:18.032323+00:00",
-      "content_hash": "10d3a2ad509948241ee369c26478252d93164a157f339cc1796eab6ee3b36ca0",
+      "content_hash": "6c6dae143b87eebb66f290010e2f3c1c078eff13bf9bc84d9877092f06dcb23b",
       "file": "gustavo-cerati/a-merced.txt"
     },
     {
@@ -1238,7 +1238,7 @@
       "external_id": "18011",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:20.725293+00:00",
-      "content_hash": "1c70cd14ea318a2febfae2763e7396f26066e0e53f17a58d569d26d95581798f",
+      "content_hash": "94c7f715764d3617aeb4d2bff86ee3e9c73e09da4a3a0d904780a8ac5957e175",
       "file": "gustavo-cerati/adios.txt"
     },
     {
@@ -1249,7 +1249,7 @@
       "external_id": "18012",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:23.305432+00:00",
-      "content_hash": "dcf27c75f827b5bbd9788f487db0c3b5b2841371674e34b15cece4033f2a5f5c",
+      "content_hash": "5430dbbd3b29a55ed9b8c5b56c4c9644e1e9561dab3add0ad1aea16640294549",
       "file": "gustavo-cerati/ahora-es-nunca.txt"
     },
     {
@@ -1260,7 +1260,7 @@
       "external_id": "18013",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:25.467934+00:00",
-      "content_hash": "89f8e163aa0321af74ded3b77335dcf6793f35b05d333d10bc2fd5db9b6e8263",
+      "content_hash": "abe685261a4e8c7f82a153273ef1dbd5fcbf631926f6d0d4eb918e753df19d4e",
       "file": "gustavo-cerati/ailee.txt"
     },
     {
@@ -1271,7 +1271,7 @@
       "external_id": "18014",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:27.934558+00:00",
-      "content_hash": "4fff6b25aea633a03f068242b70a3a2aef5b790ebc3715c04747f692889f32d9",
+      "content_hash": "b5c0069a3ef4137dbad907a8971302859255ee2eaac9a0ec5d06a199cd544a21",
       "file": "gustavo-cerati/al-fin-sucede.txt"
     },
     {
@@ -1282,7 +1282,7 @@
       "external_id": "18015",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:30.127399+00:00",
-      "content_hash": "f02da102f725a16fc26dc58c3c150bf22912e0dbefd9bc52ec0fcd01e56915b8",
+      "content_hash": "46738f546e186eead9e8ad3a1b519e755445e90840834ad3f0096c6e6ec7ec4c",
       "file": "gustavo-cerati/alma.txt"
     },
     {
@@ -1293,7 +1293,7 @@
       "external_id": "18016",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:32.008828+00:00",
-      "content_hash": "080e2d4d6b41d2cdf7102c1c793e35b8a469dbc0c53f0b08c6b4a60b38a4c3aa",
+      "content_hash": "77108f7d53777e5c9aad479a76763902ee151447440fcb5a7759a85fecc9d314",
       "file": "gustavo-cerati/altar.txt"
     },
     {
@@ -1304,7 +1304,7 @@
       "external_id": "18017",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:34.357274+00:00",
-      "content_hash": "93c0f13ba80867a4967bb379c8c4417780f4a5a4183e2e6da58a305e65725609",
+      "content_hash": "74eaa94274c323fe83c728674ce12f153d648c5db03bf0789aba901ae646d3a7",
       "file": "gustavo-cerati/amo-dejarte-asi.txt"
     },
     {
@@ -1315,7 +1315,7 @@
       "external_id": "18018",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:37.677621+00:00",
-      "content_hash": "6f0ea05e05c481d8c14e9db0f84c3cb62cce70ab6658a74db8e1e264e52b46bd",
+      "content_hash": "02d059a059e152d11acc68f35d5dfd4d12204dfed57f039f9ee4017ffc09931f",
       "file": "gustavo-cerati/amor-amarillo.txt"
     },
     {
@@ -1326,7 +1326,7 @@
       "external_id": "18019",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:38.712794+00:00",
-      "content_hash": "8f88ded2fdefded84b80a94e79fe98cb1f94513ed80317a880eb15efb942a5ff",
+      "content_hash": "fa13d67fc0f4819244e2da7a900f947976bf29cd18207e6fb597f6b9b8524d5e",
       "file": "gustavo-cerati/amor-sin-rodeos.txt"
     },
     {
@@ -1337,7 +1337,7 @@
       "external_id": "18020",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:41.300653+00:00",
-      "content_hash": "894660b3e776046074eae57266eb83e41ffc5b25e14373a6e7827dcc9ba831b0",
+      "content_hash": "be7dcabe8b104c7e9e62b6c371eab32cc9b5ea4d8da2c1c72362b575f7ce1b43",
       "file": "gustavo-cerati/aqui-y-ahora.txt"
     },
     {
@@ -1348,7 +1348,7 @@
       "external_id": "18021",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:43.445654+00:00",
-      "content_hash": "b2fde275775b616f495fb8e1a0abd06e8bd30c25c0ea9827a0b5d6c0f5fc156c",
+      "content_hash": "d2f6df48b6bf85c1e9586f465519800364975f80080c9fd2e93f537206ca5e1a",
       "file": "gustavo-cerati/artefacto.txt"
     },
     {
@@ -1381,7 +1381,7 @@
       "external_id": "18024",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:50.642207+00:00",
-      "content_hash": "0c41598c18dce63b0ee2d1017a3e8d4460bf5bc837b24a7acc1c21e9e424520c",
+      "content_hash": "ccf8f08e626d7d040fa4efce028be98ab3d4a0045e75e3e4665e2098a4e40d5b",
       "file": "gustavo-cerati/bajan.txt"
     },
     {
@@ -1392,7 +1392,7 @@
       "external_id": "288036",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:52.111123+00:00",
-      "content_hash": "5b71a9055ddf0dcfa9d36dda850285838403b00ac2462b4d59c51ee8582f1cc4",
+      "content_hash": "947033f6738a111b2a07c65ab21bf67f5fdbbf7187b501cfaa6b85347f2da123",
       "file": "gustavo-cerati/beatiful.txt"
     },
     {
@@ -1403,7 +1403,7 @@
       "external_id": "18025",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:54.941181+00:00",
-      "content_hash": "ffe54a9504b901531967c07e277cf86a8a763541bc7d7b8fbfb81bc55a8f37c7",
+      "content_hash": "6b9dc4a465bc2bffe6ea558812f20e405c631e8ff7c23932db910e225c5817f1",
       "file": "gustavo-cerati/beautiful.txt"
     },
     {
@@ -1414,7 +1414,7 @@
       "external_id": "18026",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:56.811135+00:00",
-      "content_hash": "62d024905276e305ea7452009aef0f2f43bbdc976774cbfe7c52273631b86ee1",
+      "content_hash": "0776397b7efb28d93dd2ca98711f5d2cbc8e7ede2f8e8cfbef513a16ff3b392f",
       "file": "gustavo-cerati/bocanada.txt"
     },
     {
@@ -1425,7 +1425,7 @@
       "external_id": "18027",
       "notation": "0",
       "captured_at": "2026-09-24T17:57:58.988617+00:00",
-      "content_hash": "98ef1ab6bb24631de48841c21cc396f984029c2f5925388a8021abc7b6dd14eb",
+      "content_hash": "1c8da1ab3f59e8ec37bbd37da24b9b4fe1b5dc953d68ee9a42bb7842ff90b242",
       "file": "gustavo-cerati/bomba-de-tiempo.txt"
     },
     {
@@ -1436,7 +1436,7 @@
       "external_id": "18028",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:02.204739+00:00",
-      "content_hash": "162a7d085d91d4892fb2a0c4bda5548e7e4716ec9fd131bb03c4100bc18aa7cf",
+      "content_hash": "431b93557ab82ffc60af25813c713cdbca099e63818ab763a97253b2786d1fbd",
       "file": "gustavo-cerati/cabeza-de-medusa.txt"
     },
     {
@@ -1447,7 +1447,7 @@
       "external_id": "288037",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:04.270073+00:00",
-      "content_hash": "93282aada1bfd11e2b3ea47e556c3160b0093fd0c508f33f282d37a0167d7645",
+      "content_hash": "9a42baa4cc05475ff8df2c4de1206b69d706b342658cd20d4cbc4cb55717a583",
       "file": "gustavo-cerati/cabeza-de-mudusa.txt"
     },
     {
@@ -1458,7 +1458,7 @@
       "external_id": "18029",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:05.272666+00:00",
-      "content_hash": "a4dd8a06937905d5cb2ceafc0887de579b225f44dffa72867e2e7d3cc0f89d41",
+      "content_hash": "5d938f371521fc333edf54739477e2e9832e7c4f918fa8c67281ed7e7d78fa84",
       "file": "gustavo-cerati/cactus.txt"
     },
     {
@@ -1469,7 +1469,7 @@
       "external_id": "18030",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:07.675700+00:00",
-      "content_hash": "685d8886ef17e99ddd5bf410a522a932a86bcf10acf476ab2bc8d90a663bda85",
+      "content_hash": "02bdc526ca9886aaa7081660538589cd1b4dbd9b919e036b3a5955cdaae9c428",
       "file": "gustavo-cerati/camuflaje.txt"
     },
     {
@@ -1491,7 +1491,7 @@
       "external_id": "504821",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:13.230667+00:00",
-      "content_hash": "7f51a72b64421b9a28e9f8f5921ffdbe769589f54b30c74ec63259a030a64729",
+      "content_hash": "699e343811e57619291bcd6b4bd9771b01d29e5818b1f578c4d497b3a81ccb2e",
       "file": "gustavo-cerati/casa.txt"
     },
     {
@@ -1502,7 +1502,7 @@
       "external_id": "18032",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:14.921410+00:00",
-      "content_hash": "d8fe16c2274a3e73ddae0fc613f870af5aff2840d97c0dc6b985198151aee617",
+      "content_hash": "9aa3deb54d339ef91592b5f349055fe1b92fc1467883e17a2db2ae7efd510a23",
       "file": "gustavo-cerati/colores-santos.txt"
     },
     {
@@ -1513,7 +1513,7 @@
       "external_id": "18033",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:17.016541+00:00",
-      "content_hash": "db89d4117c1ce4aa2b5f654f7b4e32ccc4a53111f88034bc28001723b427b09f",
+      "content_hash": "628a318eb99c9da036ac4bb5635329a151acbf6a2fd96aa34ac472e2b9416a54",
       "file": "gustavo-cerati/convoy.txt"
     },
     {
@@ -1524,7 +1524,7 @@
       "external_id": "18034",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:19.521350+00:00",
-      "content_hash": "2f2b875078002206d12fd72a4fda076b10a1c7f88a1a84cdc2eb7c9519cc14f7",
+      "content_hash": "76adfe2266efe3f5aa663cda1a5b1a7664539dd3dc7dfe49773875746669e712",
       "file": "gustavo-cerati/cosas-imposibles.txt"
     },
     {
@@ -1535,7 +1535,7 @@
       "external_id": "18035",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:22.579145+00:00",
-      "content_hash": "1a196aa0d46c56a940c40071fb4727940648c7119be93c394b005ee51d7abd70",
+      "content_hash": "3124d1170b3f0e03887954234b4ed06cf7023f0d0f7a0d640c60f1400ff578ca",
       "file": "gustavo-cerati/cozumel.txt"
     },
     {
@@ -1546,7 +1546,7 @@
       "external_id": "18036",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:23.554555+00:00",
-      "content_hash": "2591f599ef655a4c29a6163f1dd6825d2d7296fa96455b7d439b770ff5b8c428",
+      "content_hash": "438245d75c7b38dc8153a538da2fc1e497ae8ad85e7f0dbe621c5ffde5ad9d3f",
       "file": "gustavo-cerati/crimen.txt"
     },
     {
@@ -1557,7 +1557,7 @@
       "external_id": "18037",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:25.378685+00:00",
-      "content_hash": "8c6cef199fe02e533577005fc4c4d1c7ed00d42cda7b722952899e9a822fba22",
+      "content_hash": "db3e5e870978c466f4e9ddcd93f33a331721a0942caaeb00f8a6cc94030117b2",
       "file": "gustavo-cerati/deja-vu.txt"
     },
     {
@@ -1568,7 +1568,7 @@
       "external_id": "18038",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:27.820965+00:00",
-      "content_hash": "75dd357dc12c631c2d6d4b22676ebb0c15bceb971276bff5bdd8b234b3e1a7df",
+      "content_hash": "414fbeec3df738f9384c093092f5fec23849e567619c384fa4755c0f21f7330f",
       "file": "gustavo-cerati/desastre.txt"
     },
     {
@@ -1579,7 +1579,7 @@
       "external_id": "18039",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:29.811508+00:00",
-      "content_hash": "366cbe69145b36ad8df7c0d0d70f40313680fde9eeb7331fa768af53e2e53742",
+      "content_hash": "b2d0ffe376d91d454dd5517099fc9b2f0f976ffddaaaee35573730091916950e",
       "file": "gustavo-cerati/dios-nos-libre.txt"
     },
     {
@@ -1590,7 +1590,7 @@
       "external_id": "18040",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:31.374686+00:00",
-      "content_hash": "4a23d0b2999712ebff15109c8857f82351724f0fb514108d2d952dc37031f8f2",
+      "content_hash": "07abaf6142044fcad82a7a1f0f5002c579d718ec5bb160536bc8cb70af2867b1",
       "file": "gustavo-cerati/domino.txt"
     },
     {
@@ -1601,7 +1601,7 @@
       "external_id": "18041",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:33.134707+00:00",
-      "content_hash": "889a23d8f3463878ae9cf0aeebf9c455c105505a2e09bfce6f5e4cc2e54b980c",
+      "content_hash": "61b3515e64dae24628c2d11c95a1e01ed0a49059bf0aa178293849ee77505aa6",
       "file": "gustavo-cerati/el-mareo.txt"
     },
     {
@@ -1623,7 +1623,7 @@
       "external_id": "288038",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:37.283045+00:00",
-      "content_hash": "fb71c055a7565269f4d9e4112f8e21261e18965b393a67545a0c0bcbc8c6a2ce",
+      "content_hash": "6b54cb5addf5402b86b6b6c347eb18c7243efdbf356d890b675ac4dcde3bed84",
       "file": "gustavo-cerati/engaca.txt"
     },
     {
@@ -1634,7 +1634,7 @@
       "external_id": "18042",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:40.114511+00:00",
-      "content_hash": "ed3861ada9c91d226302afcf3cc855e988963a1ec3dc40862bb935e9e0500449",
+      "content_hash": "5eba634e2522da957badea68490f6a10219005c49af6cd3d3a07fb67b60fb01c",
       "file": "gustavo-cerati/engana.txt"
     },
     {
@@ -1645,7 +1645,7 @@
       "external_id": "18043",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:43.014079+00:00",
-      "content_hash": "ae1c2294d509d3f7dc5a2b63fbb38adc5d691acf02cd972bf220ae2eb5742cf0",
+      "content_hash": "c0cea5b0fba6ed62ed3f0819086f5eea941bdddbb0839ee228e339213d209280",
       "file": "gustavo-cerati/especie.txt"
     },
     {
@@ -1656,7 +1656,7 @@
       "external_id": "18044",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:43.959544+00:00",
-      "content_hash": "4d499330ef8b495e811bb81aeffd7ecd0ec7543a1ab631802db1bf8afd461465",
+      "content_hash": "80c5e8f6a4c5cb08dabdbde2f058ec27ae787ea5a6dff11613f74b448ab6e169",
       "file": "gustavo-cerati/fantasma.txt"
     },
     {
@@ -1667,7 +1667,7 @@
       "external_id": "18045",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:47.739069+00:00",
-      "content_hash": "105672eaa19a7f854ceeecbba43d46c48c6d799ab6498ffee2507a6cadd08b97",
+      "content_hash": "6d6ecd66d883d0fd48c0fafe3af37613ffbde61b47500adae3eb465923709390",
       "file": "gustavo-cerati/fuerza-natural.txt"
     },
     {
@@ -1678,7 +1678,7 @@
       "external_id": "240292",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:48.795656+00:00",
-      "content_hash": "662bff5186e6a788988b60af76cd056b42016790e3bc136ce9f84b1628dd9662",
+      "content_hash": "12796414078dbbdc10ec9b7f1914e04b0756be6f028d69bae12b5676e8beb501",
       "file": "gustavo-cerati/hablando-de-vos.txt"
     },
     {
@@ -1689,7 +1689,7 @@
       "external_id": "18046",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:51.937019+00:00",
-      "content_hash": "79b5afee1fd3853e9711469a00152cc3f34d5608e7bcb657187c7eeea12f9bbc",
+      "content_hash": "e5c489f7690c7305a91eefff1910d64f7576c10b1bc0182ed876bb77d8f02cd1",
       "file": "gustavo-cerati/he-visto-a-lucy.txt"
     },
     {
@@ -1700,7 +1700,7 @@
       "external_id": "18047",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:53.395151+00:00",
-      "content_hash": "2084dcffe362a6d718f6f5528bcad179cefa6b4da6d9c733418626b404568774",
+      "content_hash": "5f2907aec4de27859907654e791dd6cc3598de9f6b1d89f11b4df3dd0e26c882",
       "file": "gustavo-cerati/hoy-ya-no-soy-yo.txt"
     },
     {
@@ -1711,7 +1711,7 @@
       "external_id": "18048",
       "notation": "0",
       "captured_at": "2026-09-24T17:58:55.297106+00:00",
-      "content_hash": "fc1f7a29ee8df9f6cefaf4046ba1b0cc71b0914a05e48cea6ec1c084202a36fe",
+      "content_hash": "7777788872d2367f9cf1492ece1c9f748afbbbd9b7c79f8a930dbe9c01f4bcd0",
       "file": "gustavo-cerati/jugo-de-luna.txt"
     },
     {
@@ -1733,7 +1733,7 @@
       "external_id": "476014",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:02.725227+00:00",
-      "content_hash": "815f496c9311d271c46bd25fd5c09bc1a2cec8f8b6bf18d2a5fd809dfc9d1fa7",
+      "content_hash": "6ef9a1b3a9cd17e0dac713efc837648a6db3b9743310dc054e82974cca180b2b",
       "file": "gustavo-cerati/la-cuerda-planetaria.txt"
     },
     {
@@ -1744,7 +1744,7 @@
       "external_id": "18050",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:04.356464+00:00",
-      "content_hash": "5a6a1bb4b14a9b7a76d008ca8558e006e5ce7da268f15ef6c8b5cb0fd53ca6a5",
+      "content_hash": "3c6ac46e48c27ee6e3e3533f0366f65848a2bfe9c94c9bfb2b1f474251694117",
       "file": "gustavo-cerati/la-excepcion.txt"
     },
     {
@@ -1766,7 +1766,7 @@
       "external_id": "18051",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:07.869070+00:00",
-      "content_hash": "71d5667cd7d93bf19cc9a703bcd8d674b8dbfe752dde2348891704c9de00a8d3",
+      "content_hash": "fe234ac5883cb7327b49c6ebec2caea3c48b2468487e9e9a60e91ffdff1dabad",
       "file": "gustavo-cerati/lago-en-el-cielo.txt"
     },
     {
@@ -1777,7 +1777,7 @@
       "external_id": "18052",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:11.680816+00:00",
-      "content_hash": "a586605aeabeae09544d5ba1cf968d32db5f8ac92ecee89456adb99b218d1a6d",
+      "content_hash": "83fd404dd458b4d2a99d46cab2cce908d9cccad62b8d95ff61e711b8cb2028dc",
       "file": "gustavo-cerati/lisa.txt"
     },
     {
@@ -1821,7 +1821,7 @@
       "external_id": "18056",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:19.139060+00:00",
-      "content_hash": "2ff83d2f908bf142b730f12771d6075d0617fab5154028e9391d28d3d7254d0a",
+      "content_hash": "8611018de5876e8eb71d92e77c9cd54d0738f4969c07c2dbd919969fb9c79ab7",
       "file": "gustavo-cerati/me-quedo-aqui.txt"
     },
     {
@@ -1832,7 +1832,7 @@
       "external_id": "18057",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:21.439424+00:00",
-      "content_hash": "1d747480f67e59ae9bbc2a5f210b1f632cbab9a4b2dbdd5d2f5a734e12685daa",
+      "content_hash": "4653df9cc393a20d9cf5b9d36537d5ed70240ce6b93de602aebcf607ea4c4195",
       "file": "gustavo-cerati/meditar-ser-tu-propio-altar.txt"
     },
     {
@@ -1854,7 +1854,7 @@
       "external_id": "18059",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:26.421606+00:00",
-      "content_hash": "f3d582ce34fc1dc228477ec760296f0e65b9656c8dea743c83c9f6357e973592",
+      "content_hash": "78d43da5aa4177b91e5728df629353a41444574d0031ce494326b82df428baca",
       "file": "gustavo-cerati/naci-para-esto.txt"
     },
     {
@@ -1865,7 +1865,7 @@
       "external_id": "18060",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:28.261837+00:00",
-      "content_hash": "6b7a7d3e408aeebdfb5818d0762da4be8cb5cbc7ace4647f3e86cbecdf32f99a",
+      "content_hash": "8fd15bc196aa23a58546e431f3353da814fd885ea3aa7f8449a1638cab927990",
       "file": "gustavo-cerati/naturaleza-muerta.txt"
     },
     {
@@ -1887,7 +1887,7 @@
       "external_id": "18062",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:33.184841+00:00",
-      "content_hash": "4fd5ad4392ad3d75a1760bc0cee582cae1ddb55a0ed67a7930f0e4b3fa24b678",
+      "content_hash": "515429c0ecc4162434545c43184ac07acb25e5e13e35853c9c129b9cd25d6a4b",
       "file": "gustavo-cerati/numeral.txt"
     },
     {
@@ -1898,7 +1898,7 @@
       "external_id": "18063",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:34.573577+00:00",
-      "content_hash": "559f27443281d6164cc4e9ad2d4c4b3bf0c5bebbc2f393899b2d0f7e79c32aaa",
+      "content_hash": "90b642793eab511865b6261a91b5e6a00c2e10ad0f152d16ac801978f76ef2b3",
       "file": "gustavo-cerati/oscura-intencion.txt"
     },
     {
@@ -1909,7 +1909,7 @@
       "external_id": "18064",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:36.257925+00:00",
-      "content_hash": "b20912e7d38abdf6087c444a61d6540494e6ed07290d4dc529c3af681987940a",
+      "content_hash": "05f5bd1922f19c6903851afd64a54823a5b7f1aeaada4192bd7435a8091a6615",
       "file": "gustavo-cerati/otra-piel.txt"
     },
     {
@@ -1920,7 +1920,7 @@
       "external_id": "18065",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:38.177649+00:00",
-      "content_hash": "e70f64635ed22fbb627509ff775fe88b1150c6e9353f6f3d89f772f7f0ebc508",
+      "content_hash": "fb068178728906b6906eec53f4b353a75ff3151920da3c932e6cbd11837f2ce7",
       "file": "gustavo-cerati/paseo-inmoral.txt"
     },
     {
@@ -1931,7 +1931,7 @@
       "external_id": "18066",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:40.363890+00:00",
-      "content_hash": "26b960542e07692339bd9f7221a2ff74fc7d493f1b9d436590b7e8e41cb411a3",
+      "content_hash": "004dd7974962a1a8e27b7956a5700f1412dba878a309684d41a8072f600a7931",
       "file": "gustavo-cerati/perdonar-es-divino.txt"
     },
     {
@@ -1942,7 +1942,7 @@
       "external_id": "18067",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:44.288594+00:00",
-      "content_hash": "16e6ad74ef4d401af3a9ea8472b41d70e74fa54030298511f75aa34475f6dc5f",
+      "content_hash": "e770dd8f0c19e38216dd5e2d83bb30091866b92f543cdb72650d0c2b9d67b1b3",
       "file": "gustavo-cerati/planta.txt"
     },
     {
@@ -1953,7 +1953,7 @@
       "external_id": "18068",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:45.356086+00:00",
-      "content_hash": "812f6ab6775df2c27664eeec64872f1a5a922f371162f94bb9fce522fd09ede6",
+      "content_hash": "a33a6e7afdf6fade1fc7c7203db38384b53911745169a480640f8ae74e9bd399",
       "file": "gustavo-cerati/profugos.txt"
     },
     {
@@ -1964,7 +1964,7 @@
       "external_id": "453862",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:47.697677+00:00",
-      "content_hash": "f268ce9845f5514b7c59502ed5c96053fc7d30cef3e1f3f8c38b2d412dc86ef7",
+      "content_hash": "a6e577a952480b3b0d4f20b8abd25bd54586d53ffd6cd390abf5af9ee599282b",
       "file": "gustavo-cerati/pudo-ser.txt"
     },
     {
@@ -1975,7 +1975,7 @@
       "external_id": "18069",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:50.536621+00:00",
-      "content_hash": "bd86e4ca1704e9b98fa772cc8e6ab730a4d4f70f7ec53da929a7dce41aa037bb",
+      "content_hash": "57df60ab2e0808ea9a9016cfb7ce035beb7c51b2f8d540f9192da12fd2f79aac",
       "file": "gustavo-cerati/puente.txt"
     },
     {
@@ -1986,7 +1986,7 @@
       "external_id": "18070",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:52.654282+00:00",
-      "content_hash": "b8c19b073a734964c33e99b86ae7c0ee19c726d5bc8d23bcb1ca017873172999",
+      "content_hash": "dfbf4c975f432311295da0dcac7ea11ccf4526c7ce3a0d24737f169282a278ff",
       "file": "gustavo-cerati/pulsar.txt"
     },
     {
@@ -1997,7 +1997,7 @@
       "external_id": "18071",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:55.170242+00:00",
-      "content_hash": "a286bde6badd56f58b6898f3bf2c83bb24c49f73e455cab32c6cbdb7eaf86f63",
+      "content_hash": "cc5728f32a1de96b6e5f98f7ff36b1fa82f26b98078deb23f0257b15d34be0d2",
       "file": "gustavo-cerati/raiz.txt"
     },
     {
@@ -2008,7 +2008,7 @@
       "external_id": "18072",
       "notation": "0",
       "captured_at": "2026-09-24T17:59:57.190131+00:00",
-      "content_hash": "87d5703575c3b0c4588038f74937f2955a05ebd7e6ee06f836aa4d4fac2813b6",
+      "content_hash": "e7d256020fa0c948aa75abe6ba0d19b46e6db1c22c3944e04d451c8b26d3f2e9",
       "file": "gustavo-cerati/rapto.txt"
     },
     {
@@ -2041,7 +2041,7 @@
       "external_id": "18075",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:05.481074+00:00",
-      "content_hash": "dd076b0c2ccdc759a4c23badfc2cbd1794521a8b05fa39710074fab4e77efbeb",
+      "content_hash": "77eef1d5541655bede5009883d2260da75eaf5c5a83ffb46e15f19e8016d45ed",
       "file": "gustavo-cerati/sal.txt"
     },
     {
@@ -2052,7 +2052,7 @@
       "external_id": "18076",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:07.107840+00:00",
-      "content_hash": "c5039b6b7793b1d709171989ed74257fb22f7dc6f4748d227de2954aa1f27355",
+      "content_hash": "4423e4284674af2f02f5b8e11841ed429f5052ee3a36b97beb71caecf2e32420",
       "file": "gustavo-cerati/senales-luminosas.txt"
     },
     {
@@ -2063,7 +2063,7 @@
       "external_id": "18077",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:08.872403+00:00",
-      "content_hash": "f90b48434be9673882a94672bcf9894c23b9e1b5523fb419449f5b5cccf165fd",
+      "content_hash": "7d4c27287e9e4897c97eb83b502cb1b618d23d196115de4c863e7ec4fe511349",
       "file": "gustavo-cerati/someday-one-day.txt"
     },
     {
@@ -2074,7 +2074,7 @@
       "external_id": "18078",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:10.927150+00:00",
-      "content_hash": "e02c316bae858f64d2e3ce1ce4268e1fa96e50cb27e20c3281e33c6bc8f1673e",
+      "content_hash": "8c9acde91c67f37dd8c803eedb66bee874232c6500e1260a7a2f5b97f7380a75",
       "file": "gustavo-cerati/sudestada.txt"
     },
     {
@@ -2085,7 +2085,7 @@
       "external_id": "18079",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:12.627685+00:00",
-      "content_hash": "84dc526940253d4f2b7f078190f5e42c7fe1cde46bbe192c5bdc9bf141fbe209",
+      "content_hash": "95e268186adb21bc1edad9a56855e04862e85f46fdd5432ab60ad9beff26acbc",
       "file": "gustavo-cerati/sulky.txt"
     },
     {
@@ -2096,7 +2096,7 @@
       "external_id": "18080",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:15.204106+00:00",
-      "content_hash": "3de3e5e4bef9d461d0894ef320be5c257288ce6d5418851e1fb284c93f36141e",
+      "content_hash": "60d13247cc92879cf12e16e00eafe4df57a3042ee22c8c56dc7a518dfbe40152",
       "file": "gustavo-cerati/sweet-sahumerio.txt"
     },
     {
@@ -2107,7 +2107,7 @@
       "external_id": "18081",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:16.987291+00:00",
-      "content_hash": "b4575d1652118dca6c7d320780bbc7889a6667e1f258e0ebf9b202eaa1ebace7",
+      "content_hash": "46d35f23a1b1530567697f13c865e37934d27961d8e0a7cea766479b77e99aee",
       "file": "gustavo-cerati/tabu.txt"
     },
     {
@@ -2118,7 +2118,7 @@
       "external_id": "383481",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:19.134052+00:00",
-      "content_hash": "a5d091bc217d9965bc93396bcda5b91c1cd9981da0ee5ae3ef683d4044ef0c9a",
+      "content_hash": "f800a00f22d1d398d991df8bdf314dd5aefb07e02d0ecaea5d6e35ccf1d88c46",
       "file": "gustavo-cerati/te-llevo-para-que-me-lleves.txt"
     },
     {
@@ -2140,7 +2140,7 @@
       "external_id": "18083",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:23.700438+00:00",
-      "content_hash": "51f797f355a8b41964b70f8a152d98aa4bd780cc8c300f81721d8f83ad01228d",
+      "content_hash": "3f7e0aa92d54f1b3d0d2e945ff5ff61acc582a3cedb6789fc4f719ef567ae405",
       "file": "gustavo-cerati/torre-de-marfil.txt"
     },
     {
@@ -2151,7 +2151,7 @@
       "external_id": "18084",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:25.135155+00:00",
-      "content_hash": "eaffaf16d23023bf1ef1f5c47826428ee52efb993dc63d285b94ac2503a921c6",
+      "content_hash": "75178a4b5b305e29deff9a95e09dc872d124ea5bd930fc17a21e818ca0d1eb5c",
       "file": "gustavo-cerati/traccion-a-sangre.txt"
     },
     {
@@ -2162,7 +2162,7 @@
       "external_id": "18085",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:27.704455+00:00",
-      "content_hash": "61ba3ce8595913c5fef1eb6a0e79e4e92388684fbb29cdd92a5ef42223c59556",
+      "content_hash": "50f139bf293acefad884d00cd52824b47fd179e0337038f0119e1ac4e50d4923",
       "file": "gustavo-cerati/traeme-la-noche.txt"
     },
     {
@@ -2173,7 +2173,7 @@
       "external_id": "18086",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:29.472768+00:00",
-      "content_hash": "0f78d58715c66d31be1767a6e16e3ed64009d70764e1f99d16d5aba55b1fc17d",
+      "content_hash": "f45d728ab59a315a56e7cd5a729b6a83c9036b0e099b96b10f9341ffde6ab032",
       "file": "gustavo-cerati/tu-cicatriz-en-mi.txt"
     },
     {
@@ -2184,7 +2184,7 @@
       "external_id": "18087",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:33.336688+00:00",
-      "content_hash": "1cbbfec1cd8a569e6d5cfe23d7a1df5e214479ed41880ba7e1c17a4b19f9babd",
+      "content_hash": "d91e7ddae632a6f434ee6ea3aeeb5de572d996f370a295edd23eedacfad508ec",
       "file": "gustavo-cerati/tu-locura.txt"
     },
     {
@@ -2195,7 +2195,7 @@
       "external_id": "18088",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:39.735904+00:00",
-      "content_hash": "c225a2d0636835e67b34374d0acd13fdb17628eeec081a3eeef924aef0983498",
+      "content_hash": "710dc91683998a4a42759df8b67c404d6ccb6ecdc6266d29ea30a5658973c405",
       "file": "gustavo-cerati/tu-medicina.txt"
     },
     {
@@ -2206,7 +2206,7 @@
       "external_id": "18089",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:40.422365+00:00",
-      "content_hash": "8e4e8575216d5243059421899805a1a13a035a24a6004a9ac81d0667161cda64",
+      "content_hash": "b133a7a77d910a64f4571d82455686b6f1e09698a33310e3e3807972a23e2875",
       "file": "gustavo-cerati/uno-entre-mil.txt"
     },
     {
@@ -2217,7 +2217,7 @@
       "external_id": "18090",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:46.508168+00:00",
-      "content_hash": "314d1611a9858436c4cf2e5d6140be607b51a2554e5bfdbea235cd198e8f1bb2",
+      "content_hash": "0facdb725ea96fb19ee06af70650c1ec29a2b42430d3e415dbe3fcf633f32b67",
       "file": "gustavo-cerati/verbo-carne.txt"
     },
     {
@@ -2228,7 +2228,7 @@
       "external_id": "18091",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:48.481245+00:00",
-      "content_hash": "4665b8939f372b1cb7339151bf498edbc7186ce0731e9636e9a89a437685911e",
+      "content_hash": "24c33bcff0f4832f45081322c17a39dbccf1f585db811299715e757a50ffeff6",
       "file": "gustavo-cerati/vivo.txt"
     },
     {
@@ -2239,7 +2239,7 @@
       "external_id": "18092",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:50.914321+00:00",
-      "content_hash": "ef2dd397009051f717c1a54b3083dbc96504fdce70ac6f125ad11b049e31c304",
+      "content_hash": "e5e416b75c78c34a8385d23e342304e73f4f729bfb33dd4fceeb4fb59e616d95",
       "file": "gustavo-cerati/vuelta-por-el-universo.txt"
     },
     {
@@ -2250,7 +2250,7 @@
       "external_id": "18093",
       "notation": "0",
       "captured_at": "2026-09-24T18:00:52.935405+00:00",
-      "content_hash": "048cb60ae585868ea14a6a8ae989b9eb2297fd3967280d3e036a04aef83e922c",
+      "content_hash": "5631cd0d1509c069c48e9672fd5bf027bfdba90558216540abbf5c720c4f9fe5",
       "file": "gustavo-cerati/zona-de-promesas.txt"
     }
   ],

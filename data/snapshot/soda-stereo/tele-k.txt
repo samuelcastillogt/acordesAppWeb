@@ -3,15 +3,10 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/tele-k
 ID fuente: 35563
 Capturado: 2026-09-24T17:56:47.988296+00:00
-SHA-256: 5742ac71e94acd947c1784c142d1c391009a078aa94309546ed9c6bb4fba2a5e
-
-Le arregle un par de acordes que estaban mal, la version es de MVV 2007.
-Gente, telekinesis
+SHA-256: 4697abe168dace32b2c458313f1d82ecb4147197c4991ddfac0707100e33965d
 
 INTRO:
 A     C#m   F#m   E    D   F   A#   E
-
-
 
 A     C#m   F#m   E     D            F
 Dejalo ser, dejalo sacudirse bien
@@ -62,6 +57,5 @@ Am           F    G
 No esperes mas de mi (x6)
 Am         B      C     D      A
 No esperes, no esperes mas de mi
-
 
 NOTA: todos los acordes van con cejilla

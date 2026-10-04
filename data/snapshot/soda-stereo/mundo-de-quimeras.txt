@@ -3,11 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/mundo-de-quimeras
 ID fuente: 35536
 Capturado: 2026-09-24T17:55:17.945840+00:00
-SHA-256: eb76db1b100944ff30fba4c80b5ed1ac8fd47df5d90ec2e3218de184ea5790a4
-
-La Version anterior publicada estaba correcta, pero le faltaron unos detalles
-que corregir, asi que aqui va el detalle que falta de este tema que aparece en
-el Maxi titulado ´Languis´.
+SHA-256: eb9f67f203e2a68cdcd989b89e1b5996ecaf888e89ca546592dab1f21a204ec9
 
 INTRO [SOL SOLsus2 SOL SOLsus2   SOLsus2 SOL SOLsus2 SOL SOLsus2 SOLsus4 SOLsus2](x3)
 
@@ -66,7 +62,6 @@ si la suerte ha sido echada
     RE#             RE
 voy a rociarme e incinerarme...
 
-
 A)Prendan hogueras, hogueras negras sin temor,
 prendan hogueras, quimeras sin supersticion...
 
@@ -83,12 +78,7 @@ Prendan hogueras, (calma su lema), mundo de quimeras...
  SOL                                  FA
 Prendan hogueras, (pinta tu aldea), mundo de quimeras...
 
-
 Final:  SOL SOLsus2 SOL SOLsus2
 Notas desconocidas: Sol -----> X 10 12 12 12 10
                     Solsus2 -> X 10 12 12 10 10
                     Solsus4 -> X 10 12 12 13 10
-
-
-Y eso es todo.
-Ojala disfruten el tema....

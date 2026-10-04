@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/amor-sin-rodeos
 ID fuente: 18019
 Capturado: 2026-09-24T17:57:38.712794+00:00
-SHA-256: 8f88ded2fdefded84b80a94e79fe98cb1f94513ed80317a880eb15efb942a5ff
+SHA-256: fa13d67fc0f4819244e2da7a900f947976bf29cd18207e6fb597f6b9b8524d5e
 
 Intro:
 D
@@ -19,9 +19,7 @@ a campo traviesa hacia donde el sol se esconde
         F            G          D
 donde jamás pude ocultar mi corazón.
 
-
 D
-
 
 F         G         D#        D
   Me confesastes un amor sin rodeos
@@ -34,9 +32,7 @@ por mi cabeza ya pidieron recompenza
             F            G          D
 pero no hay precio por robar tu corazón.
 
-
 D
-
 
 Pueblo chico infierno grande
 somos caballos salvajes
@@ -45,9 +41,7 @@ ya desafiamos la ley, ohhoh.
    G         A       C
 En trampa se hizo la ley.
 
-
 D
-
 
 F        G          D#          D
   Por la ruta del jinete enmascarado
@@ -60,7 +54,6 @@ y en alambrados como pentagramas
     F         G           D
 los pájaros tocando tu canción.
 
-
 Pueblo chico infierno grande
 somos caballos salvajes
 G      A         C       D
@@ -68,14 +61,11 @@ ya desafiamos la ley, ohhoh.
    G         A       C    D
 En trampa se hizo la ley.
 
-
 F G D# D    (x3)
-
 
             F            G          D
 Pero no hay precio por robar tu corazón.
        F          G            D
 No hay precio por robar tu corazón.  [x2]
-
 
 D       G A C   D

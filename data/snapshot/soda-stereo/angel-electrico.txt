@@ -3,13 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/angel-electrico
 ID fuente: 35490
 Capturado: 2026-09-24T17:53:13.025171+00:00
-SHA-256: f7e7e46cfd140208fa474050c79cfd49ba788a2e494c54738e302657d95bf5ed
-
-Ángel Eléctrico - Soda Stereo
-
-Por Martin ([email protected])
-Use otras tablaturas para juntar los solos con los acordes
-usados, y corregi algunas cosas
+SHA-256: a3f339ebd477702f75595e659e84c3e55c1213d5877ea7c02d473f7fae15998a
 
 Intro:
 
@@ -74,11 +68,6 @@ Dm                Em
  volví solo y cansado
 F                     G
  por la caída de otro ángel eléctrico
-
-
-
-
-
 
 Solo:
 e-------------------------------------------------------------------------

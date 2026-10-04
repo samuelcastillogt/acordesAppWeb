@@ -3,7 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/dios-nos-libre
 ID fuente: 18039
 Capturado: 2026-09-24T17:58:29.811508+00:00
-SHA-256: 366cbe69145b36ad8df7c0d0d70f40313680fde9eeb7331fa768af53e2e53742
+SHA-256: b2d0ffe376d91d454dd5517099fc9b2f0f976ffddaaaee35573730091916950e
 
 INTRO:  Am - A9 - Fmaj7/C (x8)
 
@@ -20,7 +20,6 @@ es muy simple, de verdad, como lo que hiciste
 
 Am - A9 - Fmaj7/C (x4)
 
-
 F#m       F        Am          D
 Súbete a los excesos de este amor
 F#m       F        Am          D
@@ -34,7 +33,6 @@ de rogar por más
 
 SOLO SOBRE:
 Am - A9 - Fmaj7/C (x4) G - F (x3) C - D
-
 
 Y cuando sientas la necesidad (necesidad)
 merodeando zonas de placer
@@ -57,7 +55,6 @@ dios nos libre...
 
 FINAL:   G - F (x3) C - D
 *repite varias veces desvaneciendo*
-
 
 ACORDES:
 

@@ -3,9 +3,7 @@ Artista: gustavo-cerati
 Fuente: https://acordesweb.com/cancion/gustavo-cerati/planta
 ID fuente: 18067
 Capturado: 2026-09-24T17:59:44.288594+00:00
-SHA-256: 16e6ad74ef4d401af3a9ea8472b41d70e74fa54030298511f75aa34475f6dc5f
-
-Planta (Gustavo Cerati/Zeta Bosio)
+SHA-256: e770dd8f0c19e38216dd5e2d83bb30091866b92f543cdb72650d0c2b9d67b1b3
 
 (Linea de Bajo)
 (E      G           C      A)
@@ -38,7 +36,3 @@ A E           F#
 Me resisto a empujarte a otro juego de azar
 en el aire reverbera el ansia de mi voz
 Mi voz vegetal vegetal Amor vegetal
-
-
-Espero que les sirva... cualquier consulta alago o queja
- o reproche a [email protected] Saludosª

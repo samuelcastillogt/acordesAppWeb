@@ -3,11 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/en-la-ciudad-de-la-furia
 ID fuente: 273807
 Capturado: 2026-09-24T17:54:25.716911+00:00
-SHA-256: 9f94842821324710aed6d98ccf70b9ecb736a13e3f6d1ff43a21c18b2cd7a099
+SHA-256: 7213c60426fd848d1cebb98d680359da357f88b5bc71ff051c129c1d646a8bb1
 
-Letra y acordes de En la ciudad de la furia
-
-(Letra y música de Gustavo Cerati)
 Intro
 DOadd9 SOL/SI LA/DO# LA/MI LA/DO#
 MIm7 SOL LA MIm7 SOL LA SOL LA   SOL LA

@@ -3,9 +3,8 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/te-para-tres-live
 ID fuente: 391877
 Capturado: 2026-09-24T17:56:40.591505+00:00
-SHA-256: 9254ece4a99b94c015b2b137d7487251fd4ed4bb657bd898336d029b5bb77d7a
+SHA-256: d8b0c9aca39c3b4f187656628138376cb7a2c625766cc0d6b394a89fb2570440
 
-Transcrito por: Carlos Ramirez
 Afinacion: EADGBe
 
 VERSO:
@@ -27,9 +26,7 @@ A|-----2---------------0---------------2--------------------------|
 E|-----3-------------------------------0--------------------------|
    un poco de miel un poco de miel  no basta
 
-
 verso..
-
 
 CORO:
             D   Em  D   Em  G   A7

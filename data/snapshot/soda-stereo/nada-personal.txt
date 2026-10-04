@@ -3,7 +3,7 @@ Artista: soda-stereo
 Fuente: https://acordesweb.com/cancion/soda-stereo/nada-personal
 ID fuente: 35537
 Capturado: 2026-09-24T17:55:26.801035+00:00
-SHA-256: 18e15927cafcd04d4392782c170c5ec6eeaecd924e552759e16d26b523fe3a60
+SHA-256: 9b2f37f002715a00056ada426aa63deb8a599a0b97c16221c95e27e911fb77a3
 
 E                   Bsus7
 Comunicación sin emoción.
@@ -19,7 +19,6 @@ Nada, nada personal.
 D#m   E
 Nada, nada personal.
 
-
 Ella no puede pensar, está aburrida
 de tanto simular, cayó dormida.
 Busco en TV algun mensaje entre líneas
@@ -32,7 +31,3 @@ nada especial.
 Sinceramente, sería tan bueno tocarte
 pero es inútil, tu cuerpo es de látex
 y no siento nada.
-
-====================================================
-Copiado de El Galpon del Rock Nacional
-(http://192.216.191.221/SiliconValley/Heights/5530/)
