@@ -76,3 +76,11 @@ automatico. Los diagramas de las 12 transposiciones se resuelven en el servidor.
 
 Cada pagina enlaza a ChordWeaver con parametros UTM y los acordes de la cancion
 (`?chords=Bm,G,D,A`). La URL se configura con `NEXT_PUBLIC_CHORDWEAVER_URL`.
+
+## Analitica y Search Console
+
+- `NEXT_PUBLIC_GA_MEASUREMENT_ID` activa Google Analytics 4: vistas de pagina y el
+  evento `chordweaver_click` en cada enlace a ChordWeaver (con `placement`, la
+  cancion de `utm_content`). Puede ser el mismo ID de ChordWeaver o uno propio.
+- `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` agrega la etiqueta de verificacion de
+  Search Console. El sitemap esta en `/sitemap.xml`.

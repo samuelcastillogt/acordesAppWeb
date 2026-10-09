@@ -1,7 +1,10 @@
 import type { Metadata, Viewport } from "next";
 import { Manrope, Newsreader, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
+import { Analytics } from "@/components/Analytics";
 import { SITE_NAME, SITE_URL } from "@/lib/seo";
+
+const googleSiteVerification = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 const manrope = Manrope({ subsets: ["latin"], variable: "--font-ui", display: "swap" });
 const newsreader = Newsreader({ subsets: ["latin"], variable: "--font-display", display: "swap" });
@@ -28,6 +31,7 @@ export const metadata: Metadata = {
     url: SITE_URL,
     images: [{ url: "/studio-catalog.png", width: 1680, height: 945, alt: "" }],
   },
+  verification: googleSiteVerification ? { google: googleSiteVerification } : undefined,
 };
 
 export const viewport: Viewport = {
@@ -39,7 +43,10 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="es" className={`${manrope.variable} ${newsreader.variable} ${plexMono.variable}`}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
