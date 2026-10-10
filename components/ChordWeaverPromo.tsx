@@ -8,12 +8,14 @@ export function ChordWeaverPromo({
   chords,
   title = "¿Qué acorde puede seguir?",
   description = "ChordWeaver te muestra en un mapa armónico qué acordes conectan con el que estás tocando. Arma tu propia progresión, escúchala y expórtala como tablatura.",
+  cta = "Abrir ChordWeaver",
 }: {
   placement: string;
   song?: string;
   chords?: string[];
   title?: string;
   description?: string;
+  cta?: string;
 }) {
   return (
     <aside className="chordweaver-promo" aria-label="ChordWeaver">
@@ -24,7 +26,7 @@ export function ChordWeaverPromo({
         <p>{description}</p>
       </div>
       <a className="primary-button" href={chordWeaverHref({ placement, song, chords })}>
-        <span>Abrir ChordWeaver</span>
+        <span>{cta}</span>
         <ArrowUpRight aria-hidden="true" />
       </a>
     </aside>

@@ -27,6 +27,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.8,
     },
     {
+      url: `${SITE_URL}/retiro-de-contenido`,
+      lastModified: now,
+      changeFrequency: "yearly",
+      priority: 0.2,
+    },
+    {
       url: `${SITE_URL}/blog`,
       lastModified: posts[0] ? new Date(posts[0].updatedAt) : now,
       changeFrequency: "weekly",

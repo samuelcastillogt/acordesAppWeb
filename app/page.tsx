@@ -55,7 +55,7 @@ export default async function HomePage({ searchParams }: PageProps) {
               {query ? `Canciones que coinciden con “${query}”` : "Elige una canción"}
             </h2>
             <p className="section-copy">
-              Cada canción incluye letra y acordes o tablatura. Toca cualquier acorde para ver el
+              Cada canción incluye sus acordes por sección o su tablatura (sin letras). Toca cualquier acorde para ver el
               diagrama y usa el transpositor para cambiar el tono.
             </p>
             <SongList works={visibleWorks} />

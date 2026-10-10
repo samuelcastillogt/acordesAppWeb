@@ -10,11 +10,20 @@ const INSTRUCTION_RE =
   /\b(afinaci[oó]n|capo|cejilla|tono|transportar|varias veces|arpegio|rasgueo|x\d+)\b/i;
 
 export function SheetReader({ content }: { content: string }) {
-  const lines = classifyLines(content);
+  const lines = withoutLyrics(classifyLines(content));
   const chords = uniqueChords(lines);
   const chordBook = buildChordBook(chords);
 
   return <InteractiveSheet lines={lines} chords={chords} chordBook={chordBook} />;
+}
+
+/**
+ * The site shows chords, sections and tabs only: song lyrics belong to their authors and are
+ * not published. Lyric lines are dropped and runs of blank lines collapse to one.
+ */
+export function withoutLyrics(lines: InteractiveSheetLine[]): InteractiveSheetLine[] {
+  const kept = lines.filter((line) => line.type !== "lyric");
+  return kept.filter((line, index) => line.type !== "blank" || (index > 0 && kept[index - 1].type !== "blank"));
 }
 
 /** Chord symbols in order of first appearance. */

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChordWeaverPromo } from "@/components/ChordWeaverPromo";
+import { chordWeaverHref } from "@/lib/chordweaver";
 import { SheetReader, classifyLines, uniqueChords } from "@/components/SheetReader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
@@ -32,7 +33,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const versionSuffix = song.versionOrder > 0 && song.versionLabel ? ` (${song.versionLabel})` : "";
   const description = truncateDescription(
-    `Acordes de ${song.title}${versionSuffix} de ${song.artistName}: letra con acordes, tablatura y diagramas de guitarra. Transpórtala al tono que necesites.`,
+    `Acordes de ${song.title}${versionSuffix} de ${song.artistName}: acordes por sección, tablatura y diagramas de guitarra. Transpórtala y descubre por qué suena así.`,
   );
 
   return {
@@ -114,6 +115,11 @@ export default async function SongPage({ params }: PageProps) {
               Toca cualquier acorde para ver cómo se pone en la guitarra. Si no te queda cómodo el
               tono, usa el transpositor.
             </p>
+            {progression.length >= 2 ? (
+              <a className="primary-button why-button" href={chordWeaverHref({ placement: "song-hero", song: `${song.artist_slug}/${song.slug}`, chords: progression })}>
+                ¿Por qué suena así?
+              </a>
+            ) : null}
           </header>
 
           {versions.length > 1 ? (
@@ -132,14 +138,19 @@ export default async function SongPage({ params }: PageProps) {
           ) : null}
 
           <SheetReader content={sheet} />
+          <p className="lyrics-note">
+            Mostramos solo los acordes y la estructura: la letra pertenece a sus autores. ¿Eres titular
+            de derechos? <Link href="/retiro-de-contenido">Solicita el retiro</Link>.
+          </p>
         </article>
 
         <ChordWeaverPromo
           placement="song"
           song={`${song.artist_slug}/${song.slug}`}
           chords={progression}
-          title={`Explora la armonía de ${song.title}`}
-          description="Lleva estos acordes a ChordWeaver: mira en el mapa armónico qué otros acordes conectan con ellos, escucha la progresión y arma tu propia versión."
+          title={`¿Por qué suena así ${song.title}?`}
+          description="ChordWeaver analiza estos acordes: la tonalidad, la función de cada uno y dónde está la tensión. Escúchalos y prueba qué otros acordes funcionan en su lugar."
+          cta="¿Por qué suena así?"
         />
       </main>
       <SiteFooter />

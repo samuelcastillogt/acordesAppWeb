@@ -84,3 +84,11 @@ Cada pagina enlaza a ChordWeaver con parametros UTM y los acordes de la cancion
   cancion de `utm_content`). Puede ser el mismo ID de ChordWeaver o uno propio.
 - `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` agrega la etiqueta de verificacion de
   Search Console. El sitemap esta en `/sitemap.xml`.
+
+## Letras y derechos
+
+El sitio muestra solo acordes, secciones y tablaturas: `withoutLyrics()` en
+`components/SheetReader.tsx` descarta las lineas de letra al mostrar cada cancion.
+Los TXT de `data/snapshot/` conservan la transcripcion original (con su hash), pero
+la letra no se publica. Las solicitudes de retiro llegan por `/retiro-de-contenido`
+(`NEXT_PUBLIC_CONTACT_EMAIL`, o un issue de GitHub si esta vacio).

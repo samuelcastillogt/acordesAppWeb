@@ -16,7 +16,7 @@ export async function ArtistPage({ artistSlug }: { artistSlug: string }) {
           <p className="eyebrow">Artista</p>
           <h1 id="artist-title">Acordes de {artistName}</h1>
           <p className="section-copy">
-            {works.length} canciones con letra, acordes y tablatura. Algunas tienen varias
+            {works.length} canciones con acordes y tablatura. Algunas tienen varias
             transcripciones: estudio, en vivo, unplugged o solos.
           </p>
           <SongList works={works} showArtist={false} />

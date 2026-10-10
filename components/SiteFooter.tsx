@@ -8,8 +8,8 @@ export function SiteFooter() {
       <div>
         <strong>Universo Soda/Cerati</strong>
         <p>
-          Transcripciones hechas por la comunidad de guitarristas y publicadas con permiso.
-          Los diagramas de acordes usan datos de chords-db (MIT).
+          Acordes y análisis armónico para aprender. No publicamos letras: pertenecen a sus
+          autores. Los diagramas de acordes usan datos de chords-db (MIT).
         </p>
       </div>
       <nav aria-label="Pie de página">
@@ -17,6 +17,7 @@ export function SiteFooter() {
         <Link href="/gustavo-cerati">Gustavo Cerati</Link>
         <Link href="/blog">Blog</Link>
         <a href={chordWeaverHref({ placement: "footer" })}>ChordWeaver</a>
+        <Link href="/retiro-de-contenido">Retiro de contenido</Link>
       </nav>
     </footer>
   );
