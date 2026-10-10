@@ -169,7 +169,7 @@ export function InteractiveSheet({
       <div className="reader-toolbar">
         <div>
           <p className="eyebrow">Lector</p>
-          <h2 id="reader-title">Letra y acordes</h2>
+          <h2 id="reader-title">Acordes y estructura</h2>
         </div>
         <div className="reader-controls">
           <div className="control-group" role="group" aria-label="Transponer">
@@ -187,12 +187,12 @@ export function InteractiveSheet({
               </button>
             ) : null}
           </div>
-          <div className="control-group" role="group" aria-label="Tamaño de letra">
-            <span className="control-label">Letra</span>
-            <button type="button" className="control-button" onClick={() => changeFont(-1)} disabled={fontIndex === 0} aria-label="Letra más pequeña">
+          <div className="control-group" role="group" aria-label="Tamaño del texto">
+            <span className="control-label">Tamaño</span>
+            <button type="button" className="control-button" onClick={() => changeFont(-1)} disabled={fontIndex === 0} aria-label="Texto más pequeño">
               <Minus aria-hidden="true" />
             </button>
-            <button type="button" className="control-button" onClick={() => changeFont(1)} disabled={fontIndex === FONT_SCALES.length - 1} aria-label="Letra más grande">
+            <button type="button" className="control-button" onClick={() => changeFont(1)} disabled={fontIndex === FONT_SCALES.length - 1} aria-label="Texto más grande">
               <Plus aria-hidden="true" />
             </button>
           </div>
