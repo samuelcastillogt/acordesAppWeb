@@ -2,10 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChordWeaverPromo } from "@/components/ChordWeaverPromo";
-import { SheetReader, classifyLines, uniqueChords } from "@/components/SheetReader";
+import { HarmonyAnalysis } from "@/components/HarmonyAnalysis";
+import { SheetReader, chordSequence, classifyLines, uniqueChords } from "@/components/SheetReader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { getSong, getSongSheet, getSongVersions, getStaticSongParams } from "@/lib/catalog";
+import { keyLabel, summarizeHarmony } from "@/lib/harmony";
 import { toAmericanSymbol } from "@/lib/notation";
 import { SITE_NAME, absoluteUrl, truncateDescription } from "@/lib/seo";
 
@@ -60,7 +62,9 @@ export default async function SongPage({ params }: PageProps) {
   if (!song || !sheet) notFound();
 
   const versions = await getSongVersions(song.artist_slug, song.workSlug);
-  const progression = uniqueChords(classifyLines(sheet))
+  const lines = classifyLines(sheet);
+  const harmony = summarizeHarmony(chordSequence(lines));
+  const progression = uniqueChords(lines)
     .map((chord) => toAmericanSymbol(chord))
     .filter((chord): chord is string => Boolean(chord))
     .slice(0, 8);
@@ -114,6 +118,13 @@ export default async function SongPage({ params }: PageProps) {
               Toca cualquier acorde para ver cómo se pone en la guitarra. Si no te queda cómodo el
               tono, usa el transpositor.
             </p>
+            {harmony ? (
+              <p className="harmony-teaser">
+                En {keyLabel(harmony.key)}
+                {harmony.loop ? `, sobre el ciclo ${harmony.loop.join(" – ")}` : ""}.{" "}
+                <a href="#analisis">¿Por qué suena así?</a>
+              </p>
+            ) : null}
           </header>
 
           {versions.length > 1 ? (
@@ -132,15 +143,25 @@ export default async function SongPage({ params }: PageProps) {
           ) : null}
 
           <SheetReader content={sheet} />
+
+          {harmony ? (
+            <HarmonyAnalysis
+              title={song.title}
+              song={`${song.artist_slug}/${song.slug}`}
+              summary={harmony}
+            />
+          ) : null}
         </article>
 
-        <ChordWeaverPromo
-          placement="song"
-          song={`${song.artist_slug}/${song.slug}`}
-          chords={progression}
-          title={`Explora la armonía de ${song.title}`}
-          description="Lleva estos acordes a ChordWeaver: mira en el mapa armónico qué otros acordes conectan con ellos, escucha la progresión y arma tu propia versión."
-        />
+        {harmony ? null : (
+          <ChordWeaverPromo
+            placement="song"
+            song={`${song.artist_slug}/${song.slug}`}
+            chords={progression}
+            title={`Explora la armonía de ${song.title}`}
+            description="Lleva estos acordes a ChordWeaver: mira en el mapa armónico qué otros acordes conectan con ellos, escucha la progresión y arma tu propia versión."
+          />
+        )}
       </main>
       <SiteFooter />
     </>

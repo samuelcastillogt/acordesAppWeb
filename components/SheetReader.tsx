@@ -1,7 +1,7 @@
 import { InteractiveSheet } from "@/components/InteractiveSheet";
 import type { InteractiveSheetLine } from "@/lib/chord-types";
 import { buildChordBook, isChordSymbol, tokenizeChordLine } from "@/lib/chords";
-import { cleanChordToken } from "@/lib/notation";
+import { cleanChordToken, toAmericanSymbol } from "@/lib/notation";
 
 const SECTION_RE =
   /^(intro(ducci[oó]n)?|estrofa|verso|coro|chorus|puente|bridge|solo|final|outro|interludio|riff|pre[- ]?coro)\b[\s\d]*[:.]?$/i;
@@ -28,6 +28,16 @@ export function uniqueChords(lines: InteractiveSheetLine[]): string[] {
     }
   }
   return [...seen];
+}
+
+/** Every chord in reading order (repeats included), in American spelling. */
+export function chordSequence(lines: InteractiveSheetLine[]): string[] {
+  return lines.flatMap((line) =>
+    (line.segments ?? [])
+      .filter((segment) => segment.type === "chord")
+      .map((segment) => toAmericanSymbol(cleanChordToken(segment.value)))
+      .filter((symbol): symbol is string => Boolean(symbol)),
+  );
 }
 
 export function classifyLines(content: string): InteractiveSheetLine[] {
